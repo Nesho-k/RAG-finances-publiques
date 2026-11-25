@@ -11,26 +11,26 @@ L'interface Streamlit affiche la réponse, les liens vers les documents ainsi qu
 
 ```
 rag_m1/
-├── requirements.txt          # dépendances Python (versions figées)
-├── .env                      # clé OPENAI_API_KEY (non versionnée)
-├── config/config.yaml        # paramètres : taille des passages, top_k, modèles, mots-clés
+├── requirements.txt             # dépendances Python (versions figées)
+├── .env                         # clé OPENAI_API_KEY (non versionnée)
+├── config/config.yaml           # paramètres : taille des passages, top_k, modèles, mots-clés
 ├── data/
-│   ├── 1_source/             # documents d'origine (html, pdf, doc) + sources_*.json (URL)
-│   ├── 2_raw/                # texte brut extrait (étape A)
-│   ├── 3_clean/              # texte nettoyé (étape B)
-│   ├── corpus_final.json     # métadonnées par document : DOC-xxx, sous-thème, nom de fichier
-│   └── chunks.json           # passages produits par le découpage (étape E)
-├── scripts/                  # préparation des données (téléchargement, extraction, nettoyage)
-├── src/                      # étapes du pipeline RAG
-│   ├── a_chunk.py            # découpage en passages
-│   ├── b_create_embeddings.py# calcul des embeddings
-│   ├── c_build_faiss_index.py# construction de l'index FAISS
-│   ├── e_rag_pipeline.py     # recherche FAISS + génération OpenAI (+ liens vers les sources)
-│   ├── f_evaluate_rag.py     # évaluation RAGAS
-│   └── g_corpus_analytics.py # indicateurs statistiques du corpus et de l'index
-├── artifacts/                # embeddings.npy, documents.json, faiss_index.bin, evaluation_report.json
-├── backend/api_server.py     # API FastAPI : /ask et /analytics/*
-└── frontend/app_streamlit.py # interface Streamlit (mode conversationnel et mode analytique)
+│   ├── 1_source/                # documents d'origine (html, pdf, doc) + sources_*.json (URL)
+│   ├── 2_raw/                   # texte brut extrait (étape A)
+│   ├── 3_clean/                 # texte nettoyé (étape B)
+│   ├── corpus_final.json        # métadonnées par document : DOC-xxx, sous-thème, nom de fichier
+│   └── chunks.json              # passages produits par le découpage (étape E)
+├── scripts/                     # préparation des données (téléchargement, extraction, nettoyage)
+├── src/                         # étapes du pipeline RAG
+│   ├── a_chunk.py               # découpage en passages
+│   ├── b_create_embeddings.py   # calcul des embeddings
+│   ├── c_build_faiss_index.py   # construction de l'index FAISS
+│   ├── e_rag_pipeline.py        # recherche FAISS + génération OpenAI (+ liens vers les sources)
+│   ├── f_evaluate_rag.py        # évaluation RAGAS
+│   └── g_corpus_analytics.py    # indicateurs statistiques du corpus et de l'index
+├── artifacts/                   # embeddings.npy, documents.json, faiss_index.bin, evaluation_report.json
+├── backend/api_server.py        # API FastAPI : /ask et /analytics/*
+└── frontend/app_streamlit.py    # interface Streamlit (mode conversationnel et mode analytique)
 ```
 
 ## Installation
@@ -71,7 +71,7 @@ streamlit run frontend/app_streamlit.py
 
 L'interface s'ouvre sur `http://localhost:8501`. Elle appelle l'API sur `http://localhost:8000` (modifiable avec la variable d'environnement `RAG_API_URL`).
 
-## Reconstruire les données (optionnel)** : 
+## Reconstruire les données (optionnel) : 
 
 **IMPORTANT :** À lancer seulement si les documents sources changent, dans cet ordre :
 
