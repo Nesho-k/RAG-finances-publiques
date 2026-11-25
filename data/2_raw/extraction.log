@@ -1,0 +1,4 @@
+2026-11-20T16:45:05 [fetch] ERREUR https://www.economie.gouv.fr/particuliers/impots-et-fiscalite/gerer-mon-impot-sur-le-revenu/loi-de-finances-2026-ce-qui-change-pour-les-particuliers : HTTP Error 403: Forbidden
+2026-11-20T16:45:18 [fetch] ERREUR https://www.economie.gouv.fr/decryptage-5-minutes-pour-comprendre-la-dette-publique : HTTP Error 403: Forbidden
+2026-11-20T16:45:43 [fetch] ERREUR https://www.securite-sociale.fr/la-secu-cest-quoi/chiffres-cles : <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)>
+2026-11-20T16:46:03 [fetch] ERREUR https://www.education.gouv.fr/adoption-definitive-du-budget-de-l-etat-pour-2026-des-moyens-renforces-pour-l-ecole-469052 : HTTP Error 403: Forbidden

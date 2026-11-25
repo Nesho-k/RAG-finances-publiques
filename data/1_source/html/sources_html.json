@@ -1,0 +1,122 @@
+[
+    {
+        "sous_theme_id": 1,
+        "sous_theme": "Loi de finances",
+        "url": "https://www.vie-publique.fr/fiches/21863-quest-ce-quune-loi-de-finances"
+    },
+    {
+        "sous_theme_id": 1,
+        "sous_theme": "Loi de finances",
+        "url": "https://www.economie.gouv.fr/particuliers/impots-et-fiscalite/gerer-mon-impot-sur-le-revenu/loi-de-finances-2026-ce-qui-change-pour-les-particuliers"
+    },
+    {
+        "sous_theme_id": 2,
+        "sous_theme": "Dette publique",
+        "url": "https://www.economie.gouv.fr/decryptage-5-minutes-pour-comprendre-la-dette-publique"
+    },
+    {
+        "sous_theme_id": 2,
+        "sous_theme": "Dette publique",
+        "url": "https://www.insee.fr/fr/statistiques/9053525"
+    },
+    {
+        "sous_theme_id": 3,
+        "sous_theme": "Recettes fiscales",
+        "url": "https://www.l-expert-comptable.com/a/531577-ce-que-rapportent-les-differents-impots.html"
+    },
+    {
+        "sous_theme_id": 4,
+        "sous_theme": "Niches fiscales",
+        "url": "https://www.legiwatch.fr/lexique/niche-fiscale/"
+    },
+    {
+        "sous_theme_id": 5,
+        "sous_theme": "Cadre juridique (LOLF)",
+        "url": "https://fr.wikipedia.org/wiki/Loi_organique_relative_aux_lois_de_finances"
+    },
+    {
+        "sous_theme_id": 7,
+        "sous_theme": "Fiscalité des entreprises",
+        "url": "https://bpifrance-creation.fr/encyclopedie/fiscalite-lentreprise/generalites/comprendre-fiscalite-entreprises"
+    },
+    {
+        "sous_theme_id": 8,
+        "sous_theme": "Fraude fiscale",
+        "url": "https://www.fipeco.fr/fiche/La-fraude-et-le-contr%C3%B4le-fiscal"
+    },
+    {
+        "sous_theme_id": 9,
+        "sous_theme": "Aides aux entreprises",
+        "url": "https://www.vie-publique.fr/eclairage/289629-aides-publiques-aux-entreprises-etat-des-lieux"
+    },
+    {
+        "sous_theme_id": 10,
+        "sous_theme": "Histoire des finances publiques",
+        "url": "https://fr.wikipedia.org/wiki/Histoire_des_d%C3%A9penses_publiques_fran%C3%A7aises"
+    },
+    {
+        "sous_theme_id": 11,
+        "sous_theme": "Dépenses de l'État par mission",
+        "url": "https://www.budget.gouv.fr/budget-etat/mission"
+    },
+    {
+        "sous_theme_id": 12,
+        "sous_theme": "Financement de la Sécurité sociale",
+        "url": "https://www.securite-sociale.fr/la-secu-cest-quoi/chiffres-cles"
+    },
+    {
+        "sous_theme_id": 13,
+        "sous_theme": "Dépenses de santé",
+        "url": "https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse-infographie-documents-de-reference/261001-les-d%C3%A9penses-de-sant%C3%A9-en-2025-edition-2026-panorama-de-la-drees"
+    },
+    {
+        "sous_theme_id": 13,
+        "sous_theme": "Dépenses de santé",
+        "url": "https://www.insee.fr/fr/statistiques/8612570?sommaire=8612596"
+    },
+    {
+        "sous_theme_id": 14,
+        "sous_theme": "Budget de la défense",
+        "url": "https://www.vie-publique.fr/eclairage/284741-budget-de-la-defense-quelles-etapes-pour-le-porter-5-du-pib"
+    },
+    {
+        "sous_theme_id": 14,
+        "sous_theme": "Budget de la défense",
+        "url": "https://www.defense.gouv.fr/sga/budget-finances/budget"
+    },
+    {
+        "sous_theme_id": 15,
+        "sous_theme": "Budget de l'éducation nationale",
+        "url": "https://www.education.gouv.fr/adoption-definitive-du-budget-de-l-etat-pour-2026-des-moyens-renforces-pour-l-ecole-469052"
+    },
+    {
+        "sous_theme_id": 15,
+        "sous_theme": "Budget de l'éducation nationale",
+        "url": "https://www.studyrama.com/formations/specialites/enseignement/adoption-budget-moyens-renforces-education"
+    },
+    {
+        "sous_theme_id": 16,
+        "sous_theme": "Retraites : financement",
+        "url": "https://major-prepa.com/economie/financement-retraites/"
+    },
+    {
+        "sous_theme_id": 17,
+        "sous_theme": "Régimes spéciaux de retraite",
+        "url": "https://www.prefon.fr/guide-de-la-retraite/les-caisses-des-regimes-speciaux.html"
+    },
+    {
+        "sous_theme_id": 18,
+        "sous_theme": "Salaires des fonctionnaires",
+        "url": "https://www.fipeco.fr/fiche/Les-salaires-publics"
+    },
+    {
+        "sous_theme_id": 18,
+        "sous_theme": "Salaires des fonctionnaires",
+        "url": "https://fr.wikipedia.org/wiki/R%C3%A9mun%C3%A9ration_dans_les_institutions_fran%C3%A7aises#Gouvernement"
+    },
+    {
+        "sous_theme_id": 19,
+        "sous_theme": "Effectifs de la fonction publique",
+        "url": "https://www.vie-publique.fr/en-bref/302083-fonction-publique-hausse-des-effectifs-en-2024"
+    }
+]

@@ -1,0 +1,32 @@
+# Étape A : extraction brute
+pdfplumber==0.11.10
+python-docx==1.2.0
+beautifulsoup4==4.15.0
+lxml==6.1.3
+
+# Étape E : chunking (lecture de config/config.yaml)
+pyyaml==6.0.3
+
+# Étapes F à H : embeddings, index FAISS et pipeline RAG
+sentence-transformers==6.3.0
+faiss-cpu==1.16.0
+openai==1.109.1
+python-dotenv==1.2.4
+numpy==2.5.5
+
+# Analyse du corpus (g_corpus_analytics.py) et tableaux de bord
+pandas==3.1.1
+plotly==7.1.0
+requests==2.34.2
+
+# Étape F : évaluation RAGAS
+ragas==0.4.4
+langchain-openai==1.1.9
+
+# Backend API (FastAPI)
+fastapi==0.165.0
+uvicorn==0.54.0
+pydantic==2.14.4
+
+# Frontend (Streamlit)
+streamlit==1.67.0

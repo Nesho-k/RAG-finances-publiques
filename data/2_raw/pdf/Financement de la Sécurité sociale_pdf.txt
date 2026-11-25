@@ -1,0 +1,221 @@
+1
+FIPECO le 18.02.2025
+Les notes d’analyse VIII) Assurances sociales et redistribution
+5) Quel financement pour la sécurité sociale ?
+François ECALLE
+Les ordonnances d’octobre 1945 qui ont créé la sécurité sociale auront bientôt 80 ans et il est
+temps de revoir son financement. Dans son rapport d’octobre 2022 sur la sécurité sociale, la
+Cour des comptes observait en effet qu’elle avait connu depuis sa création « des transformations
+de grande ampleur qui se sont accompagnées d’une complexification et d’une instabilité
+croissante de ses circuits de financement. Ses comptes ont perdu, de ce fait, en clarté et en
+cohérence ». Le débat actuel sur le « vrai déficit » des régimes de retraite en est une nouvelle
+illustration. La Cour soulignait « l’intérêt d’une révision en profondeur de la structure des
+recettes de ses différentes branches ». Après une analyse de la situation actuelle, cette note
+présente des pistes de réforme.
+Au-delà de la sécurité sociale au sens strict, qui fait l’objet de cette note, se pose la question du
+financement de l’assurance chômage, aujourd’hui partagé entre cotisations et impôt dans un
+modèle qui mêle de plus en plus assurance et solidarité.
+A) Le constat
+1) L’évolution de régimes d’assurance financés par des cotisations sociales
+vers des régimes universels financés par des impôts affectés par l’Etat
+En 1945, la sécurité sociale a été conçue en France sur un modèle essentiellement
+« bismarckien » d’assurance. Les prestations étaient financées par des cotisations sociales dont
+elles dépendaient fortement, au moins dans la mesure où le paiement de cotisations était une
+condition nécessaire pour en bénéficier. Dans un tel modèle, les gestionnaires des régimes
+doivent équilibrer les prestations et les cotisations et, si un déficit apparaît, augmenter le taux
+des cotisations ou réaliser des économies sur les prestations. Le solde comptable des régimes a
+une signification claire.
+L’assurance maladie a ensuite été étendue à tous les résidents (la couverture maladie universelle
+résulte d’une loi de 1999), et les allocations familiales ont été modulées selon les revenus (loi
+de financement de la sécurité sociale pour 2015) dans une logique de solidarité
+« beveridgienne ». Le financement de l’assurance maladie a été en partie adapté avec la création
+et le développement de la CSG en substitution des cotisations sociales salariales, mais pas
+totalement puisque les cotisations sociales patronales ont été maintenues. Le financement des
+prestations familiales a été partiellement réformé mais repose encore largement sur des
+cotisations sociales des employeurs.
+Le lien entre cotisations et prestations a également été distendu du fait des allégements de
+cotisations sur les bas salaires, ceux-ci n’entraînant pas une diminution des prestations dues aux
+assurés.
+2
+Enfin, de multiples dispositions ont introduit des éléments de solidarité dans tous les régimes :
+revenus de remplacement minima, majoration des prestations en fonction de la situation
+familiale, de l’existence de handicaps….
+Des clarifications partielles ont été opérées avec, par exemple, la création du fonds de solidarité
+vieillesse (FSV) qui a permis d’isoler certaines des prestations de retraite relevant d’une logique
+de solidarité (validations de trimestres au titre des périodes de chômage par exemple) et de les
+financer par l’impôt (la CSG principalement). En outre, le financement des allocations de
+logement a été transféré de la sécurité sociale à l’État.
+La sécurité sociale a ainsi évolué vers un modèle beveridgien, où les prestations doivent en
+principe être financées par l’impôt et par l’État, ce qui est le cas au Royaume-Uni et dans les
+pays scandinaves. Dans le système français actuel, les éléments d’assurance et de solidarité sont
+toutefois mêlés, souvent indistinctement, et l’équilibre des comptes de la sécurité sociale
+dépend fortement des taxes affectées et du partage des dépenses de solidarité entre les régimes
+sociaux et l’État (voire les collectivités locales). Les comptes de ses différentes branches
+dépendent en outre de la répartition des impôts affectés entre elles.
+En 2023, la part des cotisations sociales dans le financement de la sécurité sociale n’est plus
+que de 48 % (contre 90 % à la fin des années 1980) hors cotisations de l’État employeur. Les
+autres recettes comprennent notamment la CSG (20 % du total), la TVA (8 %) et d’autres impôts
+et taxes affectés (8 %) comme les taxes sur les tabacs, alcools et assurances.
+2) Des transferts de ressources importants, instables et illisibles qui limitent
+beaucoup la signification des comptes sociaux
+En annexe I figure un schéma de l’usine à gaz budgétaire constituée par les canaux d’affectation
+des impôts à la sécurité sociale (la Cour des comptes en a recensé 40) tels qu’ils apparaissent
+en annexe au projet de loi de financement de la sécurité sociale pour 2023. Ce schéma pourrait
+finir par être compris s’il ne changeait pas tous les ans dans des conditions et pour des motifs
+que seuls quelques initiés des directions du budget et de la sécurité sociale peuvent comprendre.
+Les modifications apportées au fil des années à ces circuits de financement ont toutefois
+généralement des justifications, la principale étant de s’adapter à l’évolution des exonérations
+de cotisations sociales décidées par l’État. Une loi de 1994 a en effet posé le principe d’une
+compensation intégrale de ces exonérations par l’État aux régimes de sécurité sociale.
+Le champ de cette compensation a été progressivement étendu, des exonérations au sens strict
+vers les réductions de cotisations et les abattements d’assiette. Ses modalités ont surtout
+fortement varié au cours du temps. La compensation a pris la forme de crédits budgétaires de
+l’État, d’affectation d’impôts ou de transferts de dépenses de la sécurité sociale à l’État. Elle a
+pu correspondre à une compensation à l’euro près, calculée ex ante ou ex post et tenant parfois
+compte du surplus de recettes résultant pour la sécurité sociale des créations d’emplois induites
+par ces exonérations ou encore à l’affectation d’un impôt ou d’une fraction d’un impôt « pour
+solde de tout compte » (cf. rapport de 2018 du Haut Conseil du financement de la protection
+sociale). La plupart de ces modifications ont impacté le solde des comptes de la sécurité sociale.
+En se limitant aux douze dernières années, le coût du pacte de responsabilité et de solidarité de
+2014 (allègements de cotisations patronales) a été surtout compensé par la prise en charge par
+3
+le budget de l’État de certaines aides au logement. Le produit de la CSG a ensuite fortement
+augmenté en 2018, en partie en contrepartie de la baisse du taux des cotisations salariales, et sa
+répartition entre affectataires a été profondément modifiée. La hausse du produit de la CSG
+pour la sécurité sociale en 2018 a conduit l’Etat à réduire la part de la TVA affectée à la CNAM.
+L’ACOSS s’est vu affecter une fraction de la TVA pour compenser l’Unedic à l’euro près de
+la perte de ses cotisations salariales. Une partie du produit des prélèvements sociaux sur les
+revenus du capital et le produit du prélèvement de solidarité de 2 % ont été transférés à l’Etat.
+Une illustration de cette instabilité est également donnée par le graphique de l’annexe II qui
+montre l’évolution dans le temps de la répartition du produit de la taxe sur les salaires (17 Md€
+en 2023) entre les différentes branches de la sécurité sociale.
+B) Les propositions d’orientation
+Les orientations proposées ci-dessous ne peuvent être mises en œuvre que très progressivement
+car elles auraient des effets redistributifs et macroéconomiques importants et pas toujours bien
+identifiés qu’il faut lisser dans le temps, mais elles donnent un objectif à long terme dont il ne
+faudrait pas trop s’éloigner.
+1) Une distinction nécessaire entre assurance et solidarité
+La protection sociale recouvre deux types de prestations : les premières, dans une logique
+d’assurance, remplacent des revenus d’activité qui ne peuvent plus être perçus (pensions de
+retraite…) ou constituent des remboursements de charges (famille, santé…) au profit des seuls
+assurés ; les deuxièmes, dans une logique de solidarité, permettent à tous les citoyens, ou
+seulement aux plus modestes, d’accéder à des services en fonction de leurs besoins ou de
+disposer de revenus minimaux, indépendamment des cotisations et des impôts qu’ils ont payés.
+Aujourd’hui en France, les pensions de retraite et les indemnités d’accidents du travail relèvent
+de la première catégorie ; les dépenses d’assurance maladie (hors indemnités journalières), les
+prestations familiales et les allocations de logement relèvent de la deuxième.
+Dans une logique d’assurance, dite également « contributive », les prestations doivent être
+financées par des prélèvements sur les revenus d’activités qu’elles remplacent, ce qui est la
+caractéristique principale des cotisations sociales. Dans une logique de solidarité, ou « non
+contributive », les prestations doivent être financées par des prélèvements sur l’ensemble des
+revenus, comme la CSG, ou payés par l’ensemble des ménages, comme la TVA, ce qui
+caractérise les « impositions de toutes natures » prévues par la Constitution.
+Par ailleurs, les régimes de retraite fonctionnent en France par répartition, ce qui signifie que
+les pensions versées aux retraités d’aujourd’hui doivent être financées par les cotisations des
+actifs d’aujourd’hui. En contrepartie, ces actifs doivent être assurés de recevoir à leur retraite
+une pension en rapport avec leurs cotisations. L’équilibre des régimes par répartition est brouillé
+et le « lien social » qu’ils créent entre les générations est distendu si une part importante mais
+mal identifiée des prestations n’a pas de lien avec les cotisations car elle relève de la solidarité.
+Le débat actuel sur le « vrai déficit des régimes de retraite » illustre ces difficultés.
+2) Financer les dépenses relevant de la solidarité par l’impôt
+Les prestations sociales relevant d’une logique de solidarité, quel que soit le régime, devraient
+être financées par l’impôt et donc par l’État dans le cadre des lois de finances. Cela concerne
+les prestations familiales, dans la continuité du transfert des allocations de logement, les
+4
+dépenses d’assurance maladie (hors indemnités journalières, celles-ci étant une fonction des
+salaires) et celles de la nouvelle branche autonomie.
+Les cotisations sociales affectées aux branches famille, maladie et autonomie de l’ensemble des
+régimes, qui sont désormais seulement patronales, devraient donc être remplacées par des
+impôts dont la nature devrait correspondre aux taxes sur les produits dont la consommation nuit
+à la santé (tabacs et alcools), à la CSG et à la TVA. L’impôt sur le revenu est également
+envisageable si une plus forte redistribution semble souhaitable. Les autres taxes affectées
+aujourd’hui à ces branches devraient être conservées par l’État. Le taux de TVA serait majoré
+pour compenser la perte des cotisations sociales patronales aujourd’hui affectée à ces branches
+dans une logique de « TVA sociale » (cf. note sur ce sujet).
+Cette réforme pourrait se faire progressivement en relevant le seuil des allègements de
+cotisations patronales sur les bas salaires (jusqu’à 3 SMIC, 5 SMIC…), ce qui limiterait les
+effets de trappe à bas salaire, et en remplaçant les cotisations manquantes par des impôts dans
+les ressources des branches concernées de la sécurité sociale.
+En régime permanant, le montant des impôts affectés à chacune de ces trois branches devrait
+être fixé par la loi de financement de la sécurité sociale puis ajusté en cours d’exercice de sorte
+que les recettes de ces branches soient égales aux objectifs de dépenses fixées dans la loi de
+programmation pluriannuelle des finances publiques. En conséquence, leur déficit comptable
+traduirait un écart entre les dépenses constatées et les dépenses prévues par cette loi de
+programmation. Ce serait cohérent avec le recentrage de ces lois de programmation et des règles
+budgétaires européennes sur des objectifs de dépenses.
+Dans un deuxième temps, ces impôts pourraient être conservés par l’État et ces branches
+pourraient être financées par des dotations budgétaires égales aux objectifs de dépenses des lois
+de programmation.
+3) Réserver les cotisations sociales au financement des régimes d’assurance
+L’assurance vieillesse et le régime des accidents du travail et maladies professionnels, qui serait
+étendu aux indemnités journalières d’assurance maladie, devraient être financés par des
+cotisations sociales et par le forfait social. En effet celui-ci est certes juridiquement un impôt
+mais il est économiquement équivalent à des cotisations sociales1.
+Le solde de la branche retraite permettrait alors de vérifier que le principe de base d’un régime
+par répartition – le montant total des pensions est égal au montant total des cotisations – est
+respecté. S’il ne l’était pas, un ajustement des cotisations ou des prestations serait nécessaire.
+Cette appréciation de l’équilibre des régimes devrait tenir compte de l’impact des fluctuations
+de l’activité économique sur les cotisations et donc porter plutôt sur leur solde structurel.
+4) Distinguer la composante solidaire des pensions dans la comptabilité des
+caisses de retraite
+Les pensions de la plupart des retraités ont une composante qui relève de la solidarité :
+majorations en fonction du nombre d’enfants, pension minimale, part de la pension
+1 Le forfait social est un impôt dû par l’employeur et prélevé au taux forfaitaire de 20 % sur les éléments de
+rémunération exonérés de cotisations sociales comme la participation aux résultats de l’entreprise ou les primes
+d’intéressement.
+5
+correspondant à des trimestres validés alors qu’il n’y a pas eu de cotisation (chômage…),
+pension versée avant l’âge minimal en raison de l’exercice de métiers pénibles, etc.
+Le financement de ces éléments de solidarité des pensions devrait être assuré par l’impôt, ce
+qui est pour partie le cas actuellement par l’intermédiaire du fonds de solidarité vieillesse.
+Pour bien distinguer ces deux composantes des pensions, la comptabilité de la caisse nationale
+d’assurance vieillesse devrait comporter deux sections : la première enregistrerait les pensions
+versée à partir de l’âge minimal et résultant d’une liquidation sur la base de 50 % du salaire
+moyen des 25 meilleures années avec proratisation selon le nombre de trimestres cotisés, en
+dépenses, ainsi que les cotisations, en recettes ; la deuxième enregistrerait les pensions versées
+avant l’âge minimal de droit commun et les majorations résultant d’une logique de solidarité,
+en dépenses, ainsi que les impôts affectés, en recettes. Les comptes des autres caisses de retraite
+pourraient être aménagés dans le même esprit en tenant compte de leurs spécificités (pension
+liquidée sur la base du salaire hors primes des six derniers mois pour la fonction publique).
+Ces impôts affectés devraient être limités à la CSG et à la TVA. Comme pour les branches
+maladie, famille et autonomie, le montant affecté à la section de solidarité de la caisse
+d’assurance vieillesse devrait être fixé en loi de financement et ajusté en cours d’exercice pour
+que les recettes de cette section soient égales à son objectif de dépenses en euros. Le déficit de
+la section correspondrait ainsi à l’écart entre les dépenses effectives et cet objectif.
+Les retraités recevraient un seul versement mensuel de la part de la caisse nationale d’assurance
+vieillesse mais leur bulletin de pension ferait apparaître les deux composantes de leur retraite,
+celle qui résulte de leurs cotisations et celle qui résulte de la solidarité nationale.
+C) Conclusion
+La sécurité sociale reposait en 1945 sur un modèle bismarckien, où les prestations dépendent
+des cotisations et où celles-ci doivent équilibrer les prestations. Elle a évolué vers un modèle
+beveridgien où, dans une logique de solidarité, les prestations dépendent des besoins (maladie)
+et peuvent être modulées selon les revenus (allocations familiales). Dans un tel modèle, les
+prestations devraient être financées par l’impôt et par l’État.
+Aujourd’hui, les dispositifs d’assurance et de solidarité sont souvent indistinctement mêlés. Le
+solde des comptes de la sécurité sociale et de chacune de ses branches dépend du partage des
+impôts affectés entre l’État et ces branches. Or ce partage est devenu financièrement
+déterminant (les cotisations ne constituent désormais plus que 48 % des recettes de la sécurité
+sociale), incompréhensible et très instable. Le solde des comptes de la sécurité sociale et de ses
+différentes branches, comme par symétrie celui de l’État, n’a plus guère de signification et seul
+le solde du compte des administrations publiques dans leur ensemble en a une.
+Les remboursements d’assurance maladie, les prestations familiales et celles de la branche
+autonomie relèvent de la solidarité et devraient être financés par des impôts : la CSG, la TVA
+et les taxes sur les produits nocifs à la santé (ou des transferts de l’État eux-mêmes financés par
+des impôts). Le montant des impôts affectés à ces branches devrait être fixé de sorte que leurs
+recettes totales soient égales aux objectifs de dépenses qui leur sont assignés par la loi de
+programmation des finances publiques. Leur déficit comptable correspondrait à l’écart entre
+leurs dépenses effectives et ces objectifs de dépenses.
+6
+Les pensions de retraite, les indemnités journalières pour maladie et les indemnités d’accidents
+du travail relèvent d’une logique assurantielle et devraient être financées par des cotisations
+sociales. Prestations et cotisations devraient être strictement équilibrées. Les éléments de
+solidarité des pensions (majorations en fonction du nombre d’enfants…) devraient toutefois
+être isolés dans une section spéciale de la comptabilité des caisses de retraite (au-delà de ce qui
+est déjà fait avec le fonds de solidarité vieillesse) et être financés par l’impôt (CSG et TVA)
+comme les branches relevant d’une logique de solidarité.
+ANNEXE 1 : les impôts affectés à la sécurité sociale
+Source : rapport annexé au projet de loi de financement de la sécurité sociale pour 2023.
+7
+ANNEXE 2 : la répartition de la taxe sur les salaires entre les branches de la sécurité
+sociale (en % de son produit)
+Source : rapport de 2022 de la Cour des comptes sur la sécurité sociale

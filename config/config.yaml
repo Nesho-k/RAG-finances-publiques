@@ -1,0 +1,46 @@
+# Paramètres du projet NeuroLex RAG. Tout paramètre modifiable est ici.
+
+# Découpage (étape E)
+chunk_cible: 400            # taille cible d'un passage, en caractères
+recouvrement_phrase_max: 100  # au-delà, la phrase reprise en recouvrement est coupée à 100 caractères
+
+# Abréviations après lesquelles le point ne termine pas une phrase
+abbreviations:
+  - "M."
+  - "MM."
+  - "Mme"
+  - "Mmes"
+  - "Mlle"
+  - "Dr"
+  - "art."
+  - "fig."
+  - "p."
+  - "ex."
+  - "cf."
+  - "av."
+  - "bd."
+  - "etc."
+  - "env."
+
+# Vectorisation et recherche (étapes F à H)
+modele_embeddings: intfloat/multilingual-e5-base
+top_k: 5
+
+# Génération (étape H)
+modele_openai: gpt-4o-mini
+temperature_llm: 0.0   # valeur réellement utilisée par e_rag_pipeline.py
+
+# Mots-clés pour l'analyse de fréquence (étape K), à compléter
+mots_cles_theme:
+  - budget
+  - déficit
+  - dette
+  - recettes
+  - dépenses
+  - loi de finances
+  - impôt
+  - fiscalité
+  - retraite
+  - fonction publique
+  - sécurité sociale
+  - LOLF

@@ -1,0 +1,368 @@
+Vu:
+
+– le traité sur le fonctionnement de l’Union européenne, et notamment son article 314, lu en combinaison avec le traité instituant la Communauté européenne de l’énergie atomique, et notamment son article 106 bis,
+– la décision (UE, Euratom) 2020/2053 du Conseil du 14 décembre 2020 relative au système des ressources propres de l’Union européenne1, entrée en vigueur le 1er juin 2021,
+‒ le règlement (UE, Euratom) 2024/2509 du Parlement européen et du Conseil du 23 septembre 2024 relatif aux règles financières applicables au budget général de l’Union (refonte)2, et notamment son article 44,
+‒ le budget général de l’Union européenne pour l’exercice 2026, adopté le 26 novembre 20253,
+– le budget rectificatif nº 1/2026, adopté le 7 juillet 20264,
+– le budget rectificatif nº 2/2026, adopté le 15 septembre 20265,
+– le règlement (UE, Euratom) 2020/2092 du Parlement européen et du Conseil du 16 décembre 2020 relatif à un régime général de conditionnalité pour la protection du budget de l’Union (ci-après le «règlement relatif à la conditionnalité»)6, et notamment son article 7, paragraphe 3,
+– le règlement (UE, Euratom) 2020/2093 du Conseil du 17 décembre 2020 fixant le cadre financier pluriannuel pour les années 2021 à 20277, et notamment son article 6,
+– la proposition de décision d’exécution du Conseil conformément à l’article 7, paragraphe 2, du règlement relatif à la conditionnalité du 23 septembre 20268,
+
+la Commission européenne présente ci-après au Parlement européen et au Conseil le projet de budget rectificatif nº 3 au budget 2026.
+
+MODIFICATIONS À L’ÉTAT DES RECETTES ET DES DÉPENSES PAR SECTION
+
+Les modifications apportées à l’état général des recettes et en particulier à la section III sont disponibles sur EUR-Lex (https://eur-lex.europa.eu/budget/www/index-fr.htm).
+
+1 Décision (UE, Euratom) 2020/2053 du Conseil du 14 décembre 2020 relative au système des ressources propres de l’Union européenne et abrogeant la décision 2014/335/UE, Euratom (JO L 424 du 15.12.2020, p. 1, ELI: http://data.europa.eu/eli/dec/2020/2053/oj).
+
+2 JO L, 2024/2509, 26.9.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj.
+
+3 JO L, 2026/72, 26.2.2026, ELI: http://data.europa.eu/eli/budget/2026/72/oj.
+
+4 JO L, 2026/1855, 3.9.2026, ELI: http://data.europa.eu/eli/budget_suppl_amend/2026/1855/oj.
+
+5 COM(2026) 460 du 9.6.2026.
+
+6 JO L 433 I du 22.12.2020, p. 1, ELI: http://data.europa.eu/eli/reg/2020/2092/oj.
+
+7 JO L 433 I du 22.12.2020, p. 11, ELI: http://data.europa.eu/eli/reg/2020/2093/oj.
+
+8 COM(2026) 516 du 23.9.2026.
+
+EXPOSÉ DES MOTIFS
+
+1. INTRODUCTION
+
+Le projet de budget rectificatif (PBR) nº 3 pour l’exercice 2026 met à jour tant le volet des recettes que le volet des dépenses du budget.
+
+En ce qui concerne le volet des dépenses, le PBR nº 3/2026 comprend les éléments spécifiques suivants:
+
+– un renforcement des crédits de paiement de 4,2 milliards d’EUR, dont 2 milliards d’EUR pour le Fonds européen de développement régional (FEDER), 2 milliards d’EUR pour le Fonds social européen plus (FSE+) et 0,2 milliard d’EUR pour le Fonds européen agricole pour le développement rural (Feader);
+
+– une réintroduction dans le budget des engagements budgétaires au titre de trois programmes opérationnels hongrois relevant de la politique de cohésion qui sont toujours suspendus en vertu d’une mesure établie par la décision d’exécution (UE) 2022/2506 du Conseil du 15 décembre 2022 relative à des mesures de protection du budget de l’Union contre les violations des principes de l’état de droit en Hongrie, sous réserve de la levée de cette mesure par le Conseil, comme proposé par la Commission dans sa proposition de décision d’exécution du Conseil conformément à l’article 7, paragraphe 2, du règlement relatif à la conditionnalité;
+
+– une actualisation des besoins relatifs aux accords de partenariat dans le domaine de la pêche durable (APPD), compte tenu du fait que plusieurs accords et les protocoles y afférents ne seront pas conclus en 2026, ainsi que des besoins des organisations régionales de gestion des pêches, étant donné que la contribution de l’UE pour 2026 aux budgets respectifs de ces organisations est finalisée;
+
+– un renforcement des crédits d’engagement et de paiement pour le Fonds européen agricole de garantie (FEAGA) afin d’assurer le remboursement en temps opportun des dépenses aux États membres;
+
+– un renforcement des mesures d’urgence relevant du volet concernant la chaîne alimentaire du programme en faveur du marché unique, afin de cofinancer les mesures mises en œuvre par les États membres à la suite de l’apparition de foyers de maladies animales, dont l’influenza aviaire hautement pathogène et la peste porcine africaine;
+
+– une restitution d’un montant provenant de la réserve à la ligne opérationnelle du Fonds «Asile, migration et intégration» (FAMI), en raison de l’adoption tardive du règlement relatif au retour des ressortissants de pays tiers;
+
+– un ajustement de la contribution de l’UE à plusieurs organismes décentralisés lié à l’exécution ou à d’autres raisons spécifiques, comme suit:
+
+– une restitution de crédits d’engagement et de paiement au programme LIFE par l’Agence européenne des produits chimiques (ECHA). Compte tenu des retards dans la mise en œuvre du paquet «Une substance, une évaluation», l’Agence n’aura pas besoin des crédits correspondants;
+
+– une restitution de crédits d’engagement et de paiement au programme «L’UE pour la santé» (EU4Health) par l’Agence européenne des médicaments (EMA), en raison de la réduction des besoins liés à la mise en œuvre par l’Agence du règlement sur les médicaments critiques;
+
+– une restitution de crédits d’engagement et de paiement au programme «Douane» par l’Autorité douanière de l’Union européenne (EUCA), en raison de retards dans la mise en place de l’Agence;
+
+– une augmentation des crédits d’engagement et de paiement pour l’Agence de l’Union européenne pour les chemins de fer (AFE) et un ajustement de son tableau des effectifs à la suite de l’adoption du règlement sur l’utilisation des capacités de l’infrastructure ferroviaire dans l’espace ferroviaire unique européen.
+
+Globalement, l’incidence nette du présent PBR sur les dépenses correspond à une augmentation de 2 180 millions d’EUR en crédits d’engagement et de 4 162 millions d’EUR en crédits de paiement.
+
+En ce qui concerne le volet des recettes, le présent PBR comprend des montants supplémentaires de 4 765 millions d’EUR correspondant aux amendes et astreintes définitives payées jusqu’au 30 septembre 2026 et de 1 100 millions d’EUR correspondant à l’excédent de RPT estimé. L’incidence globale sur le volet des recettes est donc une diminution des contributions RNB de 1 703 millions d’EUR.
+
+2. MISE A JOUR DES DEPENSES
+
+2.1 Augmentation des besoins en crédits de paiement pour la cohésion et le développement rural
+
+Le «virement global» est un exercice annuel organisé au sein de la Commission, pour lequel l’ensemble des directions générales et des services sont invités à examiner, au début du mois de septembre, leur exécution respective des paiements du budget en cours jusqu’à la fin de l’exercice concerné. Il vise à déterminer les besoins exacts et à garantir une exécution maximale du budget, en termes de crédits de paiement, à la fin de l’exercice en recourant à la sous-exécution attendue pour répondre aux besoins supplémentaires. Il en résulte une demande de virement au titre de l’article 31 du règlement financier, qui est présentée chaque année au Parlement européen et au Conseil.
+
+Le «virement global» a révélé que le budget voté restant et les recettes affectées disponibles ne suffiraient pas pour couvrir jusqu’à la fin de l’exercice les besoins estimés en crédits de paiement pour le Fonds européen de développement régional (FEDER), le Fonds social européen plus (FSE+) et le Fonds européen agricole pour le développement rural (Feader). Par conséquent, la Commission propose de renforcer ces programmes comme indiqué ci-après.
+
+• FEDER et FSE+
+
+L’arriéré de demandes de paiement pour la cohésion à la fin de 2025 s’élevait à 18 milliards d’EUR.
+
+Dans l’attente d’informations complémentaires sur les besoins définitifs pour 2026, le budget rectificatif nº 2/2026 prévoyait déjà un renforcement des crédits de paiement destinés à la politique de cohésion à hauteur de 5,36 milliards d’EUR.
+
+Il est manifeste que la mise en œuvre sur le terrain s’accélère: des projets couvrant 74 % de l’enveloppe de la politique de cohésion ont déjà été sélectionnés par les autorités responsables des programmes, contre 50 % à la même période l’année dernière. Les dernières prévisions des États membres, présentées en juillet 2026, mettent également en lumière la nécessité d’un renforcement supplémentaire. Le renforcement proposé de 4 milliards d’EUR en faveur de la cohésion vise à réduire l’arriéré à la fin de 2026 par rapport au niveau de fin 2025, ce qui atténuera également la pression sur le budget 2027.
+
+• Feader
+
+Au début de cette année, les États membres avaient déjà révisé à la hausse leurs prévisions pour 2026 en ce qui concerne les plans stratégiques relevant de la PAC 2023-2027 au titre du Fonds européen agricole pour le développement rural (Feader), pour lesquels le budget rectificatif nº 2/2026 prévoyait une première augmentation des crédits de paiement de 2,2 milliards d’EUR. Cette tendance est confirmée par les dernières prévisions des États membres concernant les interventions en faveur du développement rural dans le cadre des plans stratégiques relevant de la PAC présentés en août 2026: une pénurie de crédits de 435 millions d’EUR est constatée, dont 229 millions d’EUR sont inscrits dans le virement global et le montant restant de 206 millions d’EUR est demandé dans le présent projet de budget rectificatif.
+
+L’augmentation des crédits de paiement demandée dans le présent PBR nº 3/2026 est exposée en détail ci-dessous:
+
+Section III — Commission
+05 02 01 FEDER — Dépenses opérationnelles 0 2 000 000 000
+07 02 01 Volet de gestion partagée du FSE+ — Dépenses opérationnelles 0 2 000 000 000
+08 03 01 01 Types d’interventions en faveur du développement rural dans le cadre des plans stratégiques relevant de la PAC 0 206 005 299
+Total 0 4 206 005 299
+
+2.2 Réintroduction des engagements suspendus concernant la Hongrie
+
+Le 15 décembre 2022, à la suite d’une proposition de la Commission, le Conseil a adopté une décision d’exécution au titre du règlement relatif à la conditionnalité9 afin de suspendre 55 % des engagements budgétaires alloués à la Hongrie au titre du programme opérationnel pour l’efficacité environnementale et énergétique Plus, du programme opérationnel pour les transports intégrés Plus et du programme opérationnel pour le développement territorial et l’implantation Plus10.
+
+Conformément à l’article 7, paragraphe 2, du règlement relatif à la conditionnalité, la Hongrie a transmis à la Commission, le 9 septembre 2026, une notification écrite demandant la levée des mesures adoptées par la décision d’exécution du Conseil de 2022. Le 23 septembre 2026, la Commission a adopté sa proposition au Conseil11, dans laquelle elle constatait que la Hongrie avait répondu de manière adéquate aux préoccupations ayant donné lieu à l’adoption de mesures de protection et recommandait donc de lever ces mesures.
+
+Conformément à l’article 7, paragraphe 3, du règlement relatif à la conditionnalité, lorsque les mesures concernant la suspension des engagements sont levées, les montants correspondant aux engagements suspendus sont inscrits au budget de l’Union, sous réserve de l’article 6 du règlement CFP. En outre, selon le même article, les engagements suspendus de l’exercice n ne peuvent pas être inscrits au budget au-delà de l’exercice n + 2. En conséquence, les engagements suspendus pour les années 2022 et 2023 ont déjà été définitivement annulés.
+
+Si le Conseil décide à présent (sur la base de la proposition de la Commission) que la suspension des engagements doit être levée, les engagements au titre des programmes de la politique de cohésion ayant été suspendus pour les années 2024 et 2025 devront être réintégrés dans le budget. Immédiatement après la décision du Conseil, la Commission adoptera un ajustement technique du cadre financier pluriannuel pour relever les plafonds du CFP, afin de permettre les réintégrations susmentionnées.
+
+Sur cette base, il est proposé, dans le présent projet de budget rectificatif, de réintégrer dans le budget 2026 les montants suspendus pour 2024 et 2025, à condition que le Conseil adopte sa décision de lever la mesure de suspension, et ce dans un délai qui permettra encore au Parlement européen et au Conseil d’adopter ce budget rectificatif avant la fin de l’année.
+
+L’incidence globale sur les dépenses (sous réserve de ce qui précède) est par conséquent la suivante:
+
+Section III — Commission
+05 02 01 FEDER — Dépenses opérationnelles 1 581 014 834 0
+05 03 01 Fonds de cohésion (FC) — Dépenses opérationnelles 493 160 347 0
+07 02 01 Volet de gestion partagée du FSE+ — Dépenses opérationnelles 105 527 341 0
+09 03 01 Fonds pour une transition juste (FTJ) — Dépenses opérationnelles 21 462 250 0
+Total 2 201 164 772 0
+
+9 Règlement (UE, Euratom) 2020/2092 du Parlement européen et du Conseil du 16 décembre 2020 relatif à un régime général de conditionnalité pour la protection du budget de l’Union, JO L 433 I du 22.12.2020, p. 1.
+
+10 Décision d’exécution (UE) 2022/2506 du Conseil du 15 décembre 2022 relative à des mesures de protection du budget de l’Union contre les violations des principes de l’état de droit en Hongrie, JO L 325 du 20.12.2022, p. 94.
+
+11 COM(2026) 516 du 23.9.2026.
+
+2.3 Actualisation des accords de partenariat dans le domaine de la pêche durable et organisations régionales de gestion des pêches
+
+La Commission a examiné les informations les plus récentes disponibles concernant les accords de partenariat dans le domaine de la pêche durable (APPD) ainsi que les besoins attendus pour 2026 sur la base de l’évolution des négociations avec les pays tiers concernés. Au regard de cet examen, la Commission ne s’attend pas à ce que les protocoles avec le Gabon, la Mauritanie et le Maroc soient signés en 2026 comme prévu initialement. En conséquence, les besoins en 2026 seront réduits de 107,7 millions d’EUR en crédits d’engagement et de 82,9 millions d’EUR en crédits de paiement.
+
+Dans le même temps, un excédent de 0,8 million d’EUR en crédits d’engagement et de 0,2 million d’EUR en crédits de paiement a été constaté sur la ligne budgétaire des organisations régionales de gestion des pêches. Cet excédent s’explique par des besoins inférieurs aux prévisions initiales, à la suite de l’adoption des budgets 2026 par les organisations régionales de gestion des pêches concernées.
+
+Le résultat net augmente la marge pour les engagements sous le plafond de la rubrique 3 de 108,4 millions d’EUR. L’incidence globale sur les dépenses est par conséquent la suivante:
+
+Section III — Commission
+30 02 02 Crédits dissociés (Réserve pour l’article 08 05 01) -107 682 600 -82 882 600
+08 05 02 Promouvoir le développement durable pour la gestion des pêches et la gouvernance maritime, dans le respect des objectifs de la politique commune de la pêche (PCP) (contributions obligatoires aux organes internationaux) -755 016 -169 238
+Total -108 437 616 -83 051 838
+
+2.4 Fonds européen agricole de garantie
+
+Les prévisions des États membres concernant les dépenses du FEAGA jusqu’à la fin de l’exercice indiquent un niveau très élevé d’exécution des fonds actuellement disponibles. Les estimations révisées montrent que les dépenses relatives au marché, en particulier dans le secteur des fruits et légumes, seront plus élevées que le montant inscrit au budget. Dans le même temps, sur la base d’une analyse détaillée des montants résiduels dus par État membre ainsi que des possibilités de compensation, un montant total plus faible de recettes affectées devrait être perçu en 2026. La pénurie de crédits qui en résulte est partiellement compensée par une révision à la baisse des estimations relatives aux paiements directs et aux corrections financières en faveur des États membres, à la suite d’arrêts favorables; un écart net de 40 millions d’EUR subsiste toutefois.
+
+Afin d’éviter le risque d’une insuffisance des crédits et de garantir le remboursement en temps opportun des dépenses du FEAGA aux États membres, un renforcement de 40 millions d’EUR est demandé à partir de la marge sous le sous-plafond du FEAGA dans la rubrique 3.
+
+L’incidence globale sur les dépenses est par conséquent la suivante:
+
+Section III — Commission
+08 02 02 01 Secteur des fruits et légumes 40 000 000 40 000 000
+Total 40 000 000 40 000 000
+
+2.5 Renforcement du volet concernant la chaîne alimentaire du programme en faveur du marché unique
+
+Le volet concernant la chaîne alimentaire du programme en faveur du marché unique soutient les mesures d’urgence prises par les États membres en cas d’apparition de foyers de maladies animales.
+
+L’Union est confrontée à une pression soutenue et sans précédent due à l’apparition de foyers majeurs de maladies animales, notamment l’influenza aviaire hautement pathogène, la peste porcine africaine, la clavelée et la variole caprine, la fièvre aphteuse et la dermatose nodulaire contagieuse. Au cours de la période 2021-2026, le nombre de foyers d’influenza aviaire hautement pathogène a été multiplié par six par rapport au précédent CFP 2014-2020, et le nombre de foyers de peste porcine africaine a presque doublé. La Commission soutient les mesures d’urgence essentielles nécessaires pour enrayer ces foyers et limiter leurs incidences sanitaires, économiques et commerciales, au moyen de remboursements a posteriori. Ces mesures limitent le risque de propagation et d’augmentation des coûts à un stade ultérieur, ce qui aurait des conséquences importantes sur le fonctionnement du marché unique, les échanges avec les pays tiers et même la santé humaine.
+
+Depuis 2021, un montant de 482 millions d’EUR a déjà été mobilisé à cette fin au titre du programme en faveur du marché unique. Toutefois, la forte augmentation de la fréquence et de l’ampleur de ces foyers, ainsi que des coûts qu’ils engendrent, a largement dépassé les ressources disponibles au titre du volet concernant la chaîne alimentaire. En conséquence, les taux de cofinancement ont déjà dû être réduits de 50-75 % par le passé à 20-30 % pour les apparitions de foyers à partir de 2023. Malgré ces réductions, les obligations restant à couvrir pour les conventions de subvention signées et à venir sont estimées à environ 430 millions d’EUR, alors que seul un montant de quelque 305 millions d’EUR de crédits est actuellement disponible en 2026 et 2027. Si les foyers de 2024 peuvent être couverts par les disponibilités existantes, un montant supplémentaire de 125 millions d’EUR en crédits d’engagement est nécessaire en 2026 et 2027 pour couvrir les remboursements liés aux foyers apparus en 2025.
+
+Des crédits supplémentaires sont donc nécessaires de toute urgence pour permettre à l’Union de lancer le processus de conclusion des conventions de subvention concernant les foyers de maladies animales apparus en 2025, ainsi que pour soutenir la capacité de réaction d’urgence des États membres. Il est proposé de prévoir un renforcement de 47 millions d’EUR dans le présent projet de budget rectificatif, en utilisant pleinement la marge restante sous le plafond des dépenses de la rubrique 1. Il est proposé de financer le montant restant de 78 millions d’EUR au moyen d’un renforcement dans la lettre rectificative nº 1/2027. Étant donné que les conventions de subvention seront signées progressivement et que la plupart des paiements destinés au cofinancement seront exécutés en 2027, aucun crédit de paiement supplémentaire n’est demandé en 2026.
+
+L’incidence globale sur les dépenses est par conséquent la suivante:
+
+Section III — Commission
+03 02 06 Contribuer à un niveau élevé de santé humaine, animale et végétale 47 006 803 0
+Total 47 006 803 0
+
+2.6 Restitution d’une réserve – Dépenses d’appui pour le Fonds «Asile, migration et intégration»
+
+Dans le budget 2026, un montant de 900 000 EUR en crédits d’engagement et de paiement a été placé en réserve en faveur du Fonds «Asile, migration et intégration» (FAMI), afin de financer le recrutement de cinq agents contractuels dès l’adoption du règlement relatif au retour des ressortissants de pays tiers12. En raison de l’adoption tardive du règlement, il est à présent proposé que ces crédits soient transférés vers la ligne opérationnelle du FAMI, ce qui renforcera le mécanisme thématique.
+
+L’incidence globale sur les dépenses est par conséquent la suivante:
+
+Section III — Commission
+10 02 01 Fonds «Asile, migration et intégration» (FAMI) 900 000 900 000
+30 01 01 Réserve administrative (Réserve pour l’article 10 01 01) -900 000 -900 000
+Total 0 0
+
+2.7 Ajustements supplémentaires concernant les organismes décentralisés
+
+2.7.1 Restitution de crédits inutilisés par l’Agence européenne des produits chimiques (ECHA)
+
+En raison de retards et de contraintes ayant une incidence sur le calendrier de mise en œuvre du paquet législatif «Une substance, une évaluation»13 et de la législation révisée sur l’eau14, l’ECHA n’a pas été en mesure de mener les activités prévues en 2026. Une partie des crédits initialement prévus pour 2026, d’un montant de 4,1 millions d’EUR, ne sera donc plus nécessaire à l’ECHA.
+
+La Commission propose par conséquent de restituer au programme LIFE les crédits encore disponibles sur la ligne budgétaire relative à la contribution de l’UE à l’ECHA, pour un montant de 2,4 millions d’EUR. Il est proposé de recouvrer le montant restant de 1,7 million d’EUR (qui a déjà été versé à l’Agence) en tant que recettes affectées internes. Il est prévu de reporter ce dernier montant au budget de l’Agence pour 2027, afin de couvrir en partie l’augmentation des besoins en matière de dépenses informatiques à la suite de la révision du calendrier d’exécution.
+
+L’incidence globale sur les dépenses est par conséquent la suivante:
+
+Section III — Commission
+09 10 01 Agence européenne des produits chimiques — Directives environnementales et conventions internationales -2 426 722 -2 426 722
+09 02 01 Nature et biodiversité 0 2 426 722
+09 02 02 Économie circulaire et qualité de vie 2 426 722 0
+Total 0 0
+
+12 Proposition de règlement du Parlement européen et du Conseil établissant un système commun en matière de retour des ressortissants de pays tiers en séjour irrégulier dans l’Union, et abrogeant la directive 2008/115/CE du Parlement européen et du Conseil, la directive 2001/40/CE du Conseil et la décision 2004/191/CE du Conseil.
+
+13 Règlement (UE) 2025/2457 du Parlement européen et du Conseil du 26 novembre 2025 modifiant les règlements (CE) nº 178/2002, (CE) nº 401/2009, (UE) 2017/745 et (UE) 2019/1021 en ce qui concerne la réattribution de tâches scientifiques et techniques et améliorant la coopération entre les agences de l’Union dans le domaine des produits chimiques (JO L, 2025/2457, 12.12.2025, ELI: http://data.europa.eu/eli/reg/2025/2457/oj).
+
+14 Directive (UE) 2026/805 du Parlement européen et du Conseil du 30 mars 2026 modifiant la directive 2000/60/CE établissant un cadre pour une politique communautaire dans le domaine de l’eau, la directive 2006/118/CE sur la protection des eaux souterraines contre la pollution et la détérioration et la directive 2008/105/CE établissant des normes de qualité environnementale dans le domaine de l’eau (JO L, 2026/805, 20.4.2026, ELI: http://data.europa.eu/eli/dir/2026/805/oj).
+
+2.7.2 Restitution d’une réserve – Agence européenne des médicaments (EMA)
+
+Dans le budget 2026, un montant de 651 000 EUR en crédits d’engagement et de paiement a été placé en réserve pour permettre à l’EMA d’exécuter des tâches au titre du règlement sur les médicaments critiques15. À la suite de la révision de la proposition de règlement sur les médicaments critiques en mai 2026, et en raison du retard pris dans l’adoption de la proposition, les besoins de l’EMA ont été réduits à 100 000 EUR. Par conséquent, il est proposé de restituer au programme «L’UE pour la santé» (EU4Health) un montant de 551 000 EUR provenant de la réserve.
+
+L’incidence globale sur les dépenses est par conséquent la suivante:
+
+Section III — Commission
+30 02 02 Crédits dissociés (Réserve pour le poste 06 10 03 01) -551 000 -551 000
+06 06 01 Programme «L’UE pour la santé» (EU4Health) 551 000 551 000
+Total 0 0
+
+2.7.3 Restitution d’une réserve – Autorité douanière de l’Union européenne (EUCA)
+
+Dans le budget 2026, un montant de 928 000 EUR en crédits d’engagement et de paiement a été placé en réserve pour le démarrage de l’EUCA. Toutefois, à la suite de retards dans la mise en place de l’organisme décentralisé, les besoins de l’EUCA ont été réduits de 98 000 EUR en crédits d’engagement et de 581 000 EUR en crédits de paiement. Par conséquent, il est proposé de restituer au programme «Douane» un montant de 98 000 EUR en crédits d’engagement provenant de la réserve, tandis que les crédits de paiement sont reversés au budget.
+
+L’incidence globale sur les dépenses est par conséquent la suivante:
+
+Section III — Commission
+30 02 02 Crédits dissociés (Réserve pour l’article 03 10 06) -98 000 -581 000
+03 05 01 Coopération dans le domaine douanier (Douane) 98 000 0
+Total 0 -581 000
+
+2.7.4 Transfert du MIE-Transports à l’Agence de l’Union européenne pour les chemins de fer (AFE)
+
+Un renforcement, à hauteur de 400 000 EUR en crédits d’engagement et de paiement, de la contribution de l’UE à l’Agence de l’Union européenne pour les chemins de fer est proposé, à la suite de l’adoption du règlement sur l’utilisation des capacités de l’infrastructure ferroviaire dans l’espace ferroviaire unique européen16. Il est proposé de financer ce renforcement par un redéploiement à partir de l’enveloppe budgétaire existante du volet «Transports» du mécanisme pour l’interconnexion en Europe (MIE).
+
+L’incidence globale sur les dépenses est par conséquent la suivante:
+
+Section III — Commission
+02 03 01 Mécanisme pour l’interconnexion en Europe (MIE) — Transports -400 000 -400 000
+02 10 03 Agence de l'Union européenne pour les chemins de fer (ERA) 400 000 400 000
+Total 0 0
+
+15 Proposition de règlement du Parlement européen et du Conseil établissant un cadre visant à renforcer la disponibilité et la sécurité de l’approvisionnement en médicaments critiques ainsi que la disponibilité et l’accessibilité des médicaments d’intérêt commun, et modifiant le règlement (UE) 2024/795.
+
+16 JO L, 2026/1184, 10.6.2026, ELI: http://data.europa.eu/eli/reg/2026/1184/oj.
+
+L’adoption des nouvelles tâches nécessite également deux emplois supplémentaires relevant du tableau des effectifs et deux agents contractuels en 2026. Le tableau des effectifs actualisé figure dans l’annexe budgétaire.
+
+2.7.5 Adaptation du tableau des effectifs de l’Agence européenne pour la sécurité maritime
+
+La Commission propose un tableau des effectifs actualisé pour l’AESM (transformation d’un emploi AST 9 en un emploi AD 6, sans incidence budgétaire). Cela découle d’une demande de l’agence à la suite du départ à la retraite d’un(e) collègue AST et d’une évaluation interne de la charge de travail.
+
+Le tableau des effectifs actualisé figure dans l’annexe budgétaire.
+
+3. MISE A JOUR DES RECETTES
+
+Le PBR nº 3/2026 propose d’intégrer dans le budget 2026 un montant de 6 065 millions d’EUR en amendes et astreintes définitives payées jusqu’en octobre 2026 (soit une augmentation de 4 765 millions d’EUR par rapport au BR nº 2/2026) et un montant de 1 100 millions d’EUR de ressources propres traditionnelles supplémentaires, en raison de recettes supérieures aux prévisions figurant dans le budget.
+
+3.1 Amendes et astreintes
+
+Compte tenu des amendes et astreintes définitives payées jusqu’en octobre 2026, il est proposé d’inscrire les montants suivants au budget 2026: a) 4 125 millions d’EUR d’amendes en matière de concurrence; b) 234 millions d’EUR d’astreintes et de sommes forfaitaires imposées aux États membres pour inexécution d’arrêts de la Cour de justice de l’Union européenne en constatation de leur manquement aux obligations découlant des traités; c) 406 millions d’EUR d’intérêts relatifs aux amendes et astreintes; d) 0,3 million d’EUR de rendements négatifs se rapportant à des amendes annulées ou réduites.
+
+Il est par conséquent proposé d’augmenter de 4 765 millions d’EUR le montant de 1 300 millions d’EUR inscrit dans le BR nº 2/2026, ce qui porte le montant total à 6 065 millions d’EUR. Le détail par ligne est présenté dans le tableau figurant ci-dessous.
+
+Ligne de recettes | Intitulé | BR 2/2026 | PBR 3/2026 | Nouveau montant
+4 2 0 | Amendes liées à la mise en œuvre des règles de concurrence | 955 327 953 | 4 125 310 876 | 5 080 638 829
+4 2 1 | Astreintes et sommes forfaitaires imposées aux États membres | 268 063 119 | 234 172 707 | 502 235 826
+4 2 4 | Intérêts relatifs aux amendes et astreintes | 98 536 784 | 406 191 443 | 504 728 227
+4 2 5 | Intérêts, autres charges dues et rendements négatifs se rapportant à des amendes annulées ou réduites | -22 715 250 | -310 876 | -23 026 126
+4 2 9 | Autres amendes et astreintes sans affectation | 865 504 | 0 | 865 504
+Total | 1 300 078 110 | 4 765 364 150 | 6 065 442 260
+
+3.2 Ressources propres traditionnelles - Excédent
+
+Le budget rectificatif nº 2/2026 comprenait les prévisions révisées pour 2026 concernant le volet des recettes du budget, approuvées lors de la 197e réunion du CCRP le 29 mai 2026. Toutefois, compte tenu d’un montant des droits de douane mis à disposition plus élevé que prévu au cours de la période allant de janvier à septembre, il convient d’augmenter les estimations relatives aux ressources propres traditionnelles (RPT) à hauteur d’un montant total de 1 100 millions d’EUR.
+
+3.3 Effet sur la contribution à la ressource propre RNB pour 2026
+
+Les contributions révisées à la ressource propre RNB, par rapport au BR nº 2/2026, sont exposées ci-après dans le tableau:
+
+État membre | PBR 2/2026 | PBR 3/2026 | Nouveau montant
+Belgique | 4 693 986 838 | -58 833 077 | 4 635 153 761
+Bulgarie | 813 039 302 | -10 190 400 | 802 848 902
+République tchèque | 2 472 230 511 | -30 986 225 | 2 441 244 286
+Danemark | 3 013 904 972 | -37 775 415 | 2 976 129 557
+Allemagne | 33 352 554 956 | -418 031 304 | 32 934 523 652
+Estonie | 302 727 362 | -3 794 297 | 298 933 065
+Irlande | 3 194 445 667 | -40 038 260 | 3 154 407 407
+Grèce | 1 790 219 777 | -22 438 099 | 1 767 781 678
+Espagne | 12 378 597 515 | -155 149 770 | 12 223 447 745
+France | 21 706 071 811 | -272 057 643 | 21 434 014 168
+Croatie | 699 088 360 | -8 762 171 | 690 326 189
+Italie | 16 169 928 367 | -202 669 218 | 15 967 259 149
+Chypre | 238 534 370 | -2 989 721 | 235 544 649
+Lettonie | 313 780 960 | -3 932 840 | 309 848 120
+Lituanie | 608 755 161 | -7 629 962 | 601 125 199
+Luxembourg | 445 514 868 | -5 583 955 | 439 930 913
+Hongrie | 1 630 247 097 | -20 433 047 | 1 609 814 050
+Malte | 161 840 785 | -2 028 466 | 159 812 319
+Pays-Bas | 8 470 992 289 | -106 172 974 | 8 364 819 315
+Autriche | 3 694 461 727 | -46 305 318 | 3 648 156 409
+Pologne | 6 650 508 505 | -83 355 555 | 6 567 152 950
+Portugal | 2 210 092 366 | -27 700 660 | 2 182 391 706
+Roumanie | 2 736 011 890 | -34 292 384 | 2 701 719 506
+Slovénie | 515 206 725 | -6 457 453 | 508 749 272
+Slovaquie | 977 028 233 | -12 245 790 | 964 782 443
+Finlande | 2 031 076 883 | -25 456 932 | 2 005 619 951
+Suède | 4 602 048 814 | -57 680 753 | 4 544 368 061
+Total | 135 872 896 111 | -1 702 991 689 | 134 169 904 422
+
+4. FINANCEMENT
+
+Globalement, l’incidence nette de ce projet de budget rectificatif sur les dépenses correspond à une augmentation de 2 179,7 millions d’EUR en crédits d’engagement et de 4 162,4 millions d’EUR en crédits de paiement. Il est proposé d’ajuster le volet des recettes du budget comme indiqué dans le présent PBR nº 3/2026.
+
+Les crédits de paiement pour 2026 liés à la mobilisation de l’instrument de flexibilité pour la période allant de 2023 à 2026 sont estimés à 2 286,0 millions d’EUR. L’échéancier de paiement estimé relatif aux montants correspondants dus pour ces exercices est exposé dans le tableau suivant:
+
+Instrument de flexibilité - profil de paiement (en Mio EUR)
+Exercice de la mobilisation | 2026 | 2027 | Au-delà du CFP 2021-2027 | Total
+2023 | 83,2 | 0,0 | 0,0 | 83,2
+2024 | 83,7 | 46,3 | 0,0 | 129,9
+2025 | 15,8 | 9,4 | 5,7 | 30,9
+2026 | 2 038,7 | 1,7 | 1,6 | 2 041,9
+Total | 2 221,4 | 57,3 | 7,2 | 2 286,0
+
+5. TABLEAU RECAPITULATIF PAR RUBRIQUE DU CFP
+
+(en EUR)
+Budget 2026 (y compris BR 1 et 2/2026) | Projet de budget rectificatif 3/2026 | Budget 2026 (y compris PBR 1 à 3/2026)
+CE | CP | CE | CP | CE | CP
+Marché unique, innovation et numérique 1 | 22 162 993 197 | 23 336 627 126 | 47 006 803 | -581 000 | 22 210 000 000 | 23 336 046 126
+Plafond | 22 210 000 000 | 22 210 000 000
+Marge | 47 006 803 | -47 006 803
+Cohésion, résilience et valeurs 2 | 71 650 838 425 | 78 527 657 166 | 2 179 702 522 | 4 000 000 000 | 73 830 540 947 | 82 527 657 166
+Plafond | 67 523 000 000 | 2 180 000 000 | 69 703 000 000
+dont part relevant de l’instrument de flexibilité | 2 015 115 425 | 2 015 115 425
+dont part relevant de l'EURI | 2 112 723 000 | 2 112 723 000
+Marge | 297 478 | 297 478
+Cohésion économique, sociale et territoriale 2 a. | 56 594 001 997 | 63 658 110 625 | 2 179 702 522 | 4 000 000 000 | 58 773 704 519 | 67 658 110 625
+Plafond | 56 593 000 000 | 2 180 000 000 | 58 773 000 000
+dont part relevant de l’instrument de flexibilité | 1 001 997 | 1 001 997
+Marge | 297 478 | 297 478
+2 b. Résilience et valeurs | 15 056 836 428 | 14 869 546 541 | 15 056 836 428 | 14 869 546 541
+Plafond | 10 930 000 000 | 10 930 000 000
+dont part relevant de l’instrument de flexibilité | 2 014 113 428 | 2 014 113 428
+dont part relevant de l'EURI | 2 112 723 000 | 2 112 723 000
+Ressources naturelles et environnement 3 | 56 969 415 080 | 55 217 345 231 | -46 975 366 | 162 953 461 | 56 922 439 714 | 55 380 298 692
+Plafond | 57 100 000 000 | 22 000 000 | 57 122 000 000
+Marge | 130 584 920 | 68 975 366 | 199 560 286
+Dont: dépenses liées au marché et paiements directs | 40 451 259 481 | 40 398 066 815 | 40 000 000 | 40 000 000 | 40 491 259 481 | 40 438 066 815
+Sous-plafond FEAGA | 41 764 000 000 | 41 764 000 000
+Écart d’arrondis exclu du calcul de la sous-marge | 773 000 | 773 000
+Transferts nets entre le FEAGA et le Feader | -1 222 773 000 | -1 222 773 000
+Solde net disponible pour les dépenses du FEAGA (sous-plafond corrigé des transferts entre le FEAGA et le Feader) | 40 542 000 000 | 40 542 000 000
+Sous-marge FEAGA | 89 967 519 | -40 000 000 | 49 967 519
+Migration et gestion des frontières 4 | 5 018 866 515 | 3 887 896 129 | 5 018 866 515 | 3 887 896 129
+Plafond | 5 103 000 000 | 5 103 000 000
+Marge | 84 133 485 | 84 133 485
+Sécurité et défense 5 | 2 813 506 939 | 2 253 300 408 | 2 813 506 939 | 2 253 300 408
+Plafond | 2 810 000 000 | 2 810 000 000
+dont part relevant de l’instrument de flexibilité | 3 506 939 | 3 506 939
+Le voisinage et le monde 6 | 15 600 020 092 | 16 569 670 072 | 15 600 020 092 | 16 569 670 072
+Plafond | 15 614 000 000 | 15 614 000 000
+Marge | 13 979 908 | 13 979 908
+Administration publique européenne 7 | 13 280 675 287 | 13 280 675 287 | 13 280 675 287 | 13 280 675 287
+Plafond | 12 506 000 000 | 12 506 000 000
+dont part relevant de l’instrument de flexibilité | 23 306 848 | 23 306 848
+dont part relevant du dispositif de marge unique [art. 11, par. 1, pt. a)] | 751 368 439 | 751 368 439
+Dont: dépenses administratives des institutions | 10 002 910 735 | 10 002 910 735 | 10 002 910 735 | 10 002 910 735
+Sous-plafond | 9 464 000 000 | 9 464 000 000
+dont part relevant du dispositif de marge unique [art. 11, par. 1, pt. a)] | 538 910 735 | 538 910 735
+Crédits pour les rubriques | 187 496 315 535 | 193 073 171 419 | 2 179 733 959 | 4 162 372 461 | 189 676 049 494 | 197 235 543 880
+Plafond | 182 866 000 000 | 201 170 000 000 | 2 202 000 000 | 185 068 000 000 | 201 170 000 000
+dont part relevant de l’instrument de flexibilité | 2 041 929 212 | 2 221 417 865 | 2 041 929 212 | 2 221 417 865
+dont part relevant du dispositif de marge unique [art. 11, par. 1, pt. a)] | 751 368 439 | 751 368 439
+dont part relevant de l'EURI | 2 112 723 000 | 2 112 723 000 | 2 112 723 000 | 2 112 723 000
+Marge | 275 705 116 | 12 430 969 446 | 22 266 041 | -4 162 372 461 | 297 971 157 | 8 268 596 985
+Instruments spéciaux thématiques | 5 715 921 020 | 5 022 549 248 | 5 715 921 020 | 5 022 549 248
+Total des crédits | 193 212 236 555 | 198 095 720 667 | 2 179 733 959 | 4 162 372 461 | 195 391 970 514 | 202 258 093 128
+
+* Tous les chiffres supposent l’adoption par le Conseil d’une décision d’exécution levant la suspension des engagements au titre de la politique de cohésion pour la Hongrie et, par conséquent, l’adoption par la Commission d’un ajustement technique du cadre financier pluriannuel afin de relever les plafonds correspondants en conséquence.

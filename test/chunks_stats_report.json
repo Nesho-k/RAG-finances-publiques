@@ -1,0 +1,417 @@
+{
+  "global": {
+    "total_chunks": 810,
+    "total_documents": 32,
+    "total_characters": 473685,
+    "total_words": 77505,
+    "repartition_par_type": {
+      "text": 754,
+      "table": 56
+    }
+  },
+  "distributions": {
+    "caracteres_reels": {
+      "count": 810,
+      "min": 37.0,
+      "p5": 307.3,
+      "q1": 515.0,
+      "median": 569.0,
+      "mean": 584.8,
+      "q3": 645.0,
+      "p95": 845.1,
+      "max": 2757.0,
+      "std": 175.29,
+      "iqr": 130.0,
+      "cv_pct": 29.98
+    },
+    "longueur_declaree": {
+      "count": 810,
+      "min": 37.0,
+      "p5": 307.3,
+      "q1": 515.0,
+      "median": 569.0,
+      "mean": 584.8,
+      "q3": 645.0,
+      "p95": 845.1,
+      "max": 2757.0,
+      "std": 175.29,
+      "iqr": 130.0,
+      "cv_pct": 29.98
+    },
+    "mots": {
+      "count": 810,
+      "min": 7.0,
+      "p5": 51.0,
+      "q1": 83.0,
+      "median": 93.0,
+      "mean": 95.69,
+      "q3": 106.0,
+      "p95": 140.1,
+      "max": 432.0,
+      "std": 28.49,
+      "iqr": 23.0,
+      "cv_pct": 29.78
+    },
+    "tokens_estimes_div4": {
+      "count": 810,
+      "min": 9.0,
+      "p5": 76.8,
+      "q1": 129.0,
+      "median": 142.0,
+      "mean": 146.2,
+      "q3": 161.0,
+      "p95": 211.55,
+      "max": 689.0,
+      "std": 43.83,
+      "iqr": 32.0,
+      "cv_pct": 29.98
+    }
+  },
+  "qualite_et_anomalies": {
+    "vide_ou_trop_court_lt_50_chars": {
+      "count": 1,
+      "pct": 0.12,
+      "exemples": [
+        [
+          "DOC-012-C0017",
+          37,
+          "Études et Résultats | 07 octobre 2026"
+        ]
+      ]
+    },
+    "tres_long_gt_1500_chars": {
+      "count": 2,
+      "pct": 0.25,
+      "exemples": [
+        [
+          "DOC-028-C0001",
+          1558
+        ],
+        [
+          "DOC-028-C0004",
+          2757
+        ]
+      ]
+    },
+    "commence_par_minuscule_ou_ponctuation": {
+      "count": 565,
+      "pct": 69.75,
+      "exemples": [
+        [
+          "DOC-001-C0003",
+          "; - exonérations générales de cotisations soc"
+        ],
+        [
+          "DOC-001-C0004",
+          "ou la reprise d'entreprise ; - accueil et acc"
+        ],
+        [
+          "DOC-001-C0005",
+          "transformer les secteurs clés de l’économie p"
+        ],
+        [
+          "DOC-001-C0006",
+          "rurale (ZRR), les quartiers prioritaires de l"
+        ],
+        [
+          "DOC-001-C0007",
+          ": délais de paiement de dettes fiscales ou so"
+        ]
+      ]
+    },
+    "finit_sans_ponctuation_forte": {
+      "count": 61,
+      "pct": 7.53,
+      "exemples": [
+        [
+          "DOC-004-C0013",
+          " + 3,5 | + 6,5 | + 9,1 | + 8,7 | + 8,2 | + 36"
+        ],
+        [
+          "DOC-004-C0022",
+          " | 2% | 1,96% | 1,92% | 1,95% | 1,99% | 2,06%"
+        ],
+        [
+          "DOC-005-C0006",
+          "PM 2019-2025 sont disponibles en cliquant ici"
+        ],
+        [
+          "DOC-009-C0011",
+          "cales | 263,1 | 263,5 | 275,7 | 276,5 | 274,9"
+        ],
+        [
+          "DOC-009-C0012",
+          "ourt terme | 16,5 | 19,9 | 13,7 | 17,5 | 20,6"
+        ]
+      ]
+    },
+    "ecart_longueur_declaree": {
+      "count": 0,
+      "pct": 0.0,
+      "exemples": []
+    },
+    "doublons_exacts": {
+      "count": 0,
+      "pct": 0.0,
+      "exemples": []
+    }
+  },
+  "par_document": {
+    "DOC-001": {
+      "nb_chunks": 31,
+      "total_chars": 20221,
+      "mean_chars": 652.29,
+      "median_chars": 600.0,
+      "min_chars": 410,
+      "max_chars": 1060
+    },
+    "DOC-002": {
+      "nb_chunks": 5,
+      "total_chars": 3023,
+      "mean_chars": 604.6,
+      "median_chars": 604.0,
+      "min_chars": 246,
+      "max_chars": 939
+    },
+    "DOC-003": {
+      "nb_chunks": 7,
+      "total_chars": 4046,
+      "mean_chars": 578.0,
+      "median_chars": 555.0,
+      "min_chars": 495,
+      "max_chars": 721
+    },
+    "DOC-004": {
+      "nb_chunks": 34,
+      "total_chars": 19659,
+      "mean_chars": 578.21,
+      "median_chars": 576.5,
+      "min_chars": 158,
+      "max_chars": 1251
+    },
+    "DOC-005": {
+      "nb_chunks": 6,
+      "total_chars": 3229,
+      "mean_chars": 538.17,
+      "median_chars": 554.5,
+      "min_chars": 430,
+      "max_chars": 611
+    },
+    "DOC-006": {
+      "nb_chunks": 29,
+      "total_chars": 18303,
+      "mean_chars": 631.14,
+      "median_chars": 602.0,
+      "min_chars": 491,
+      "max_chars": 911
+    },
+    "DOC-007": {
+      "nb_chunks": 34,
+      "total_chars": 20698,
+      "mean_chars": 608.76,
+      "median_chars": 582.5,
+      "min_chars": 285,
+      "max_chars": 991
+    },
+    "DOC-008": {
+      "nb_chunks": 16,
+      "total_chars": 9226,
+      "mean_chars": 576.62,
+      "median_chars": 569.0,
+      "min_chars": 300,
+      "max_chars": 774
+    },
+    "DOC-009": {
+      "nb_chunks": 22,
+      "total_chars": 10226,
+      "mean_chars": 464.82,
+      "median_chars": 506.0,
+      "min_chars": 97,
+      "max_chars": 734
+    },
+    "DOC-010": {
+      "nb_chunks": 10,
+      "total_chars": 4282,
+      "mean_chars": 428.2,
+      "median_chars": 441.0,
+      "min_chars": 215,
+      "max_chars": 549
+    },
+    "DOC-011": {
+      "nb_chunks": 21,
+      "total_chars": 11929,
+      "mean_chars": 568.05,
+      "median_chars": 578.0,
+      "min_chars": 243,
+      "max_chars": 688
+    },
+    "DOC-012": {
+      "nb_chunks": 17,
+      "total_chars": 9247,
+      "mean_chars": 543.94,
+      "median_chars": 592.0,
+      "min_chars": 37,
+      "max_chars": 699
+    },
+    "DOC-013": {
+      "nb_chunks": 23,
+      "total_chars": 9970,
+      "mean_chars": 433.48,
+      "median_chars": 488.0,
+      "min_chars": 105,
+      "max_chars": 755
+    },
+    "DOC-014": {
+      "nb_chunks": 7,
+      "total_chars": 3981,
+      "mean_chars": 568.71,
+      "median_chars": 550.0,
+      "min_chars": 443,
+      "max_chars": 699
+    },
+    "DOC-015": {
+      "nb_chunks": 34,
+      "total_chars": 19406,
+      "mean_chars": 570.76,
+      "median_chars": 582.5,
+      "min_chars": 149,
+      "max_chars": 821
+    },
+    "DOC-016": {
+      "nb_chunks": 3,
+      "total_chars": 1319,
+      "mean_chars": 439.67,
+      "median_chars": 482.0,
+      "min_chars": 344,
+      "max_chars": 493
+    },
+    "DOC-017": {
+      "nb_chunks": 33,
+      "total_chars": 21316,
+      "mean_chars": 645.94,
+      "median_chars": 614.0,
+      "min_chars": 431,
+      "max_chars": 1064
+    },
+    "DOC-018": {
+      "nb_chunks": 19,
+      "total_chars": 10096,
+      "mean_chars": 531.37,
+      "median_chars": 528.0,
+      "min_chars": 107,
+      "max_chars": 768
+    },
+    "DOC-019": {
+      "nb_chunks": 9,
+      "total_chars": 6006,
+      "mean_chars": 667.33,
+      "median_chars": 602.0,
+      "min_chars": 366,
+      "max_chars": 1158
+    },
+    "DOC-020": {
+      "nb_chunks": 47,
+      "total_chars": 28640,
+      "mean_chars": 609.36,
+      "median_chars": 595.0,
+      "min_chars": 107,
+      "max_chars": 925
+    },
+    "DOC-021": {
+      "nb_chunks": 48,
+      "total_chars": 28288,
+      "mean_chars": 589.33,
+      "median_chars": 567.5,
+      "min_chars": 454,
+      "max_chars": 1093
+    },
+    "DOC-022": {
+      "nb_chunks": 54,
+      "total_chars": 34157,
+      "mean_chars": 632.54,
+      "median_chars": 604.0,
+      "min_chars": 315,
+      "max_chars": 968
+    },
+    "DOC-023": {
+      "nb_chunks": 15,
+      "total_chars": 8575,
+      "mean_chars": 571.67,
+      "median_chars": 547.0,
+      "min_chars": 404,
+      "max_chars": 951
+    },
+    "DOC-024": {
+      "nb_chunks": 17,
+      "total_chars": 8757,
+      "mean_chars": 515.12,
+      "median_chars": 550.0,
+      "min_chars": 127,
+      "max_chars": 953
+    },
+    "DOC-025": {
+      "nb_chunks": 5,
+      "total_chars": 3612,
+      "mean_chars": 722.4,
+      "median_chars": 563.0,
+      "min_chars": 504,
+      "max_chars": 1394
+    },
+    "DOC-026": {
+      "nb_chunks": 24,
+      "total_chars": 12627,
+      "mean_chars": 526.12,
+      "median_chars": 525.5,
+      "min_chars": 180,
+      "max_chars": 710
+    },
+    "DOC-027": {
+      "nb_chunks": 24,
+      "total_chars": 13493,
+      "mean_chars": 562.21,
+      "median_chars": 548.0,
+      "min_chars": 416,
+      "max_chars": 675
+    },
+    "DOC-028": {
+      "nb_chunks": 65,
+      "total_chars": 42056,
+      "mean_chars": 647.02,
+      "median_chars": 574.0,
+      "min_chars": 53,
+      "max_chars": 2757
+    },
+    "DOC-029": {
+      "nb_chunks": 8,
+      "total_chars": 3699,
+      "mean_chars": 462.38,
+      "median_chars": 457.5,
+      "min_chars": 267,
+      "max_chars": 731
+    },
+    "DOC-030": {
+      "nb_chunks": 51,
+      "total_chars": 31078,
+      "mean_chars": 609.37,
+      "median_chars": 604.0,
+      "min_chars": 471,
+      "max_chars": 914
+    },
+    "DOC-031": {
+      "nb_chunks": 38,
+      "total_chars": 21992,
+      "mean_chars": 578.74,
+      "median_chars": 573.0,
+      "min_chars": 237,
+      "max_chars": 876
+    },
+    "DOC-032": {
+      "nb_chunks": 54,
+      "total_chars": 30528,
+      "mean_chars": 565.33,
+      "median_chars": 549.5,
+      "min_chars": 155,
+      "max_chars": 1088
+    }
+  }
+}

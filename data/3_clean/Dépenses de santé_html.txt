@@ -1,0 +1,49 @@
+Les dépenses de santé en 2025 - Résultats des comptes de la santé - Édition 2026
+
+Panoramas de la Drees
+
+Paru le 01/10/2026
+
+Bastien Virely, Mathilde Didier (dir.)
+
+La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees) publie « Les dépenses de santé en 2025 ». Ce Panorama présente les comptes de la santé, retrace l’ensemble des dépenses de santé en fonction de leur financeur, en analyse les résultats en 2025, et les replace dans une perspective internationale. La publication du panorama est accompagnée de la diffusion de jeux de données qui permet d’explorer à un niveau fin les dépenses de santé par poste et par financeur.
+
+L’édition 2026 se distingue par un changement de focale par rapport aux éditions précédentes : les analyses sont désormais proposées directement au niveau de la dépense courante de santé au sens international (DCSi). L’opposition entre la DCSi et la CSBM, structurante dans les éditions précédentes, disparaît, la CSBM apparaissant comme une composante de la DCSi. Ce choix facilite les comparaisons internationales, tout en conservant l’agrégat historique de la comptabilité nationale hexagonale, en particulier s’agissant du partage entre les évolutions relevant d’un effet prix ou d’un effet volume.
+
+En 2025, la dépense courante de santé au sens international (DCSi) s’élève à 353,2 milliards d’euros. Elle progresse de 3,3 % sur un an après +3,5 % en 2024. Les dépenses de médicaments et les soins courants en ville ralentissent, tandis que les dépenses de prévention rebondissent et les dépenses de soins de longue durée (SLD) sont de nouveau dynamiques. En 2025, la DCSi progresse plus vite que le PIB, de sorte que le poids des dépenses de santé dans le PIB augmente de 11,7 % à 11,8 %.
+
+La DCSi augmente moins en France que dans l’ensemble de l’Union européenne (+5,9 %).
+
+Principal agrégat de la DCSi, la consommation de soins et de biens médicaux (CSBM) atteint 256,5 milliards d’euros en 2025. La CSBM mesure spécifiquement l’ensemble des dépenses relatives au traitement d’une perturbation de l’état de santé d’une personne. Elle regroupe les soins hospitaliers, les soins ambulatoires (soins en cabinet libéral, en centre de santé, activités techniques et auxiliaires) et les biens médicaux (médicaments et dispositifs médicaux).
+
+Les soins hospitaliers représentent plus du tiers de la DCSi soit 124,1 milliards d’euros ; ils progressent de 2,8 % en 2025.
+
+La consommation des soins hospitaliers publics progresse de 2,4 % en volume, et retrouve son niveau de 2019. L’activité de soins de médecine, chirurgie, obstétrique et odontologie (MCO), qui représente plus des trois quarts des soins hospitaliers publics, est dynamique et croit à un rythme plus soutenu que sa tendance d’avant crise sanitaire. À l’inverse, l’activité en psychiatrie recule. Les dépenses de soins hospitaliers privés augmentent de 2,6 %, quasiment au même rythme qu’en 2024, davantage portées par les prix que par les volumes.
+
+Les soins ambulatoires représentent un peu plus d’un cinquième de la DCSi. Ils progressent de 3,0 % contre 4,3 % en 2024. La revalorisation du tarif des consultations fin 2024 soutient ces dépenses. La croissance des activités techniques et auxiliaires (+1,0 % globalement) est plus contrastée : l’imagerie médicale (+ 4,7 %) et les activités de laboratoire sont très dynamiques (+8,9 %), tandis que les transports sanitaires se replient légèrement, avec une nouvelle baisse des rémunérations aux contrats.
+
+Les dépenses de biens médicaux s’établissent à 56,9 milliards d’euros, dont 34,9 milliards d’euros de médicaments. La consommation de médicaments en particulier ralentit (+1,3 %), du fait notamment de l’accroissement des remises pharmaceutiques, mais les volumes restent soutenus (+3,7 %).
+
+En 2025, les prix de la CSBM augmentent de 0,7 %, soit légèrement moins que l’inflation totale (0,9 %). Les prix accélèrent pour les soins courants de ville en 2025 (+3,8 % après +2,5 % en 2024), portés par la hausse des tarifs des consultations des médecins généralistes, passés de 26,50 à 30 euros en décembre 2024. La baisse des prix des activités techniques et auxiliaires s’amplifie (-2,7 % en 2025 après -1,0 % en 2024). Les tarifs de l’activité des laboratoires de biologie médicale en particulier baissent nettement (-9,3 % en 2025, -8,1 % en 2024, -7,4 % en 2023). Les prix ralentissent pour les dispositifs médicaux (+0,0 % en 2025 après +1,2 %).
+
+En 2025, la structure de financement de la DCSi est relativement stable.
+
+La part financée par les administrations publiques (Sécurité sociale et administrations publiques centrales et locales) se maintient à 77,4 %. Le niveau de prise en charge des dépenses par les administrations publiques est variable selon les postes de dépenses. Il est très élevé pour les soins hospitaliers (94 % en 2025), mais inférieur à 50 % en optique et pour les audioprothèses. Depuis 2010, le taux de financement public a progressé pour tous les postes de soins, à l’exception des frais de gestion et des activités techniques et auxiliaires. Le vieillissement de la population et le développement de soins et biens médicaux onéreux pris en charge intégralement par les administrations, en particulier à travers le dispositif d’affection longue durée, contribuent à cette dynamique tendancielle.
+
+Les organismes complémentaires financent 12,3 % de la DCSi. Parmi les biens et services de santé, les organismes complémentaires prennent plus particulièrement en charge l’optique médicale (à 69 % en 2025), les audioprothèses (à 48 %), ainsi que les soins et prothèses dentaires (à 46 %). Ils représentent par ailleurs 52 % des frais de gestion du système de santé.
+
+Au total, le reste à charge des ménages s’établit en 2025 à 495 euros par habitant. Le RAC est principalement constitué de dépenses de soins de longue durée (207 euros), de biens médicaux (67 euros de dépenses de médicaments et 52 euros de dépenses de dispositifs médicaux) et de soins courants en ville (112 euros). La part des dépenses financée par les ménages recule un peu en 2025, à 9,7 %, après 9,8 % en 2024. Le reste à charge s’établit en moyenne dans l’Union européenne à 14,8 % de la DCSi (1).
+
+La France se situe parmi les pays avec le plus faible reste à charge de l’Union européenne, derrière le Luxembourg et la Croatie.
+
+Chaque année, les résultats des comptes de la santé sont présentés lors de la Commission des comptes de la santé, en présence du ministre en charge de la santé, de représentants des professionnels de la santé, de personnalités du secteur de la santé et de chercheurs et de spécialistes en économie de la santé. Élaborés par la Drees, les comptes de la santé constituent l’un des comptes thématiques des comptes nationaux, produits par l’Insee, dont ils adoptent la méthodologie. Ils servent également de base à l’élaboration des comptes de la santé présentés au sein des instances internationales (le System of Health Accounts, coordonné par l’OCDE, Eurostat et l’OMS) et permettent ainsi d’établir des comparaisons internationales des dépenses de santé sur des bases fiables et harmonisées.
+
+Chaque année, les séries des comptes de la santé sont révisées par rapport à celles publiées dans les éditions précédentes. En effet, la Drees mène tous les ans des travaux méthodologiques pour améliorer et enrichir les comptes.
+
+(1) Les données sur le financement des dépenses de santé ne sont pas encore disponibles pour l’année 2025.
+
+20 milliards d’euros sont consacrés à la prise en charge à 100 % des affections de longue durée (ALD) en 2025
+
+Les bénéficiaires du dispositif ALD représentent 22 % des assurés de l’Assurance maladie obligatoire mais 67 % des dépenses de santé remboursables en 2025. Le coût du dispositif ALD s’élève à 19,7 milliards d’euros, soit 1 300 euros en moyenne par assuré en ALD.
+
+Études et Résultats | 07 octobre 2026

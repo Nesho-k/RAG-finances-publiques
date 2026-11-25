@@ -1,0 +1,231 @@
+{
+  "config": {
+    "modele_openai": "gpt-4o-mini",
+    "top_k": 5
+  },
+  "scores_globaux": {
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7671,
+    "llm_context_precision_with_reference": 0.7302,
+    "context_recall": 1.0,
+    "answer_relevancy_hors_pieges": 0.9205
+  },
+  "details_par_question": [
+    {
+      "user_input": "Quel est le montant de la dette publique à la fin du deuxième trimestre 2026 ?",
+      "retrieved_contexts": [
+        "brute des APU les actifs que ces dernières détiennent sur le même champ d’instruments financiers. La dette nette des administrations publiques s’élève à 3 366,8 Md€ au deuxième trimestre 2026, soit 111,4 % du PIB, après 109,7 % au premier trimestre 2026. Elle augmente de 68,2 Md€, après +55,8 Md€ au trimestre précédent. L’écart de 8,5 Md€ avec la hausse de la dette brute s’explique principalement par la diminution de la trésorerie de l’État (-10,8 Md€), partiellement compensée par la hausse de celle des Asso (+3,9 Md€).",
+        "Informations Rapides · 29 septembre 2026 · n° 239 À la fin du deuxième trimestre 2026, le ratio de dette publique s’établit à 119,0 % du PIB Dette trimestrielle de Maastricht des administrations publiques (APU) - deuxième trimestre 2026 À la fin du deuxième trimestre 2026, la dette publique au sens de Maastricht s’établit à 3 595,5 Md€, soit une augmentation de 59,6 Md€, après +75,8 Md€ au premier trimestre 2026.",
+        ": elle atteint désormais 3 595,5 milliards d’euros au premier trimestre 2026, soit 119,0 % du PIB. À savoir La dette publique, comme le déficit public, est rapportée au produit intérieur brut (PIB) afin de la comparer à la taille de l’économie nationale, et aussi pouvoir la comparer à d’autres pays.",
+        "Décryptage : 5 minutes pour comprendre la dette publique À la fin du deuxième trimestre 2026, la dette publique s’établit à 3 595,5 milliards d’euros, soit 119 % du PIB. Mais, concrètement, à quoi correspond cette dette ? Comment est-elle générée ? À l’aide de questions/réponses, on vous aide à mieux comprendre ce sujet. Qu’appelle-t-on dette publique ? Comment la définir ? La dette publique désigne l’ensemble des emprunts contractés par les administrations publiques qui ne sont pas encore remboursés.",
+        "(*) voir précisions dans l’encadré « Pour en savoir plus ». Source : Comptes nationaux base 2020 – Insee, DGFiP, Banque de France. Au deuxième trimestre 2026, la dette publique nette augmente de 68,2 Md€ L’analyse de l’endettement des administrations publiques (APU) peut être complétée par les actifs financiers qu’elles détiennent. La construction de la dette nette les prend en compte en soustrayant à la dette brute des APU les actifs que ces dernières détiennent sur le même champ d’instruments financiers."
+      ],
+      "response": "À la fin du deuxième trimestre 2026, la dette publique s'établit à 3 595,5 milliards d'euros [DOC-009-C0001].",
+      "reference": "3 595,5 milliards d’euros, soit 119 % du PIB",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9633565679569284,
+      "llm_context_precision_with_reference": 0.6791666666496875,
+      "context_recall": 1.0,
+      "id": "Q01",
+      "type": "normale"
+    },
+    {
+      "user_input": "Quelle hausse budgétaire la loi de finances 2026 accorde-t-elle à l’Éducation nationale ?",
+      "retrieved_contexts": [
+        "Adoption définitive du budget de l'état pour 2026 : des moyens renforcés pour l'école L’adoption définitive du projet de loi de finances pour 2026 entérine les moyens alloués à l’Éducation nationale et confirme la priorité donnée à la jeunesse et à l’avenir, avec une hausse budgétaire de 200 millions d’euros et la création de près de 5 900 emplois supplémentaires par rapport à 2025. Ces moyens vont permettre de déployer les mesures préparées pour la rentrée scolaire 2026.",
+        "Éducation nationale : le budget 2026 prévoit 5 900 postes créés et des moyens renforcés L'adoption définitive du budget de l'État pour 2026 confirme la priorité donnée à l'éducation, avec une hausse de 200 millions d'euros et près de 5 900 postes supplémentaires. Le ministère vise un encadrement historique des élèves, une école plus inclusive et un soutien renforcé à la santé scolaire. Un renforcement de l'école inclusive et un soutien à la santé scolaire L'adoption définitive du budget de l'État pour 2026, confirme la priorité donnée à l'éducation.",
+        "L'adoption définitive du budget de l'État pour 2026, confirme la priorité donnée à l'éducation. En effet, il consacre une hausse de 200 millions d'euros pour l'Éducation nationale et prévoit la création de près de 5 900 postes supplémentaires par rapport à 2025. Il renforce le soutien aux élèves en situation de handicap et à leur bien-être, avec la création de 2 000 postes pour l'école inclusive. Ces postes permettront de mieux accompagner les élèves ayant des besoins spécifiques et de favoriser leur intégration dans les classes ordinaires.",
+        "aux étudiants de les passer dès la fin de la troisième année de licence restait incertain. À la suite du concours, les lauréats devaient poursuivre un master avec une entrée progressive dans le métier d'enseignant. Le manque de budget laissait les étudiants ainsi que les institutions dans le flou. L'adoption définitive du budget 2026 soutient la réforme de la formation initiale des enseignants , avec environ 8 000 postes , permettant aux titulaires d'une licence de passer les concours et aux lauréats de bénéficier d'une rémunération pendant leurs deux années de formation, assurant une meilleure préparation et motivation.",
+        "une hausse de 8% par rapport à la loi de finances initiale pour 2023 et de 46% depuis 2017. Le contexte stratégique est marqué par le retour de la guerre de haute intensité et des crises majeures. Le budget est en cohérence avec les objectifs de la Revue nationale stratégique de novembre 2022 (économie concourant à l'esprit de défense, résilience cyber, autonomie stratégique européenne, champs hybrides…) et la nouvelle LPM. La LFI pour 2024 fixe des priorités suivantes : le renforcement : - de la préparation opérationnelle ; - des capacités de soutien ; - des systèmes de défense sol-air et la remontée globale des stocks de munitions ; la modernisation : - des infrastructures ; - de la dissuasion nucléaire ; la fidélisation des personnels."
+      ],
+      "response": "La loi de finances 2026 accorde une hausse budgétaire de 200 millions d'euros à l'Éducation nationale [DOC-002-C0001].",
+      "reference": "Une hausse de 200 millions d’euros",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9597678846838793,
+      "llm_context_precision_with_reference": 0.9999999999666667,
+      "context_recall": 1.0,
+      "id": "Q02",
+      "type": "normale"
+    },
+    {
+      "user_input": "Combien d’agents travaillent dans la fonction publique fin 2024 ?",
+      "retrieved_contexts": [
+        "Fonction publique : la hausse des effectifs ralentit en 2024 5,9 millions d'agents travaillent dans la fonction publique fin 2024, soit 32 800 de plus qu'en 2023 (+0,6%, après +1,1% en 2023). L'emploi augmente dans les trois versants de la fonction publique. Une étude publiée le 10 février 2026 par l'Institut national de la statistique et des études économiques (Insee) dresse un état des lieux de l'emploi dans la fonction publique en 2024.",
+        "soit 35 900 agents de plus, après +4,9% en 2023), qui explique celle de l’emploi public en 2024. Ils représentent 24% des agents publics (contre 23,3% en 2023 et 16,4% dix ans plus tôt) : 26% dans la FPT, 23% dans la FPE et 22% dans la FPH. Le nombre de fonctionnaires baisse de 0,1% (3 900 individus) ; - d’agents de catégorie A (+1,7%, soit +38 300 agents) et de catégorie B (+2,2%). Ceux de catégorie C reculent de 2,1%. La hausse des effectifs de catégorie A entre 2023 et 2024 est de 3,6% dans la FPH, de 3,1% dans la FPT et de 0,7% dans la FPE.",
+        "qu’elle a augmenté dans les autres pays et en moyenne dans la zone euro et l’Union européenne. A) Les effectifs de la fonction publique française 1) Les effectifs en 2024 Selon les statistiques publiées par l’Insee en février 2026, la fonction publique comptait 5 851 000 personnes à la fin de 2024 (après 5 815 à la fin de 2023), hors bénéficiaires de contrats aidés (26 000), soit 20 % du total des personnes ayant un emploi en France (salariés et non-salariés). La fonction publique comprend trois « versants » : la fonction publique d’État (2 584 000 agents en effectifs physiques à la fin de 2024) ; la fonction publique territoriale (2 018 000) et la fonction publique hospitalière (1 249 000).",
+        "études économiques (Insee) dresse un état des lieux de l'emploi dans la fonction publique en 2024. Les effectifs augmentent surtout dans la fonction publique de l'État En 2024, les effectifs progressent : - de 0,8% (soit +20 700 agents) dans la fonction publique de l’État (FPE), comme en 2023, grâce au recrutement de contractuels (+3,5%). Le nombre de fonctionnaires stagne. La hausse de 3,8% des effectifs aux ministères chargés de l’éducation nationale et de l’enseignement supérieur s’explique par celle des accompagnants d’élèves en situation de handicap ; - de 0,5% (5 700 agents) dans la fonction publique hospitalière (FPH), après une hausse de 1,9% en 2023.",
+        "catégorie A entre 2023 et 2024 est de 3,6% dans la FPH, de 3,1% dans la FPT et de 0,7% dans la FPE. Pour la première fois, la fonction publique compte plus d’agents de catégorie A (38%) que de catégorie C (37%) ; - de femmes (+0,6%, soit +22 600 femmes, contre +0,5% pour les hommes). Leur part dans la fonction publique est passée de 59% en 2004 à 64% en 2024. Elle atteint : - 58% dans la FPE, dont 85% pour les professeurs des écoles et 19% pour les militaires, - 61% au sein de la FPT (99% des agents territoriaux spécialisés des écoles maternelles – Atsem), - 78% dans la FPH (90% des aides-soignants et 87% des infirmiers) ; - des 50 ans ou plus (+2,3%) à la suite de la réforme des retraites."
+      ],
+      "response": "5,9 millions d'agents travaillent dans la fonction publique fin 2024 [DOC-014-C0001].",
+      "reference": "5,9 millions d’agents",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9869531769351819,
+      "llm_context_precision_with_reference": 0.9999999999666667,
+      "context_recall": 1.0,
+      "id": "Q03",
+      "type": "normale"
+    },
+    {
+      "user_input": "Quel est le montant de la dépense courante de santé au sens international (DCSi) en 2025 ?",
+      "retrieved_contexts": [
+        "dans les éditions précédentes, disparaît, la CSBM apparaissant comme une composante de la DCSi. Ce choix facilite les comparaisons internationales, tout en conservant l’agrégat historique de la comptabilité nationale hexagonale, en particulier s’agissant du partage entre les évolutions relevant d’un effet prix ou d’un effet volume. En 2025, la dépense courante de santé au sens international (DCSi) s’élève à 353,2 milliards d’euros. Elle progresse de 3,3 % sur un an après +3,5 % en 2024. Les dépenses de médicaments et les soins courants en ville ralentissent, tandis que les dépenses de prévention rebondissent et les dépenses de soins de longue durée (SLD) sont de nouveau dynamiques.",
+        "prévention rebondissent et les dépenses de soins de longue durée (SLD) sont de nouveau dynamiques. En 2025, la DCSi progresse plus vite que le PIB, de sorte que le poids des dépenses de santé dans le PIB augmente de 11,7 % à 11,8 %. La DCSi augmente moins en France que dans l’ensemble de l’Union européenne (+5,9 %). Principal agrégat de la DCSi, la consommation de soins et de biens médicaux (CSBM) atteint 256,5 milliards d’euros en 2025. La CSBM mesure spécifiquement l’ensemble des dépenses relatives au traitement d’une perturbation de l’état de santé d’une personne.",
+        "des dépenses relatives au traitement d’une perturbation de l’état de santé d’une personne. Elle regroupe les soins hospitaliers, les soins ambulatoires (soins en cabinet libéral, en centre de santé, activités techniques et auxiliaires) et les biens médicaux (médicaments et dispositifs médicaux). Les soins hospitaliers représentent plus du tiers de la DCSi soit 124,1 milliards d’euros ; ils progressent de 2,8 % en 2025. La consommation des soins hospitaliers publics progresse de 2,4 % en volume, et retrouve son niveau de 2019.",
+        "financeur, en analyse les résultats en 2025, et les replace dans une perspective internationale. La publication du panorama est accompagnée de la diffusion de jeux de données qui permet d’explorer à un niveau fin les dépenses de santé par poste et par financeur. L’édition 2026 se distingue par un changement de focale par rapport aux éditions précédentes : les analyses sont désormais proposées directement au niveau de la dépense courante de santé au sens international (DCSi). L’opposition entre la DCSi et la CSBM, structurante dans les éditions précédentes, disparaît, la CSBM apparaissant comme une composante de la DCSi.",
+        "La part des dépenses financée par les ménages recule un peu en 2025, à 9,7 %, après 9,8 % en 2024. Le reste à charge s’établit en moyenne dans l’Union européenne à 14,8 % de la DCSi (1). La France se situe parmi les pays avec le plus faible reste à charge de l’Union européenne, derrière le Luxembourg et la Croatie. Chaque année, les résultats des comptes de la santé sont présentés lors de la Commission des comptes de la santé, en présence du ministre en charge de la santé, de représentants des professionnels de la santé, de personnalités du secteur de la santé et de chercheurs et de spécialistes en économie de la santé."
+      ],
+      "response": "La dépense courante de santé au sens international (DCSi) en 2025 s'élève à 353,2 milliards d'euros [DOC-012-C0003].",
+      "reference": "353,2 milliards d’euros",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.874386646525039,
+      "llm_context_precision_with_reference": 0.9999999999,
+      "context_recall": 1.0,
+      "id": "Q04",
+      "type": "normale"
+    },
+    {
+      "user_input": "Quel est le total des dépenses fiscales (niches fiscales) recensées en 2025 ?",
+      "retrieved_contexts": [
+        "On parle aussi de « dépense fiscale ». Combien coûtent les niches fiscales ? Plus de 90 milliards d'euros par an au total, selon les évaluations annexées au budget. C'est ce qui en fait un sujet récurrent de débat lors de l'examen du projet de loi de finances. Quelle différence entre une niche fiscale et une dépense fiscale ? Ce sont deux noms pour la même chose : « niche fiscale » est le terme courant, « dépense fiscale » le terme budgétaire officiel, car l'avantage accordé représente un manque à gagner pour l'État.",
+        "Ces chiffres correspondent aux recettes brutes collectées par la DGFiP sur l'ensemble des affectataires. Les recettes nettes du budget général de l'État seul en 2025 s'établissent à 356,4 Md€, soit 30,7 Md€ de plus qu'en 2024. Une large part de la TVA et des accises est en effet reversée aux collectivités territoriales et à la sécurité sociale. La TVA : premier impôt de France, mais en perte de vitesse La TVA reste la première recette fiscale collectée, avec 211,7 Md€ de TVA économique déclarés en 2025.",
+        "de l’assiette imposable - Un taux réduit : application d’un taux inférieur au taux normal (ex. : TVA à 5,5% sur les livres au lieu de 20%) L’État renonce à percevoir un impôt qu’il aurait normalement collecté. C’est une forme de subvention indirecte par voie fiscale. Combien ça coûte ? En 2025, le total des dépenses fiscales recensées dans le tome II du budget de l’État dépasse 90 milliards d’euros par an, soit environ 3% du PIB français. Quelques dispositifs majeurs : - Crédit d’impôt recherche (CIR) : ~7 Md€ - Taux réduits de TVA : ~30 Md€ cumulés - Abattement de 10% sur les pensions de retraite : ~5 Md€ - Demi-part fiscale par enfant à charge : plusieurs Md€ Pourquoi c’est central dans le débat parlementaire Chaque automne, lors de l’examen du PLF, les niches fiscales font l’objet de centaines d’amendements : - Création de nouvelles niches (mesures sectorielles) - Suppression de niches considérées comme obsolètes ou injustes - Plafonnement ou bornage temporel (rendre les niches caduques après X années) - Évaluation : la LOLF impose une évaluation périodique de l’efficacité des dépenses fiscales C’est un terrain de lobbying intense : chaque secteur défend “ses” niches (BTP, industrie, agriculture, culture, économie sociale et solidaire, etc.) pendant que la Cour des comptes, le Conseil des prélèvements obligatoires et certains parlementaires poussent à les rationaliser.",
+        "générale des comptes et les nomenclatures de dépenses, sont présentées dans une autre fiche. Les dépenses nettes du « budget général » (441 Md€ en 2025 fonds de concours inclus mais hors remboursements et dégrèvements d’impôts) sont généralement considérées comme la mesure la plus pertinente des dépenses de l’Etat. En effet, d’une part, les dépenses des « budgets annexes » ont une nature marchande éloignée de celle des autres dépenses de l’Etat ; d’autre part, les dépenses des « comptes spéciaux » ont souvent une nature financière (prêts et acquisitions d’actions) ou correspondent au reversement d’impôts prélevés pour le compte de tiers, notamment les collectivités territoriales.",
+        "Les « charges brutes » de l’Etat en comptabilité générale s’élèvent à 656 Md€ en 2025. Elles ne comprennent pas de dépenses d’investissement mais des dotations aux amortissements et aux provisions. Les « charges nettes » des produits de fonctionnement (ventes de services, reprises de provisions…), d’intervention (contributions de tiers à des actions de l’Etat) et financiers représentent 470 Md€. Le graphique suivant présente la répartition des charges brutes hors provisions et amortissements (509 Md€)."
+      ],
+      "response": "Le total des dépenses fiscales (niches fiscales) recensées en 2025 dépasse 90 milliards d'euros par an [DOC-025-C0002].",
+      "reference": "Plus de 90 milliards d’euros par an, soit environ 3 % du PIB",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9306267812768535,
+      "llm_context_precision_with_reference": 0.8333333332916666,
+      "context_recall": 1.0,
+      "id": "Q05",
+      "type": "normale"
+    },
+    {
+      "user_input": "Quel est le premier impôt collecté en France et quel montant rapporte-t-il en 2025 ?",
+      "retrieved_contexts": [
+        "proportion devrait rester stable à court terme, malgré les efforts de maîtrise du déficit public. Questions fréquentes sur les recettes fiscales Quel est le premier impôt de France en montant collecté ? La TVA, avec 211,7 Md€ collectés en 2025 (≈35 % des recettes fiscales brutes). Mais si l'on inclut les cotisations sociales, la CSG et autres prélèvements sociaux, les contributions au financement de la protection sociale dépassent largement la TVA en comptabilité nationale. Pourquoi l'IR rapporte-t-il moins que la TVA ?",
+        "Ces chiffres correspondent aux recettes brutes collectées par la DGFiP sur l'ensemble des affectataires. Les recettes nettes du budget général de l'État seul en 2025 s'établissent à 356,4 Md€, soit 30,7 Md€ de plus qu'en 2024. Une large part de la TVA et des accises est en effet reversée aux collectivités territoriales et à la sécurité sociale. La TVA : premier impôt de France, mais en perte de vitesse La TVA reste la première recette fiscale collectée, avec 211,7 Md€ de TVA économique déclarés en 2025.",
+        "L'article en bref - La TVA : elle reste le premier impôt collecté en France avec environ 211 milliards d'euros de recettes en 2025. - L'impôt sur le revenu : environ la moitié des foyers fiscaux français ne le paient pas du fait de la progressivité du barème. - Le PFU en 2026 : son taux passe de 30 % à 31,4 % sur les dividendes et les plus-values mobilières avec l'ajout de la CFA. - Les prélèvements obligatoires en France : ils représentent 44 à 45 % du PIB, parmi les taux les plus élevés de l'OCDE.",
+        "Impôt / contribution | Rendement 2025 (estimé) | Part des recettes fiscales brutes | Affectataire principal\nTVA | ~211,7 Md€ collectés (part État : ~107 Md€) | ≈35 % | État, sécu, collectivités\nCSG et contributions sociales | ~168 Md€ (CSG seule) + cotisations ~400 Md€ | Premier poste en comptabilité nationale | Sécurité sociale\nImpôt sur le revenu (IR) | ~100 Md€ (part État nette) | ≈15,6 % (IR + CDHR) | État",
+        "TVA reste la première recette fiscale collectée, avec 211,7 Md€ de TVA économique déclarés en 2025. Elle représente environ 35 % des recettes fiscales brutes selon les évaluations révisées du PLF 2026. Elle s'applique à presque toutes les transactions économiques au taux normal de 20 %, ou à des taux réduits (10 %, 5,5 %, 2,1 %). Environ la moitié de ces recettes revient à l'État, l'autre moitié étant partagée entre les collectivités territoriales (~52 Md€ en 2024) et la sécurité sociale (~58 Md€ en 2024)."
+      ],
+      "response": "Le premier impôt collecté en France est la TVA, qui rapporte environ 211,7 Md€ en 2025 [DOC-026-C0001].",
+      "reference": "La TVA, avec environ 211 milliards d’euros de recettes",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9869204166001962,
+      "llm_context_precision_with_reference": 0.99999999998,
+      "context_recall": 1.0,
+      "id": "Q06",
+      "type": "normale"
+    },
+    {
+      "user_input": "Quel montant de dépenses la Sécurité sociale verse-t-elle ?",
+      "retrieved_contexts": [
+        "Connaître la Sécurité sociale et son fonctionnement est essentiel. Mais son activité peut également s’appréhender au regard de quelques chiffres clés. Les grands chiffres de la Sécurité sociale 643 milliards d’euros de dépenses sont versés par la Sécurité sociale. Cela équivaut à 22 % de la richesse nationale – le PIB s’élève à environ 2 900 milliards d’euros. 150 000 salariés s’assurent du bon fonctionnement du système, au sein des différents organismes de la Sécurité sociale.",
+        "des dépenses de solidarité entre les régimes sociaux et l’État (voire les collectivités locales). Les comptes de ses différentes branches dépendent en outre de la répartition des impôts affectés entre elles. En 2023, la part des cotisations sociales dans le financement de la sécurité sociale n’est plus que de 48 % (contre 90 % à la fin des années 1980) hors cotisations de l’État employeur. Les autres recettes comprennent notamment la CSG (20 % du total), la TVA (8 %) et d’autres impôts et taxes affectés (8 %) comme les taxes sur les tabacs, alcools et assurances.",
+        "financement de la Sécurité sociale a été promulguée le 2 août 2005 dans le prolongement de la LOLF. Ce texte introduit une démarche objectifs–résultats dans les comptes de la Sécurité sociale en France. Les lois de financement de la Sécurité sociale, créées en 1996, s'inspirent des lois de finances mais s'en distinguent fortement en ce qu'elles ne comportent pas d'autorisation budgétaire. Une nouvelle loi organique, promulguée le 14 mars 2022, vient réformer une nouvelle fois le processus d'adoption des LFSS, notamment concernant le calendrier d'adoption.",
+        "sécurité sociale, soit 1,52 pour l’État et les collectivités, et 1,51 pour les trois institutions. Sous la Cinquième République Présidence de Charles de Gaulle Le taux de croissance annuel des dépenses publiques est de 5,5 % environ entre 1959 et 1973, et 6,1 % entre 1973 et 1978. Les dépenses de l’État central passent d'un taux de croissance de 4,3 % sur la première période à 5 % sur la seconde ; celle des collectivités territoriales, de 6,7 % à 5,3 %. La sécurité sociale, elle, voit son taux de croissance passer de 7,6 % à 8,4 %.",
+        "La sécurité sociale, elle, voit son taux de croissance passer de 7,6 % à 8,4 %. De 1960 au moins à 1971 environ, le rapport des dépenses publiques au PIB est supérieur en France à la RFA, aux États-Unis, à l'Italie et au Royaume-Uni (hormis une brève période en 1969). À partir de 1971, la RFA et le Royaume-Uni dépassent la France, et ce jusqu'en 1978. La dépense d'investissement de l’État est de 4,3 % du PIB en 1959. En 1956, le déficit par rapport au PIB est de 8,3 %. En 1965, l'excédent est de 0,4 %."
+      ],
+      "response": "La Sécurité sociale verse 643 milliards d'euros de dépenses [DOC-016-C0001].",
+      "reference": "643 milliards d’euros",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.8286784561418796,
+      "llm_context_precision_with_reference": 0.9999999999,
+      "context_recall": 1.0,
+      "id": "Q07",
+      "type": "normale"
+    },
+    {
+      "user_input": "Quel est le salaire du président de la République ?",
+      "retrieved_contexts": [
+        "a déjà observé que la présidence est le seul pouvoir public pour lequel il n'existe aucun texte ». À partir de 2007, la rémunération du président de la République est plus transparente. Elle est d’un montant égal à celle du Premier ministre, soit 19 331 € mensuels, imposables et exclusifs de tout autre traitement, pension, prime ou indemnité. En 2012, conformément à l’engagement pris par François Hollande durant sa campagne présidentielle, la rémunération du Président de la République est diminuée de 30 %, passant de 21 300 € à 14 910 € bruts mensuels en août 2012.",
+        "en suspension de contrat) cotisent à une caisse de retraite spécifique et à la sécurité sociale. Président de la République Le palais de l'Élysée (Paris), siège de la présidence de la République. Tout au long de sa présidence, Charles de Gaulle est rémunéré 75 000 francs par an (soit l'équivalent de 132 000 € de 2026 pour 1962 et 101 000 € pour 1969) en tant que président de la République. Il ne revalorise pas sa rémunération pendant son mandat. En 2002, Jacques Chirac perçoit mensuellement 7 084 €, et 13 060 € de pensions.",
+        "de la République est diminuée de 30 %, passant de 21 300 € à 14 910 € bruts mensuels en août 2012. Depuis janvier 2024 (date de la dernière augmentation générale des fonctionnaires), la rémunération est de 16 038 € bruts mensuels. Les dépenses d’alimentation des membres de la famille du Président, qu’il reçoit dans les résidences présidentielles (pavillon de la Lanterne et fort de Brégançon), font l’objet d’un remboursement par ce dernier depuis 2018. À compter de 1988, les candidats à l’élection présidentielle doivent adresser au Conseil constitutionnel une déclaration de patrimoine ainsi que l’engagement, en cas d’élection, de déposer à l’expiration du mandat une nouvelle déclaration.",
+        "En 2002, Jacques Chirac perçoit mensuellement 7 084 €, et 13 060 € de pensions. En 2003, le député René Dosière fait remarquer que « la gestion du budget de la présidence de la République est entièrement privée puisqu'elle ne repose sur aucun texte, ni législatif ni réglementaire, à telle enseigne que la rémunération du président de la République est fixée par lui-même et non par un texte quelconque, contrairement à ce qui se passe pour les ministres. La Cour des comptes a déjà observé que la présidence est le seul pouvoir public pour lequel il n'existe aucun texte ».",
+        "que l’engagement, en cas d’élection, de déposer à l’expiration du mandat une nouvelle déclaration. La déclaration du candidat élu est la seule publiée. Il est attribué aux anciens présidents de la République française une dotation de l’ordre de 7 000 € bruts mensuels. De plus, un soutien matériel et en personnel leur est apporté. Les anciens présidents sont aussi membres à vie du Conseil constitutionnel. Les membres du cabinet du président de la République (fonctionnaires ou contractuels) perçoivent en 2017 une rémunération mensuelle nette (primes incluses) comprise entre 6 000 € et 15 000 €."
+      ],
+      "response": "Le salaire du président de la République est de 16 038 € bruts mensuels depuis janvier 2024 [DOC-032-C0006].",
+      "reference": "16 038 € bruts mensuels (depuis janvier 2024)",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.8276165590691525,
+      "llm_context_precision_with_reference": 0.3333333333,
+      "context_recall": 1.0,
+      "id": "Q08",
+      "type": "normale"
+    },
+    {
+      "user_input": "Combien de régimes spéciaux de retraite subsistent aujourd’hui en France ?",
+      "retrieved_contexts": [
+        "Les caisses des régimes spéciaux Principes Il subsiste à ce jour en France une dizaine de régimes spéciaux (près de 10 millions de bénéficiaires, actifs et retraités confondus). Ils concernent les salariés de grandes entreprises publiques (SNCF, RATP, IEG, etc.) ainsi que certaines professions aux risques atypiques (marins, clercs de notaire, danseurs de l'Opéra de Paris, etc...). Chacun de ces régimes a ses propres règles de fonctionnement, en fonction de l’activité exercée.",
+        "Régimes spéciaux de retraite Ce billet fait le point sur les principales caractéristiques des régimes spéciaux de retraite et sur les mesures qui les concernent dans le projet de loi de réforme des retraites présenté par le gouvernement. Les principaux régimes spéciaux sont ceux des fonctionnaires de l’Etat (2,5 millions de retraités), des fonctionnaires territoriaux et hospitaliers (1,5 million), de la SNCF, de la RATP et des industries électriques et gazières (0,5 million pour l’ensemble des trois).",
+        "Or ce regroupement était un préalable à une éventuelle fusion avec le service concerné de la CDC. Les trois autres régimes spéciaux les plus importants (SNCF, RATP et industries électriques et gazières) versent des pensions à 0,5 millions de retraités de droit direct ou dérivé. Ils sont gérés par des caisses de retraite distinctes. Les régimes spéciaux autres que ceux des fonctionnaires on fait l’objet en 2008 d’une réforme visant à aligner leurs règles sur celles des régimes de fonctionnaires mais, comme le montre le rapport précité de la Cour des comptes, leurs règles restent plus favorables que celles applicables aux fonctionnaires.",
+        "agents de plusieurs organismes ou branches d’activité ont également un régime spécial de retraite. Les trois plus importants par leurs effectifs sont ceux de la SNCF, de la RATP et des industries électriques et gazières. Ils ont fait l’objet d’un rapport de la Cour des comptes en 2019. Les assemblées parlementaires, la Banque de France, la Comédie Française, les clercs et employés de notaires, les ouvriers de l’Etat ont aussi, parmi d’autres, un régime spécial de retraite. Ces régimes spéciaux fonctionnent en répartition.",
+        "d'État, et/ou des contributions au titre de la compensation du déséquilibre démographique. Ils ont d’ores et déjà vu s’appliquer les réformes de 2010 et 2014 qui ont augmenté l’âge de départ et allongé la durée de cotisation. Réforme 2023 : La réforme des retraites prévoit la suppression de certains régimes spéciaux. Ceux qui existent toujours après la réforme sont ceux des professions libérales et avocats, des marins, de l'Opéra de Paris et de la Comédie Française. Les nouveaux embauchés à la RATP, à EDF, Engie et aux autres industries électriques et gazières (IEG), à la Banque de France, ainsi que les clercs de notaire et les membres du Conseil économique, social et environnemental se verront affiliés au régime général."
+      ],
+      "response": "Il subsiste aujourd'hui en France une dizaine de régimes spéciaux de retraite [DOC-029-C0001].",
+      "reference": "Une dizaine de régimes spéciaux",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9191558979864697,
+      "llm_context_precision_with_reference": 0.9166666666361111,
+      "context_recall": 1.0,
+      "id": "Q09",
+      "type": "normale"
+    },
+    {
+      "user_input": "Quelle part des salaires bruts des fonctionnaires de l’État représentent les primes et indemnités en 2024 ?",
+      "retrieved_contexts": [
+        "d’un agent ne peut pas être inférieur à un minimum égal au SMIC brut, soit 1 867 € en octobre 2026. Si le calcul précédent conduit à un montant inférieur, l’indice majoré des agents concernés est relevé, ou une indemnité différentielle leur est versée, de telle sorte que leur salaire brut soit égal au SMIC brut. 2) Les primes et indemnités Les primes et indemnités représentent en moyenne 26 % du salaire brut des fonctionnaires de l’Etat en 2024 (contre 22 % en 2012). Certaines sont communes à l’ensemble des agents des trois fonctions publiques ; d’autres sont spécifiques à des corps, à des ministères, aux hôpitaux, à des établissements publics ou à des collectivités territoriales.",
+        "part, l’attractivité des postes de la catégorie A supérieure de la fonction publique diminue. b) Les primes et indemnités Les primes et indemnités représentent 25 % du salaire brut des agents de catégories A, 30 % de celui des agents de catégorie B et 23 % de celui des agents de catégorie C en 2024. Cette part des primes varie beaucoup d’un corps à l’autre. Les primes et indemnités représentent ainsi 16 % du salaire brut des professeurs des écoles, 22 % de celui des professeurs de lycées professionnels, 39 % de celui des lieutenants et capitaines de police, 28 % de celui des greffiers, 25 % de celui des adjoints administratifs et 34 % de celui des corps d’encadrement de l’administration pénitentiaire.",
+        "Les autres sont spécifiques à des corps, des ministères ou des employeurs. Selon un rapport de 2026 de la Cour des comptes sur la rémunération à la performance des agents de l’Etat, il existe 943 primes différentes en 2023, un nombre stable depuis dix ans. Les primes et indemnités sont en principe créées par un texte législatif ou réglementaire. Dans les collectivités territoriales, une délibération de l’assemblée locale est nécessaire. Elles sont de nature extrêmement variée : indemnités pour travaux « supplémentaires » ou « exceptionnels » ; primes de « technicité » ou de « rendement » ; indemnités dues en raison de sujétions particulières (travail nocturne, en horaires alternants…) ; primes liées à une expertise particulière (informatique, langues étrangères…) etc. Certaines sont associées à une zone géographique comme les compléments de rémunération outre-mer.",
+        "adjoints administratifs et 34 % de celui des corps d’encadrement de l’administration pénitentiaire. c) La rémunération totale En 2024, la rémunération, primes et indemnités incluses, que dépassent les 10 % d’agents les mieux payés en équivalents temps plein (seuil du dernier décile) est 2,5 fois supérieure à celle au-dessous de laquelle se trouvent les 10 % les moins bien payés (seuil du deuxième décile) dans la fonction publique d’Etat (2,1 dans la fonction publique hospitalière et 1,9 dans la fonction publique territoriale).",
+        "des hommes en équivalent temps plein (13 % dans le secteur privé) et de 4 % à profil comparable. La rémunération mensuelle nette du 1 % de fonctionnaires les mieux payés s’établit à 9 626 € en moyenne. 4) La prise en compte des résultats Les primes et indemnités permettent en théorie de compenser des sujétions particulières et de récompenser l’acceptation de responsabilités, l’acquisition de compétences ou l’amélioration des résultats individuels ou collectifs. Toutefois, pour qu’elles incitent les agents à améliorer leurs performances et celles de leur service, encore faut-il que leur montant ait un rapport avec l’importance des sujétions, des responsabilités, des compétences acquises ou des résultats obtenus."
+      ],
+      "response": "Les primes et indemnités représentent en moyenne 26 % du salaire brut des fonctionnaires de l'État en 2024 [DOC-031-C0009].",
+      "reference": "26 % du salaire brut (contre 22 % en 2012)",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.9275870033256503,
+      "llm_context_precision_with_reference": 0.99999999995,
+      "context_recall": 1.0,
+      "id": "Q10",
+      "type": "normale"
+    },
+    {
+      "user_input": "Quel est le salaire de Donald Trump ?",
+      "retrieved_contexts": [
+        "a déjà observé que la présidence est le seul pouvoir public pour lequel il n'existe aucun texte ». À partir de 2007, la rémunération du président de la République est plus transparente. Elle est d’un montant égal à celle du Premier ministre, soit 19 331 € mensuels, imposables et exclusifs de tout autre traitement, pension, prime ou indemnité. En 2012, conformément à l’engagement pris par François Hollande durant sa campagne présidentielle, la rémunération du Président de la République est diminuée de 30 %, passant de 21 300 € à 14 910 € bruts mensuels en août 2012.",
+        "de la République est diminuée de 30 %, passant de 21 300 € à 14 910 € bruts mensuels en août 2012. Depuis janvier 2024 (date de la dernière augmentation générale des fonctionnaires), la rémunération est de 16 038 € bruts mensuels. Les dépenses d’alimentation des membres de la famille du Président, qu’il reçoit dans les résidences présidentielles (pavillon de la Lanterne et fort de Brégançon), font l’objet d’un remboursement par ce dernier depuis 2018. À compter de 1988, les candidats à l’élection présidentielle doivent adresser au Conseil constitutionnel une déclaration de patrimoine ainsi que l’engagement, en cas d’élection, de déposer à l’expiration du mandat une nouvelle déclaration.",
+        "Autres activités | Année civile précédente | 286 000 €\nAutres activités | Année civile en cours | 323 000 €",
+        "les parlementaires, sur le traitement des fonctionnaires classés dans la catégorie hors échelle. En 2012, conformément à l’engagement pris par François Hollande durant sa campagne présidentielle, le traitement des membres du Gouvernement est diminué de 30 %, les rémunérations brutes mensuelles sont ramenées : - de 21 300 € à 14 910 € pour le Premier ministre ; - de 14 200 € à 9 940 € pour les ministres et ministres délégués ; - de 13 490 € à 9 443 € pour les secrétaires d’État. Depuis janvier 2024 (date de la dernière augmentation générale des fonctionnaires), les rémunérations brutes mensuelles sont : - 16 038 € pour le Premier ministre ; - 10 692 € pour les ministres et ministres délégués ; - 10 157 € pour les secrétaires d’État.",
+        "en suspension de contrat) cotisent à une caisse de retraite spécifique et à la sécurité sociale. Président de la République Le palais de l'Élysée (Paris), siège de la présidence de la République. Tout au long de sa présidence, Charles de Gaulle est rémunéré 75 000 francs par an (soit l'équivalent de 132 000 € de 2026 pour 1962 et 101 000 € pour 1969) en tant que président de la République. Il ne revalorise pas sa rémunération pendant son mandat. En 2002, Jacques Chirac perçoit mensuellement 7 084 €, et 13 060 € de pensions."
+      ],
+      "response": "L'information concernant le salaire de Donald Trump n'est pas présente dans le contexte fourni.",
+      "reference": "Je ne sais pas (information absente du corpus)",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.0,
+      "llm_context_precision_with_reference": 0.0,
+      "context_recall": 1.0,
+      "id": "Q11",
+      "type": "piege"
+    },
+    {
+      "user_input": "Quel est le montant du budget de la Suisse en 2026 ?",
+      "retrieved_contexts": [
+        "Adoption définitive du budget de l'état pour 2026 : des moyens renforcés pour l'école L’adoption définitive du projet de loi de finances pour 2026 entérine les moyens alloués à l’Éducation nationale et confirme la priorité donnée à la jeunesse et à l’avenir, avec une hausse budgétaire de 200 millions d’euros et la création de près de 5 900 emplois supplémentaires par rapport à 2025. Ces moyens vont permettre de déployer les mesures préparées pour la rentrée scolaire 2026.",
+        "Éducation nationale : le budget 2026 prévoit 5 900 postes créés et des moyens renforcés L'adoption définitive du budget de l'État pour 2026 confirme la priorité donnée à l'éducation, avec une hausse de 200 millions d'euros et près de 5 900 postes supplémentaires. Le ministère vise un encadrement historique des élèves, une école plus inclusive et un soutien renforcé à la santé scolaire. Un renforcement de l'école inclusive et un soutien à la santé scolaire L'adoption définitive du budget de l'État pour 2026, confirme la priorité donnée à l'éducation.",
+        "une hausse de 8% par rapport à la loi de finances initiale pour 2023 et de 46% depuis 2017. Le contexte stratégique est marqué par le retour de la guerre de haute intensité et des crises majeures. Le budget est en cohérence avec les objectifs de la Revue nationale stratégique de novembre 2022 (économie concourant à l'esprit de défense, résilience cyber, autonomie stratégique européenne, champs hybrides…) et la nouvelle LPM. La LFI pour 2024 fixe des priorités suivantes : le renforcement : - de la préparation opérationnelle ; - des capacités de soutien ; - des systèmes de défense sol-air et la remontée globale des stocks de munitions ; la modernisation : - des infrastructures ; - de la dissuasion nucléaire ; la fidélisation des personnels.",
+        "financeur, en analyse les résultats en 2025, et les replace dans une perspective internationale. La publication du panorama est accompagnée de la diffusion de jeux de données qui permet d’explorer à un niveau fin les dépenses de santé par poste et par financeur. L’édition 2026 se distingue par un changement de focale par rapport aux éditions précédentes : les analyses sont désormais proposées directement au niveau de la dépense courante de santé au sens international (DCSi). L’opposition entre la DCSi et la CSBM, structurante dans les éditions précédentes, disparaît, la CSBM apparaissant comme une composante de la DCSi.",
+        "en juillet 2026, mettent également en lumière la nécessité d’un renforcement supplémentaire. Le renforcement proposé de 4 milliards d’EUR en faveur de la cohésion vise à réduire l’arriéré à la fin de 2026 par rapport au niveau de fin 2025, ce qui atténuera également la pression sur le budget 2027. • Feader Au début de cette année, les États membres avaient déjà révisé à la hausse leurs prévisions pour 2026 en ce qui concerne les plans stratégiques relevant de la PAC 2023-2027 au titre du Fonds européen agricole pour le développement rural (Feader), pour lesquels le budget rectificatif nº 2/2026 prévoyait une première augmentation des crédits de paiement de 2,2 milliards d’EUR."
+      ],
+      "response": "L'information concernant le montant du budget de la Suisse en 2026 n'est pas présente dans le contexte fourni.",
+      "reference": "Je ne sais pas (information absente du corpus)",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.0,
+      "llm_context_precision_with_reference": 0.0,
+      "context_recall": 1.0,
+      "id": "Q12",
+      "type": "piege"
+    }
+  ]
+}

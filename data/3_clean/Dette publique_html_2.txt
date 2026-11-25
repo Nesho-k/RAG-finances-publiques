@@ -1,0 +1,87 @@
+Informations Rapides · 29 septembre 2026 · n° 239
+
+À la fin du deuxième trimestre 2026, le ratio de dette publique s’établit à 119,0 % du PIB
+
+Dette trimestrielle de Maastricht des administrations publiques (APU) - deuxième trimestre 2026
+
+À la fin du deuxième trimestre 2026, la dette publique au sens de Maastricht s’établit à 3 595,5 Md€, soit une augmentation de 59,6 Md€, après +75,8 Md€ au premier trimestre 2026. Exprimée en pourcentage du produit intérieur brut (PIB), elle s’établit à 119,0 % du PIB, après 117,5 % au premier trimestre 2026. La hausse de la dette publique s’accompagne d’une baisse de la trésorerie des administrations publiques (-6,8 Md€ après +21,3 Md€), si bien que la dette nette (+68,2 Md€) augmente plus que la dette brute (+59,6 Md€) et s’établit à 111,4 % du PIB, après 109,7 % au premier trimestre 2026.
+
+Avertissement
+
+Le calcul de la dette trimestrielle mobilise des sources qui peuvent être sujettes à révision pendant plusieurs trimestres.
+
+Pour une période donnée, la variation de la dette ne permet pas de déduire le déficit public, en raison notamment de l’existence d’actifs financiers et de passifs exclus du périmètre de la dette de Maastricht. En outre, le déficit public trimestriel publié par l’Insee est corrigé des variations saisonnières et de l’effet des jours ouvrables, ce qui n’est pas le cas de la dette trimestrielle.
+
+La dette publique au sens de Maastricht est consolidée : les contributions à la dette publique, calculées pour les sous-secteurs des administrations publiques ou pour une entité en particulier, excluent les dettes vis-à-vis d’autres administrations publiques.
+
+La dette de l’État augmente alors que celle des organismes divers d’administration centrale se stabilise
+
+Au deuxième trimestre 2026, la contribution de l'État à la dette publique augmente de 53,0 Md€, après une hausse de 66,3 Md€ au trimestre précédent. L’encours de titres négociables de long terme de l’État augmente (+36,9 Md€ après +58,4 Md€), tout comme celui des titres négociables de court terme (+16,5 Md€ après +7,9 Md€). L’État diminue en parallèle sa trésorerie (-10,8 Md€) et sa détention de prêt de long terme (-1,2 Md€), si bien que sa dette nette augmente plus que sa dette brute (+65,1 Md€ après +39,3 Md€).
+
+La contribution des organismes divers d’administration centrale (Odac) à la dette est quasi stable (-0,1 Md€ après +0,3 Md€ au trimestre précédent). Leur encours d’obligations de long terme augmente (+0,2 Md€), tandis que les crédits de long terme diminuent (-0,3 Md€). En particulier, SNCF Réseau augmente sa dette (+0,3 Md€), tandis que Bpifrance Participations se désendette (-0,2 Md€), tout comme France Compétences (-0,1 Md€).
+
+La dette des administrations de sécurité sociale augmente
+
+Au deuxième trimestre 2026, la contribution des administrations de sécurité sociale (Asso) à la dette publique augmente (+8,4 Md€, comme au premier trimestre 2026), du fait principalement de l’Urssaf Caisse Nationale (+4,8 Md€) et de la Cades (+4,0 Md€), tandis que la Cnaf se désendette (-0,9 Md€). Cette augmentation de la dette des Asso recouvre une hausse de l’encours des titres négociables de long terme (+12,8 Md€) et des prêts de court terme (+3,1 Md€), atténuée par une baisse de l’encours des titres négociables de court terme (-7,3 Md€) et des prêts de long terme (-0,2 Md€). La hausse de la dette des Asso s’accompagne d’une augmentation de leur trésorerie de 3,9 Md€ et d’une baisse de leur détention d’obligations de long terme (-0,8 Md€), si bien que la dette nette des Asso augmente moins que leur dette brute (+5,2 Md€ après +15,6 Md€).
+
+La dette des administrations publiques locales diminue
+
+Au deuxième trimestre 2026, la dette publique des administrations publiques locales (Apul) diminue de 1,7 Md€, après une hausse de 0,8 Md€ au trimestre précédent. La diminution de leurs titres de long terme (-0,7 Md€), de leurs prêts de long terme (-0,8 Md€) et de leurs titres de court terme (-0,2 Md€) est atténuée par une hausse des encours de crédits de court terme (+0,1 Md€). En parallèle, les Apul augmentent leur détention de crédits (+0,1 Md€) et leurs dépôts (+0,1 Md€), si bien que leur dette nette diminue davantage que leur dette brute (-1,8 Md€).
+
+Les régions diminuent leur endettement (-1,1 Md€), de même que les communes (-0,6 Md€) et les départements (-0,4 Md€). À l’inverse, les Organismes divers d’administration locale s’endettent (+0,3 Md€ dont +0,2 Md€ pour Île-de-France Mobilités), tout comme les syndicats des collectivités locales (+0,1 Md€).
+
+Tableau : La dette de Maastricht des APU en fin de trimestre et sa répartition par sous-secteur et par instrument (en milliards d’euros)
+Libellé | 2025T2 | 2025T3 | 2025T4 | 2026T1 | 2026T2
+Ensemble des adm. publiques | 3 417,2 | 3 484,1 | 3 460,1 | 3 535,9 | 3 595,5
+en point de PIB (*) | 115,2 % | 117,0 % | 115,7 % | 117,5 % | 119,0 %
+dont, par sous-secteur, consolidée (*) : | | | | |
+État | 2 787,2 | 2 845,3 | 2 822,7 | 2 889,1 | 2 942,1
+Organismes divers d'adm. centrale | 68,5 | 69,2 | 69,0 | 69,3 | 69,2
+Administrations publiques locales | 263,1 | 263,5 | 275,7 | 276,5 | 274,9
+Administrations de sécurité sociale | 298,4 | 306,0 | 292,6 | 301,0 | 309,4
+dont, par instrument : | | | | |
+Dépôts | 41,8 | 44,7 | 42,8 | 43,0 | 42,7
+Titres négociables | 3 064,6 | 3 124,1 | 3 096,2 | 3 170,8 | 3 229,0
+court terme | 272,1 | 271,0 | 270,9 | 282,7 | 291,7
+long terme | 2 792,5 | 2 853,1 | 2 825,3 | 2 888,1 | 2 937,3
+Crédits | 310,7 | 315,2 | 321,1 | 322,1 | 323,8
+court terme | 16,5 | 19,9 | 13,7 | 17,5 | 20,6
+long terme | 294,2 | 295,3 | 307,5 | 304,6 | 303,2
+(*) voir précisions dans l’encadré « Pour en savoir plus ».
+Source : Comptes nationaux base 2020 – Insee, DGFiP, Banque de France.
+
+Au deuxième trimestre 2026, la dette publique nette augmente de 68,2 Md€
+
+L’analyse de l’endettement des administrations publiques (APU) peut être complétée par les actifs financiers qu’elles détiennent. La construction de la dette nette les prend en compte en soustrayant à la dette brute des APU les actifs que ces dernières détiennent sur le même champ d’instruments financiers. La dette nette des administrations publiques s’élève à 3 366,8 Md€ au deuxième trimestre 2026, soit 111,4 % du PIB, après 109,7 % au premier trimestre 2026. Elle augmente de 68,2 Md€, après +55,8 Md€ au trimestre précédent. L’écart de 8,5 Md€ avec la hausse de la dette brute s’explique principalement par la diminution de la trésorerie de l’État (-10,8 Md€), partiellement compensée par la hausse de celle des Asso (+3,9 Md€).
+
+Tableau : La dette nette des APU en fin de trimestre et sa répartition par sous-secteur (en milliards d’euros)
+Libellé | 2025T2 | 2025T3 | 2025T4 | 2026T1 | 2026T2
+Ensemble des adm. publiques | 3 175,7 | 3 237,4 | 3 242,8 | 3 298,6 | 3 366,8
+dont : | | | | |
+État | 2 672,5 | 2 724,7 | 2 727,3 | 2 766,5 | 2 831,7
+Organismes divers d'adm. centrale | 35,6 | 37,1 | 37,4 | 37,8 | 37,6
+Administrations publiques locales | 249,0 | 249,3 | 261,4 | 261,9 | 260,1
+Administrations de sécurité sociale | 218,7 | 226,2 | 219,5 | 234,8 | 237,5
+Source : Comptes nationaux base 2020 – Insee, DGFiP, Banque de France.
+
+La valeur globale des détentions en actions cotées et en titres d’organismes de placement collectif augmente au deuxième trimestre 2026
+
+Une appréciation plus complète de la situation financière des APU passe par l’analyse d’actifs qui n’entrent pas dans la définition de la dette nette. Ainsi, au deuxième trimestre 2026, la valeur totale des actions cotées et des titres d’organismes de placement collectif détenus par les APU augmente de 15,5 Md€ (après -3,5 Md€ au trimestre précédent) et s’établit à 328,8 Md€. Cette hausse est portée par les Asso (+8,8 Md€), les Odac (+4,4 Md€), et l’État (+2,3 Md€).
+
+Tableau : Les actions cotées et les OPC détenues par les administrations publiques (en milliards d’euros)
+Libellé | 2025T2 | 2025T3 | 2025T4 | 2026T1 | 2026T2
+Ensemble des adm. publiques | 299,2 | 309,4 | 316,9 | 313,4 | 328,8
+dont : | | | | |
+État | 70,0 | 73,4 | 73,6 | 75,0 | 77,3
+Organismes divers d'adm. centrale | 63,3 | 65,7 | 68,0 | 64,9 | 69,3
+Administrations publiques locales | 0,2 | 0,2 | 0,2 | 0,2 | 0,2
+Administrations de sécurité sociale | 165,7 | 170,1 | 175,1 | 173,2 | 182,0
+Source : Comptes nationaux base 2020 – Insee, DGFiP, Banque de France.
+
+Pour en savoir plus
+
+Au dernier trimestre d’une année, le produit intérieur brut (PIB) utilisé pour exprimer la dette en point de PIB est le PIB annuel en données brutes. Cette mesure n’a pas de strict équivalent en cours d’année ; elle est approximée par le cumul du PIB trimestriel en données corrigées des variations saisonnières et des jours ouvrables (CVS-CJO) sur les quatre derniers trimestres connus.
+
+La méthodologie est disponible dans l’onglet « Documentation » de la page de l’indicateur sur insee.fr.
+
+Prochaine publication : le 18 décembre 2026 à 8h45.

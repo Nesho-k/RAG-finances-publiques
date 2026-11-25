@@ -1,0 +1,324 @@
+1
+FIPECO le 01.02.2023
+Les commentaires de l’actualité
+Régimes spéciaux de retraite
+François ECALLE
+Ce billet fait le point sur les principales caractéristiques des régimes spéciaux de retraite et sur
+les mesures qui les concernent dans le projet de loi de réforme des retraites présenté par le
+gouvernement.
+Les principaux régimes spéciaux sont ceux des fonctionnaires de l’Etat (2,5 millions de
+retraités), des fonctionnaires territoriaux et hospitaliers (1,5 million), de la SNCF, de la
+RATP et des industries électriques et gazières (0,5 million pour l’ensemble des trois). Ce
+sont des régimes par répartition et leurs affiliés n’ont pas de régimes complémentaires.
+L’existence de deux régimes distincts pour les fonctionnaires n’a pas de justification
+sérieuse. Les régimes spéciaux autres que ceux de la fonction publique, parfois très
+petits, ont été réformés en 2008 pour rapprocher leurs règles de celles des régimes de
+fonctionnaires, mais elles restent plus favorables que ces dernières.
+Le calcul des pensions, en fonction des revenus d’activité, est très différent dans les
+régimes spéciaux et dans les régimes (de base et complémentaires) des salariés du
+secteur privé. Le hasard fait cependant que les taux moyens de remplacement des
+revenus d’activité par les pensions sont assez proches dans ces régimes, mais ces taux
+moyens masquent de fortes disparités, notamment en fonction du taux de prime pour les
+fonctionnaires.
+Le principal avantage des régimes spéciaux, pour une partie de leurs affiliés, réside dans
+la possibilité de partir plus tôt en retraite sans en être toujours pénalisé sur le plan
+financier. En conséquence, si les fonctionnaires « sédentaires » partent en retraite un
+peu plus tard que les salariés du privé, les « actifs » et « super actifs » de la fonction
+publique partent 3 ans plus tôt et les agents des trois principaux autres régimes spéciaux
+de 4 à 6 ans plus tôt.
+Les pensions versées par ces régimes ont atteint 90 Md€ en 2021 et ont été financées par
+des cotisations salariales pour 14 Md€, par des cotisations des employeurs pour 28 Md€
+et par des subventions d’équilibre ou des taxes affectées pour 47 Md€. Les cotisations
+des employeurs sont elles-mêmes largement financées par des impôts d’Etat ou locaux.
+Les régimes de retraite du secteur privé sont toutefois eux-mêmes pour partie financées
+par des impôts et les subventions aux régimes spéciaux peuvent être partiellement
+justifiées par une démographie défavorable. S’il est en pratique difficile de mesurer et
+comparer la « générosité » des différents régimes, on peut tout de même noter que les
+départs anticipés dans les régimes spéciaux ont un coût annuel de plus de 8 Md€.
+Le gouvernement prévoit de mettre en extinction, en appliquant la « clause du grand-
+père », la plupart des régimes spéciaux autres que ceux de la fonction publique. Ces
+derniers devraient pourtant eux aussi être mis en extinction de la même façon. Il prévoit
+2
+aussi d’appliquer les mesures visant un relèvement de l’âge effectif de départ en retraite
+parallèlement aux salariés du secteur privé et aux affiliés des régimes spéciaux (recul de
+deux ans d’âges minimaux différents…). En dépit d’autres mesures spécifiques aux
+fonctionnaires mais d’ampleur limitée, les écarts entre régimes ne devraient donc pas
+être accentués. Il ne faudrait pas que la poursuite de la concertation avec les partenaires
+sociaux et les débats parlementaires conduisent à les amplifier.
+A) Le périmètre et la gestion des régimes spéciaux
+L’article L711-1 du code de la sécurité sociale prévoit que « parmi celles jouissant déjà d'un
+régime spécial le 6 octobre 1945, demeurent provisoirement soumises à une organisation
+spéciale de sécurité sociale les branches d'activités ou entreprises énumérées par un décret en
+Conseil d'Etat ». Ces dispositions provisoires durent depuis plus de 75 ans.
+Les fonctionnaires ont deux régimes spéciaux de retraites : le premier couvre les
+fonctionnaires civils et militaires de l’Etat et le second les agents des collectivités locales,
+auxquels sont rattachés les personnels hospitaliers. Ils sont présentés chaque année dans un
+« rapport jaune » annexé au projet de loi de finances. Les agents de plusieurs organismes ou
+branches d’activité ont également un régime spécial de retraite. Les trois plus importants par
+leurs effectifs sont ceux de la SNCF, de la RATP et des industries électriques et gazières. Ils
+ont fait l’objet d’un rapport de la Cour des comptes en 2019. Les assemblées parlementaires,
+la Banque de France, la Comédie Française, les clercs et employés de notaires, les ouvriers de
+l’Etat ont aussi, parmi d’autres, un régime spécial de retraite. Ces régimes spéciaux
+fonctionnent en répartition.
+Alors que les salariés du secteur privé sont affiliés à la fois à un régime de base, le régime
+général, et à un régime complémentaire, l’Agirc-Arrco, tous deux en répartition, les
+fonctionnaires n’ont pas de régime complémentaire. Depuis 2003, ils sont toutefois affiliés à
+un régime de « retraite additionnelle » par capitalisation dont les cotisations sont assises sur
+leurs primes dans la limite de 20 % du traitement. Les prestations versées restant très limitées
+(moins de 0,5 Md€), il n’est pas traité dans cette note.
+Le régime des fonctionnaires civils et militaires de l’Etat verse des pensions à 2,5 millions de
+retraités de droit direct ou dérivé (réversion) et celui des agents des collectivités locales et des
+hôpitaux à 1,5 million de retraités.
+Les règles de liquidation et de revalorisation des retraites sont quasiment identiques dans les
+deux régimes de fonctionnaires. Si les cotisations salariales sont les mêmes, les taux des
+cotisations à la charge de l’employeur sont différents (cf. plus loin) car les ratios
+démographiques retraités / cotisants sont eux-mêmes différents.
+Le régime de la fonction publique d’Etat est géré par un service du ministère des finances, le
+« service des retraites de l’État ». Il fait l’objet d’un « compte d’affectation spéciale » dans la
+comptabilité budgétaire de l’Etat qui enregistre les pensions versées aux retraités et les
+cotisations reçues des agents en poste et des ministères employeurs (budget général). Les
+retraites du régime des fonctions publiques territoriale et hospitalière sont versées par un
+établissement public, la « caisse nationale de retraite des agents des collectivités locales »
+(CNRACL). Elle est administrée par un conseil rassemblant notamment des représentants élus
+des employeurs (collectivités locales et hôpitaux) et des fonctionnaires concernés. Sa gestion
+est déléguée à la Caisse des dépôts et consignations (CDC).
+3
+La fusion de ces deux régimes, dont la coexistence n’a pas de justification sérieuse et
+constitue un frein à la mobilité entre les trois fonctions publiques, permettrait de faire des
+économies de gestion significatives, mais le service des retraites de l’Etat ne regroupe lui-
+même que depuis 2020 tous les bureaux qui géraient auparavant les retraites des agents dans
+les ministères. Or ce regroupement était un préalable à une éventuelle fusion avec le service
+concerné de la CDC.
+Les trois autres régimes spéciaux les plus importants (SNCF, RATP et industries électriques
+et gazières) versent des pensions à 0,5 millions de retraités de droit direct ou dérivé. Ils sont
+gérés par des caisses de retraite distinctes.
+Les régimes spéciaux autres que ceux des fonctionnaires on fait l’objet en 2008 d’une réforme
+visant à aligner leurs règles sur celles des régimes de fonctionnaires mais, comme le montre le
+rapport précité de la Cour des comptes, leurs règles restent plus favorables que celles
+applicables aux fonctionnaires. Les mesures prises ensuite en 2010 et 2014 pour reculer l’âge
+minimal de départ en retraite et augmenter la durée de cotisation requise pour obtenir le taux
+plein ont été appliquées dans ces régimes comme dans ceux de la fonction publique et des
+salariés du secteur privé, mais avec un calendrier décalé. Par exemple, le relèvement de deux
+ans de l’âge minimal d’ouverture des droits ne sera effectif qu’en 2024 alors qu’il l’est depuis
+2017 dans le régime général et la fonction publique.
+Les agents recrutés à la SNCF depuis le début de 2020 n’ont plus le statut de cheminot et sont
+affiliés aux régimes de retraite des salariés du secteur privé. Les cheminots en poste avant la
+fin de 2019 gardent leur statut et leur régime de retraite (clause dite du grand-père).
+Sauf mention contraire, les règles relatives aux pensions et aux ressources des régimes
+spéciaux qui sont présentées dans la suite de cette note sont celles des régimes de
+fonctionnaires et les règles relatives aux pensions et aux ressources des régimes des salariés
+du secteur privé sont celles du régime général.
+B) Le calcul des pensions
+Le salaire de référence pour le calcul de la pension est celui des six derniers mois dans la
+fonction publique au lieu de la moyenne des 25 meilleures années (retraite de base) ou de
+toute la carrière (retraite complémentaire) dans le secteur privé. Ce salaire de référence, de
+même que l’assiette des cotisations sociales, exclue les primes dans les régimes de
+fonctionnaires alors que tous les éléments de rémunération sont pris en compte dans le régime
+général et les régimes complémentaires.
+Le taux plein appliqué à ce salaire de référence est de 75 % dans la fonction publique et de
+50 % dans le régime général des salariés du secteur privé, mais ces derniers bénéficient
+également de retraites complémentaires qui portent leur taux plein réel également aux
+alentours de 75 % en moyenne.
+La comparaison des règles des régimes de retraites publics et privés présente d’importantes
+difficultés méthodologiques et il n’est pas étonnant que des résultats différents soient obtenus
+selon les études. Tous les travaux réalisés jusqu’à ce présent, notamment ceux du conseil
+d’orientation des retraites (COR) et de la Cour des comptes, conduisent néanmoins à des taux
+de remplacement du salaire net moyen des cinq années précédant la retraite par la pension
+4
+nette, après une carrière complète, qui sont en moyenne proches (environ 75 %)1. Les
+fonctionnaires sont avantagés par la règle des six mois et pénalisés par l’exclusion des primes.
+Cette égalité, approximative, du taux moyen de remplacement malgré des règles très
+différentes, résulte du hasard. Elle masque d’ailleurs d’importantes disparités, notamment en
+fonction du taux de prime des fonctionnaires, qui est très variable d’un corps et d’un ministère
+à l’autre. Si les règles du privé étaient appliquées aux fonctionnaires partant aujourd’hui en
+retraite, environ deux tiers d’entre eux y gagneraient et les autres y perdraient, les gains et
+pertes en question pouvant être supérieurs à 15 % du montant de la pension.
+L’application des règles du secteur privé aux fonctionnaires les conduirait toutefois à payer
+des cotisations salariales sur leurs primes. Une étude récente de la DREES montre que, si on
+en tient compte, l’application des règles du privé aux fonctionnaires entrainerait une baisse
+d’environ 0,7 % de leur revenu moyen sur un cycle de vie.
+Les taux moyens de remplacement différaient dans le passé : ils étaient plus élevés pour les
+fonctionnaires parce que la part des primes dans leur rémunération était plus faible. Ils seront
+de nouveau plus élevés pour les fonctionnaires dans l’avenir si la part des primes dans leur
+rémunération ne change pas. En effet, le taux de remplacement moyen baissera d’ici à 2070
+dans les régimes de retraite du secteur privé en particulier parce que les salaires passés sont
+actualisés en fonction de l’inflation pour faire la moyenne des 25 meilleures années. Si les
+salaires augmentent plus vite que l’inflation, ce mode d’actualisation conduit à un décrochage
+du salaire de référence utilisé pour liquider la pension par rapport au salaire effectif à la date
+de la retraite. La règle des six derniers mois protège les fonctionnaires contre cet effet.
+Il existe d’autres différences entre les régimes spéciaux et les régimes des salariés du secteur
+privé (avantages liés au nombre d’enfants, modalités d’attribution des pensions de
+réversion…) mais, par souci de simplification, elles ne sont pas présentées ici.
+C) L’âge de départ
+1) Les régimes de la fonction publique
+L’âge moyen des personnes qui ont liquidé leur retraite en 2020 est de 63,6 ans dans la
+fonction publique civile d’Etat pour les « sédentaires » et de 62,9 ans dans le régime général.
+Cet âge moyen est nettement inférieur pour les « actifs » et « super-actifs » (59,7 ans pour les
+civils) et pour les militaires (44,9 ans). Ces âges moyens sont proches de ceux de la fonction
+publique d’Etat dans les deux autres fonctions publiques. Rapportée à l’espérance de vie, la
+durée de la retraite des fonctionnaires est supérieure à celle des salariés du secteur privé.
+En effet, l’âge minimal d’ouverture des droits à la retraite est de 62 ans pour les sédentaires,
+d’un peu moins de 57 ans pour les actifs et 52 ans pour les super actifs, sous réserve d’une
+durée minimale de services pour ces deux catégories (respectivement 17 et 25 ans). De plus,
+le nombre de trimestres de cotisation validés est parfois « bonifié », à hauteur d’un cinquième
+pour les catégories super-actives de la fonction publique d’Etat. Des règles spécifiques
+s’appliquent également aux militaires s’agissant de l’âge minimal pour liquider la pension et
+des bonifications de durée d’assurance.
+1 Le taux de remplacement est un meilleur indicateur que le montant des pensions pour comparer les régimes car
+des pensions plus élevées peuvent résulter de salaires plus élevés qui tiennent eux-mêmes à une qualification en
+moyenne plus forte.
+5
+Les fonctionnaires dits actifs ou super-actifs appartiennent à des corps classés dans ces
+catégories, souvent dans des temps anciens, parce que les emplois concernés « présentent un
+risque particulier ou des fatigues exceptionnelles » selon le code des pensions. Les super-
+actifs de la fonction publique d’Etat (police nationale, services pénitentiaires et contrôle
+aérien) étaient environ 150 000 en 2020. Les actifs (douaniers…) étaient environ 16 000 ;
+ceux de la fonction publique territoriale (pompiers, policiers municipaux…) étaient en
+nombre indéterminé mais pouvaient être 550 000 (surtout des adjoints techniques et agents de
+maîtrise mais il est impossible de les distinguer dans les statistiques) ; ceux de la fonction
+publique hospitalière (aides-soignants, ouvriers et agents d’entretien…) pouvaient être
+400 000 mais ne sont pas non plus distingués dans les statistiques.
+Les salariés du secteur privé dont les travaux présentent également des risques particuliers ou
+des fatigues exceptionnelles bénéficient du compte personnel de prévention de la pénibilité.
+Les deux régimes qui coexistent désormais, compte pénibilité dans le secteur privé et
+catégories actives dans le secteur public, ont toutefois des logiques très différentes : le régime
+des « actifs » repose sur une approche collective des conditions de travail alors que le compte
+pénibilité repose sur une approche individuelle, du moins selon la loi puisque ses décrets
+d’application l’orientent en pratique vers une approche plus collective. Surtout, le compte
+pénibilité ne permet que d’avancer le départ en retraite au taux plein de deux ans.
+2) Les autres régimes spéciaux
+L’âge effectif de la retraite était de 58,9 ans à la SNCF en 2021, de 56,8 ans à la RATP en
+2021 et de 57,7 ans dans les industries électriques et gazières en 2017. L’âge minimal était en
+2019 de 50 ans et 8 mois pour les agents de conduite de la SNCF et de la RATP, de 55 ans et
+8 mois pour les autres agents de la SNCF, les personnels des ateliers et dépôts de la RATP et
+les personnels en service « actif ou insalubre » des industries électriques et gazières. Pour tous
+les autres agents, il était de 60 ans et 8 mois. L’âge d’annulation de la décote est de presque
+cinq ans au-dessus des âges minimaux.
+La réforme de 2008 a supprimé les « bonifications métiers » qui majoraient la durée
+d’assurance et permettaient d’obtenir plus facilement le taux plein. La durée requise pour
+l’obtenir est désormais quasiment identique à celle des régimes de la fonction publique et du
+secteur privé (42 ans actuellement et 43 ans pour la génération qui partira à partir de 2035).
+D) Le coût et le financement
+En 2021, les pensions versées par l’Etat au titre du régime de retraite de ses agents civils et
+militaires (y compris invalidité) se sont élevées à 55,7 Md€. Elles ont été financées par des
+cotisations salariales (au taux de 11,1 %) à hauteur de 7,1 Md€, par des cotisations des
+employeurs autres que l’Etat (établissements publics notamment) pour 6,9 Md€ et par des
+« cotisations d’équilibre » (selon la commission des comptes de la sécurité sociale) versées
+par les ministères de 41,1 Md€.
+Les prestations versées par la CNRACL (vieillesse et invalidité) se sont élevées à 22,5 Md€ et
+elles ont été financées par 5,9 Md€ de cotisations salariales et 16,2 Md€ de cotisations des
+employeurs.
+6
+Les trois plus importants des autres régimes spéciaux ont versé 11,6 Md€ de pensions de
+retraite qui ont été financées par des cotisations salariales à hauteur de 1,4 Md€, par des
+cotisations des employeurs à hauteur de 4,5 Md€ et par des subventions de l’Etat ou des taxes
+affectées2 à hauteur de 5,7 Md€.
+Au total, les prestations ont atteint 89,8 Md€ en 2021 et ont été financées par des cotisations
+salariales pour 14,4 Md€, des cotisations des employeurs pour 27,6 Md€, des subventions
+d’équilibre ou des taxes affectées pour 46,8 Md€ et des produits divers pour 1,0 Md€. Les
+cotisations des employeurs sont largement financées par des impôts d’Etat ou locaux.
+Le financement des régimes spéciaux de retraite par des impôts, directement ou par
+l’intermédiaire des cotisations des employeurs et des subventions d’équilibre, est en partie
+justifié par deux motifs. D’abord, les autres régimes de retraite sont aussi financés pour une
+partie, certes plus petite, par l’impôt ou par des transferts d’autres organismes (37 % des
+prestations de vieillesse du régime général sont financées par des ressources autres que les
+cotisations sociales). Ensuite, les régimes spéciaux ont des ratios retraités / cotisants plus
+dégradés que les autres régimes et il est normal que ce déséquilibre démographique soit
+compensé. De telles subventions existent implicitement au sein du régime général où les
+« vieilles » branches comme la sidérurgie sont « subventionnées » par les « jeunes » branches
+comme l’informatique.
+Pour comparer les « efforts contributifs » des affiliés de différents régimes, dans son rapport
+de novembre 2020, le conseil d’orientation des retraites a rapporté le montant total des
+pensions aux revenus super bruts des cotisants pour chaque régime, en corrigeant ce rapport
+pour neutraliser l’impact de ratios retraités / cotisants différents. Ces « taux de prélèvement
+d’équilibre corrigés du ratio démographique » sont de 18,1 % pour les salariés du secteur
+privé, de 20,3 % pour les fonctionnaires civils de l’Etat, de 15,6 % pour les militaires et de
+21,9 % pour les fonctionnaires locaux et hospitaliers.
+Un taux plus élevé peut être considéré comme le signe d’un régime plus « généreux » sous
+deux réserves : d’une part les revenus super bruts n’ont pas la même signification dans le
+privé et dans le public (cf. ci-dessous) ; d’autre part, les ratios démographiques défavorables
+des régimes spéciaux résultent non seulement de la démographie mais aussi des règles qui
+permettent de partir plus tôt en retraite. La pertinence de ces comparaisons est donc limitée.
+Pour déterminer si les régimes spéciaux sont plus avantageux, il pourrait être envisagé de
+comparer le bilan actualisé des cotisations versées (salariales et patronales) et des prestations
+reçues par leurs affiliés et par les salariés du secteur privé (régime général et régimes
+complémentaires). Toutefois, comme le montrent les travaux du COR sur ce sujet, une telle
+comparaison n’a guère de sens en raison de la différence de nature entre les cotisations des
+employeurs privés et publics.
+Il est en effet possible de considérer que les cotisations patronales amputent la rémunération
+qu’un salarié aurait pu obtenir sur un marché du travail concurrentiel et qu’elles constituent
+donc un « effort contributif » pour obtenir un « salaire différé » sous forme de retraite. En
+revanche, les cotisations des employeurs publics n’ont pas de rapport avec la rémunération
+que les fonctionnaires pourraient obtenir sur un marché concurrentiel et ne constituent pas
+nécessairement un effort contributif de leur part.
+2 Taxe sur le transport de l’électricité pour le régime spécial des industries électriques et gazières.
+7
+La comparaison des taux de remplacement est plus pertinente. Or les éléments présentés ci-
+dessus montrent que, aujourd’hui, il n’y a pas de différences significatives entre régimes du
+public et du privé.
+En revanche, l’âge de départ et la durée de la retraite avantagent manifestement les agents du
+secteur public. Cet avantage peut être mesuré en estimant le coût des pensions versés à des
+personnes qui n’ont pas encore atteint 62 ans en raison de leur appartenance à une catégorie
+particulière d’agents publics, ce que fait le COR en présentant le coût des « dispositifs de
+solidarité » des régimes de retraite dans ses rapports annuels. En 2016 (dernière année pour
+laquelle il a fait ce calcul), le coût des départs anticipés liés à la catégorie professionnelle dans
+les régimes spéciaux s’est élevé à 8,2 Md€, soit 9,4 % du total des pensions. En comparaison,
+le coût des départs anticipés pour carrières longues, qui profitent surtout aux salariés du
+secteur privé, était de 6,1 Md€, soit 3,0 % des pensions de leurs régimes de retraite.
+E) Les mesures inscrites dans le projet de loi de réforme des retraites
+Pendant son premier mandat présidentiel, E. Macron a voulu créer un système universel de
+retraite fusionnant l’ensemble des régimes actuels, y compris ceux de la fonction publique,
+dans un unique régime. Si la transition vers ce nouveau système était inévitablement très
+difficile, celui-ci aurait été plus simple que l’organisation actuelle et aurait permis de lever les
+obstacles à la mobilité professionnelle que constituent les différences entre les règles de
+fonctionnement des régimes existant aujourd’hui. Cette réforme aurait aussi mis fin aux
+querelles récurrentes sur les avantages supposés des régimes du secteur public par rapport à
+ceux du secteur privé si elle avait abouti.
+Le projet actuel en garde une trace avec la mise en extinction de la plupart des régimes
+spéciaux hors fonction publique (et hors SNCF puisque le régime des cheminots a déjà été
+mis en extinction en 2020). La « clause du grand-père » serait appliquée, ce qui signifie que
+les agents actuellement en poste continueraient à bénéficier de leur régime spécial alors que
+les nouvelles recrues seraient affiliées au régime général et à l’Agirc-Arrco3.
+Les deux régimes spéciaux de retraite des fonctionnaires seraient toutefois maintenus alors
+qu’il n’y a pas de raisons de les préserver de l’extinction progressive, avec la clause du grand-
+père, autres que politiques : les fonctionnaires, et donc les protestataires potentiels, sont bien
+plus nombreux que les agents affiliés aux autres régimes spéciaux. L’article L711-1 du code
+de la sécurité sociale rappelle d’ailleurs qu’ils devaient être soumis « provisoirement » à une
+« organisation spéciale » (cf. plus haut).
+La principale différence entre les régimes des deux secteurs est, comme on l’a vu, la
+possibilité de partir plus tôt en retraite qui est donnée à certaines catégories d’agents publics.
+Ces départs anticipés sont en principe justifiés par la pénibilité des métiers exercés, mais il
+existe aussi beaucoup de métiers pénibles dans le secteur privé.
+Les règles des régimes du secteur privé en tiennent compte à travers des dispositifs qui ont été
+créés (compte personnel de prévention de la pénibilité) ou maintenus (carrières longues,
+départs anticipés pour inaptitude au travail…) au cours de ces dernières années et que le projet
+3 Les régimes spéciaux perdant les cotisations des nouvelles recrues, leurs comptes seront déséquilibrés, ce qui
+devra être compensé soit par les autres régimes, soit par l’Etat, comme c’est déjà le cas pour le régime de la
+SNCF.
+8
+actuel de réforme maintient en l’état ou étend pour les prochaines années. Il serait souhaitable
+que les nouveaux fonctionnaires en bénéficient dans les mêmes conditions que les salariés du
+secteur privé, plutôt que de maintenir indéfiniment des régimes dérogatoires.
+En tout état de cause, il ne faudrait pas que le projet actuel de réforme accentue les différences
+entre les régimes du secteur public et du secteur privé. Les mesures visant à reculer l’âge
+effectif de départ en retraite (hausses de l’âge minimal d’ouverture des droits et de la durée de
+cotisation requise pour obtenir le taux plein) doivent donc y être mises en œuvre
+parallèlement.
+Le projet du Gouvernement le prévoit bien à travers une hausse de deux ans des divers âges
+minimaux d’ouverture des droits (62 ans pour le droit commun et 57 ou 52 ans pour les
+catégories « actives » et « super actives ») et une accélération de la hausse de 42 à 43 ans de la
+durée de cotisation requise pour obtenir le taux plein, sans modification de l’âge d’annulation
+de la décote (67, 62 ou 57 ans selon les règles actuelles). Il ne faudrait pas remettre en cause
+ce parallélisme au cours des débats parlementaires.
+Le projet du Gouvernement prévoit aussi le maintien de la durée de service nécessaire pour un
+départ anticipé à la retraite et de nouveaux avantages spécifiques pour les fonctionnaires :
+portabilité des droits à retraite anticipée acquis lors du passage d’une catégorie de
+fonctionnaires à une autre ; extension au secteur public du dispositif de retraite progressive.
+En outre, un fonds spécial de prévention de l’usure professionnelle devrait être créé pour les
+personnels hospitaliers.
+Ces mesures spécifiques aux fonctionnaires restent limitées et ne remettent pas
+fondamentalement en cause le parallélisme entre les réformes mises en œuvre dans le secteur
+public et dans le secteur privé. Il ne faudrait pas que la poursuite de la concertation avec les
+partenaires sociaux et les débats parlementaires conduisent à trop les amplifier et ainsi à trop
+réduire le gain de la réforme pour les finances publiques ou à trop accentuer les différences
+entre les régimes des fonctionnaires et des salariés du secteur privé.

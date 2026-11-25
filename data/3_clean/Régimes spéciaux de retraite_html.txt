@@ -1,0 +1,51 @@
+Les caisses des régimes spéciaux
+
+Principes
+
+Il subsiste à ce jour en France une dizaine de régimes spéciaux (près de 10 millions de bénéficiaires, actifs et retraités confondus). Ils concernent les salariés de grandes entreprises publiques (SNCF, RATP, IEG, etc.) ainsi que certaines professions aux risques atypiques (marins, clercs de notaire, danseurs de l'Opéra de Paris, etc...).
+
+Chacun de ces régimes a ses propres règles de fonctionnement, en fonction de l’activité exercée.
+
+Caractéristiques communes :
+
+Ces régimes spéciaux ont plusieurs points communs :
+- Des âges de départ en retraite anticipés (cf. ci-dessous)
+- Des ratios démographiques (nombre d’actifs rapportés au nombre de retraités) dégradés
+- Leur financement est assuré par des ressources internes (cotisations salariales et patronales plus élevées), des subventions d'État, et/ou des contributions au titre de la compensation du déséquilibre démographique.
+
+Ils ont d’ores et déjà vu s’appliquer les réformes de 2010 et 2014 qui ont augmenté l’âge de départ et allongé la durée de cotisation.
+
+Réforme 2023 :
+
+La réforme des retraites prévoit la suppression de certains régimes spéciaux. Ceux qui existent toujours après la réforme sont ceux des professions libérales et avocats, des marins, de l'Opéra de Paris et de la Comédie Française. Les nouveaux embauchés à la RATP, à EDF, Engie et aux autres industries électriques et gazières (IEG), à la Banque de France, ainsi que les clercs de notaire et les membres du Conseil économique, social et environnemental se verront affiliés au régime général. Les fonctionnaires en "catégorie active" (Pompiers, policiers, surveillants pénitentiaires, éboueurs, égoutiers...) bénéficieront toujours d'un régime spécial.
+
+Âge d’ouverture des droits
+
+L’âge moyen de départ à la retraite des principaux régimes spéciaux :
+
+Régimes spéciaux | Âge moyen de départ
+IEG | 60 ans
+SNCF | 54 ans et 4 mois
+CRPCEN | 63 ans et 10 mois
+RATP | 55,8 ans
+ENIM (Marins) | 57,2 ans
+PSPOEIE (Ouvriers des industries de l’Etat) | 57,2 ans
+BANQUE DE FRANCE | 61 ans et 9 mois
+OPERA DE PARIS | 40 ans (artistes ballet) ; 57 ans (techniciens – anticipé) ; 62 ans (techniciens – non anticipé) ; 60 ans (artistes orchestre) ; 62 ans (administratifs)
+COMEDIE FRANCAISE | 64,1 ans
+CESE (Conseil économique social et environnemental) | Non disponible
+
+Comment est calculée la retraite d’un salarié des IEG ?
+
+Le montant de la retraite dépend du salaire, du nombre de trimestres effectués et de l’âge de départ à la retraite.
+
+Le salaire pris en compte pour le calcul de la retraite est déterminé à partir de ces 3 éléments :
+- Le coefficient hiérarchique (NR et échelon) détenu pendant au moins les 6 derniers mois d’activité dans les IEG.
+- La dernière valeur du salaire national de base.
+- La dernière valeur de la majoration résidentielle.
+
+Le montant de la gratification de fin d'année est à ajouter à ce salaire annuel. En cas d’activité à temps partiel, le salaire est pris en compte sur la base d’un temps plein.
+
+La formule de calcul :
+
+Si au moment du départ à la retraite le nombre de trimestres requis n’est pas atteint, tous régimes confondus, une décote s’appliquera et le montant de la retraite sera ainsi réduit.

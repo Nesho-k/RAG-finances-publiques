@@ -1,0 +1,160 @@
+17) La fraude et le contrôle fiscal
+
+Cette fiche présente d’abord les enjeux de la lutte contre la fraude fiscale puis l’organisation et les moyens déployés en France et enfin les résultats obtenus.
+
+A) Les enjeux
+
+1) La définition de la fraude fiscale
+
+La fraude fiscale est définie comme une action délibérée et illégale d’un contribuable conduisant à réduire le montant des impôts qu’il verse au trésor public, notamment en ne déclarant pas ou en sous-évaluant ses revenus, ses activités économiques ou des éléments de son patrimoine. Elle doit être distinguée :
+- des erreurs et omissions involontaires, qui tiennent souvent à la complexité du droit fiscal, source d’interprétations divergentes, et qui doivent néanmoins donner lieu à des redressements ;
+- de « l’optimisation fiscale », qui consiste à utiliser les failles de la législation pour minorer l’impôt dû sans pour autant que ce soit illégal.
+
+« L’évasion fiscale » est une zone grise entre la fraude et l’optimisation qui consiste, par exemple, à transférer des bénéfices dans des pays où ils sont moins imposés en jouant sur les ambiguïtés de la définition de « prix de transfert aux conditions du marché ».
+
+En pratique, la distinction est souvent difficile et un chapitre du rapport public annuel de 2010 de la Cour des comptes montrait ainsi que la majoration de 40 % pour « manquement délibéré », qui marque la frontière entre la répression de la fraude et la rectification d’erreurs involontaires, est parfois appliquée sans référence à une doctrine claire. Dans un rapport de décembre 2025, elle souligne de nouveau que « La DGFiP gagnerait à mieux formaliser sa doctrine d’application des sanctions administratives et à s’assurer de sa bonne application ».
+
+2) L’ampleur de la fraude
+
+La fraude fiscale est par nature dissimulée et donc difficilement mesurable. Deux familles de méthodes peuvent être utilisées pour essayer d’en donner une estimation.
+
+La première consiste à l’estimer à partir des écarts entre des données statistiques et les recettes fiscales ou entre plusieurs statistiques. Par exemple, la fraude à la TVA est souvent estimée en rapprochant les recettes encaissées par l’Etat et les recettes théoriques résultant de l’application des taux de TVA à son assiette mesurée par les comptes nationaux (consommation et investissement en logement des ménages pour l’essentiel). Cette méthode part de l’hypothèse, très forte, que les comptes nationaux sont exacts et ignore souvent les nombreuses complexités de la législation fiscale qui éloignent l’assiette fiscale réelle de l’assiette économique théorique.
+
+Ce type de méthodes conduit également à estimer les transferts illégaux de capitaux sur la base des écarts entre les flux de capitaux enregistrés entre deux pays dans leurs balances des paiements respectives, alors que ces écarts peuvent résulter des multiples défauts de construction des balances des paiements.
+
+La deuxième famille méthodologique consiste à estimer la fraude à partir des résultats des contrôles fiscaux. Ceux-ci ne peuvent pas être simplement extrapolés à toute la population des contribuables car ils ne sont pas programmés au hasard et il faut donc recourir à des méthodes statistiques permettant de corriger ce biais. Il est en outre supposé que les contrôles fiscaux permettent d’identifier très précisément le montant des impôts éludés. Or les contrôleurs ne repèrent pas toutes les irrégularités et l’administration a parfois elle-même une interprétation erronée des règles applicables, comme le montrent ensuite les décisions de justice. En outre, le redressement de l’assiette taxable sur un exercice peut avoir pour effet de la réduire d’un même montant sur l’exercice suivant (par exemple vente enregistrée en N+1 au lieu de N).
+
+Ces deux familles de méthodes permettent généralement d’estimer un « écart fiscal » global sans distinguer la fraude au sens strict des erreurs et omission involontaires ou encore des difficultés de recouvrement des impôts du fait, par exemple, de l’insolvabilité des contribuables.
+
+Les estimations de la « fraude » à la TVA en France réalisées par la Commission européenne (11 Md€ en 2023) sont établies en utilisant la première famille méthodologique. Des exemples d’utilisation du deuxième type de méthode sont constitués par l’estimation de la sous-déclaration des bénéfices des entreprises individuelles (25 %) réalisée en 2011 par l’Insee et l’estimation de la fraude à la TVA (15 Md€) réalisée par l’Insee dans le cadre du rapport de novembre 2019 de la Cour des comptes sur la fraude aux prélèvements obligatoires puis dans une étude plus approfondie publiée en 2022 (20 à 25 Md€ pour l’exercice 2012).
+
+Un conseil d’évaluation des fraudes (fiscales, sociales et aux aides publiques) a été créé en 2023 pour définir une méthode harmonisée et partagée d’estimation de leur ampleur, mais la Cour des comptes regrette dans son rapport de 2025 précité l’absence d’estimations systématiques, au moins de l’écart fiscal pour les principaux impôts, au contraire de ce qui se fait dans beaucoup d’autres pays.
+
+Ce manque d’évaluation a été partiellement comblé par des analyses récentes de la DGFIP sur le manque à gagner annuel dû aux sous-déclarations en matière de TVA (de 6 à 10 Md€) et aux fraudes et erreurs relatives à l’impôt sur les sociétés (environ 6 Md€).
+
+3) Les objectifs du contrôle fiscal
+
+Le contrôle fiscal a traditionnellement un triple objectif :
+- budgétaire, le recouvrement des impôts éludés ;
+- répressif, la sanction des fraudes, qui prend la forme de pénalités administratives (majorations des montants dus) et pénales (amendes et peines d’emprisonnement) ;
+- dissuasif, l’incitation au civisme fiscal par la crainte des sanctions.
+
+Ces objectifs sont liés, la répression des fraudes ayant, par exemple, un caractère dissuasif.
+
+Depuis quelques années, un objectif pédagogique est mis en avant, le contrôle fiscal pouvant permettre aux contribuables de corriger leurs erreurs. La loi de 2018 pour un Etat au service d’une société de confiance illustre cette nouvelle orientation en encourageant la régularisation des erreurs commises par les contribuables de bonne foi. Dans cette perspective pédagogique, la DGFIP publie désormais des fiches présentant des cas types de montages fiscalement abusifs.
+
+B) L’organisation et les moyens
+
+1) Les différentes catégories de contrôles
+
+Les contrôles fiscaux sont très rarement engagés au hasard et font l’objet d’une programmation préalable, en général par des services différents des services de contrôle et spécialisés dans la recherche des contribuables présentant des risques. Cette programmation repose sur les informations transmises par les contribuables avec leurs déclarations, des informations fournies par d’autres administrations ou de nature publique. Elle résulte désormais pour plus de 50 % de méthodes faisant appel au datamining ou à l’intelligence artificielle.
+
+Les contrôles fiscaux sont d’abord « sur pièces » ou « du bureau ». Ils s’appuient alors sur les déclarations du contribuable, les informations publiques et des informations ponctuelles obtenues de tierces personnes comme les établissements financiers. Chaque année, sont réalisés plus de 300 000 contrôles sur pièces relatifs à l’impôt sur le revenu, plus de 70 000 relatifs aux impôts sur le patrimoine, plus de 120 000 relatifs aux impôts des professionnels et plus de 110 000 relatifs aux remboursements de TVA. Les contribuables n’en sont informés que si l’administration les interroge ou leur notifie un redressement ou un rejet (crédits de TVA).
+
+Ils peuvent également prendre la forme de contrôles fiscaux « externes » ou « sur place » : « examens de comptabilité », générales sur tous les impôts ou ponctuelles, pour les entreprises (22 000 vérifications générales en 2025) et « examens de la situation fiscale personnelle » pour les ménages (1 800 en 2025). Ces contrôles, qui portent sur l’ensemble des revenus et du patrimoine, sont strictement codifiés, de sorte à protéger les droits du contribuable qui en est obligatoirement informé, et les services fiscaux peuvent se faire communiquer beaucoup d’informations dans ce cadre. Les vérificateurs se rendent généralement sur place dans les entreprises mais les entretiens avec les particuliers se tiennent le plus souvent dans les locaux de l’administration.
+
+Des visites domiciliaires avec saisie sont possibles sur autorisation d’un juge en cas de présomptions sérieuses de fraude fiscale, mais elles sont très rares (il y en a eu 181 en 2025).
+
+Les contribuables détenant des avoirs non déclarés à l’étranger ont pu se mettre en conformité avec la réglementation en déposant des « déclarations rectificatives » de 2013 à 2017 et en payant les droits éludés majorés par des pénalités. Le traitement de ces déclarations ne relève pas du contrôle fiscal au sens strict bien qu’il résulte de sa force dissuasive, notamment depuis que la coopération avec certains pays s’est intensifiée.
+
+L’organisation et les moyens du contrôle fiscal ont notamment fait l’objet de plusieurs rapports de la Cour des comptes qui a dressé un bilan de leurs récentes évolutions dans son rapport public annuel de 2016 puis dans son rapport de novembre 2019 sur la fraude aux prélèvements obligatoires.
+
+2) L’organisation
+
+Les contrôles fiscaux sont principalement assurés par des agents de la direction générale des finances publiques (DGFIP) du ministère des finances, qui coopère avec de nombreuses autres administrations, et secondairement, pour les impôts qu’elle prélève, par la direction générale des douanes et des droits indirects (DGDDI).
+
+a) La direction générale des finances publiques
+
+Les contrôles fiscaux sont réalisés, pour le plus grand nombre, dans les « directions départementales des finances publiques ». Si les contrôles externes sont confiés à des « brigades de vérification » affectées à cette fonction, les contrôles sur pièces peuvent être assurés par les services de gestion de l’impôt, les « services des impôts des particuliers et des entreprises », pour les plus simples, ou par des « pôles » spécialisés, pour les plus complexes. Ils peuvent désormais être réalisés à distance (dans un département autre que celui du contribuable). Les personnes physiques dites « à fort enjeu » (dont les revenus ou le patrimoine dépassent certains seuils) font l’objet d’un contrôle sur pièces avec une périodicité régulière.
+
+Les contrôles externes des entreprises et des particuliers dont le chiffre d’affaires ou les revenus ou le patrimoine dépassent certains seuils sont effectués par des « directions interrégionales du contrôle fiscal », notamment à travers des « brigades patrimoniales ». Leur directeur n’a pas d’autorité hiérarchique sur les directions départementales mais une fonction de coordination qui se renforce progressivement.
+
+Enfin, les plus grandes entreprises et les ménages dont les dossiers sont plus particulièrement importants ou complexes sont contrôlés, sur pièces et sur place, par la « direction nationale des vérifications nationales et internationales », pour les premières, et par la « direction nationale des vérifications de situations fiscales », pour les deuxièmes.
+
+Il existe par ailleurs des unités chargées de la recherche du renseignement et de la programmation des contrôles dans les directions départementales et interrégionales. C’est également la fonction principale de la « direction nationale des enquêtes fiscales ».
+
+Le pilotage d’ensemble du contrôle fiscal est assuré, au sein de l’administration centrale de la DGFIP, par le « service du contrôle fiscal », dont le chef n’a toutefois pas d’autorité hiérarchique sur les directeurs départementaux.
+
+La Cour des comptes a relevé en 2016 que l’organisation du contrôle fiscal a évolué favorablement au cours des années précédentes mais aussi que les fonctions des directions interrégionales pourraient être renforcées.
+
+b) La coopération entre les services de l’Etat
+
+Une amélioration de la coopération entre les services de l’Etat chargés de la lutte contre la fraude fiscale a été constatée par la Cour dans un rapport de 2019 mais restait perfectible.
+
+La DGFIP coopère avec la DGDDI et avec les organismes chargés du recouvrement des cotisations sociales, les irrégularités commises par les entreprises concernant souvent à la fois les impôts et les cotisations sociales. La DGFIP reçoit ou peut demander des informations détenues par de nombreuses autres administrations.
+
+La « délégation nationale à la lutte contre la fraude », fiscale et sociale, avait une mission générale de coordination, mais elle était surtout active dans le domaine de la lutte contre les fraudes sociales. Une nouvelle « mission interministérielle de coordination anti-fraude » a été créée en 2020 avec la même mission, étendue en 2023 aux fraudes aux aides publiques, et pour gérer les relations avec les organismes internationaux chargés de lutter contre les diverses fraudes.
+
+Les poursuites pénales pour fraude fiscale étaient engagées jusqu’en 2019 par les parquets seulement sur plainte déposée par la DGFIP qui en avait le « monopole ». Les parquets pouvaient toutefois engager à leur initiative, depuis 2008, des poursuites pour « blanchiment de fraude fiscale », délit dont le champ s’est considérablement accru dans la pratique des parquets. Les dépôts de plainte de la DGFIP étaient préalablement soumis pour avis conforme à la « commission des infractions fiscales » qui est surtout composée de magistrats.
+
+Désormais, l’administration peut déposer plainte sans requérir l’avis de cette commission dans certains cas et doit saisir automatiquement le parquet dans d’autres cas. Le parquet peut poursuivre à son initiative les fraudes fiscales connexes à celles dont il est déjà saisi. Il peut lui-même confier l’enquête à la brigade nationale de répression de la délinquance fiscale, au ministère de l’intérieur, ou au service d’enquêtes judiciaires des finances, service commun à la DGFIP et aux douanes du ministère des finances (devenu office national anti-fraude en 2024).
+
+Un procureur de la République financier a été institué par une loi de 2013 pour traiter les dossiers les plus complexes. Sa compétence est nationale, mais les parquets locaux ne sont pas tenus de se dessaisir en sa faveur. Les parquets peuvent s’appuyer sur des unités de police judiciaire fiscale et douanière, où se trouvent des agents de la DGFIP et de la DGDDI pouvant mettre en œuvre des moyens d’investigation tels que perquisitions et écoutes.
+
+En sens inverse, les magistrats de l’ordre judiciaire doivent signaler à l’administration fiscale les soupçons de fraude fiscale dont ils peuvent avoir connaissance à l’occasion du traitement d’un dossier, mais cette obligation semble mal connue de ces magistrats.
+
+3) Les moyens
+
+La DGFIP emploie environ 10 500 agents pour réaliser les contrôles fiscaux, internes et externes, dont près de 4 000 vérificateurs. Les rapports de la Cour des comptes mettent en évidence les difficultés rencontrées par l’administration pour mettre les agents sur les postes et dans les zones géographiques où leurs compétences peuvent être les mieux utilisées. Les dépenses consacrées aux contrôles fiscaux sont de l’ordre de 1,0 Md€ en 2025.
+
+Outre les documents transmis par les contribuables, dans le cadre de leurs obligations déclaratives ou à la demande des services, l’administration fiscale dispose d’un « droit de communication » étendu à de nombreuses informations détenues par des tiers, notamment dans le cadre d’un contrôle externe. Les moyens d’information mis à la disposition de l’administration fiscale ont été sensiblement renforcés au cours de ces dernières années mais la faible interconnexion des systèmes d’information de la DGFiP empêche ses agents de les utiliser efficacement.
+
+Sauf procédures exceptionnelles et soumises au contrôle du juge, comme le « droit de visite », les services fiscaux n’ont pas de pouvoirs coercitifs comme ceux de la police judiciaire et s’appuient surtout sur des déclarations et des documents comptables librement transmis ou publics. En cas de défaillance d’un contribuable au regard de ses obligations déclaratives, ils peuvent néanmoins procéder à une « taxation d’office », infliger des amendes, voire porter plainte pour « opposition à fonctions ».
+
+Le contrôle fiscal est fragilisé par la complexité de la législation fiscale, inévitablement source de divergences d’appréciation avec les contribuables, ainsi que par le développement des échanges internationaux, même si la coopération entre administrations nationales s’améliore, et des nouvelles technologies, qui parfois facilitent la fraude.
+
+Les contribuables vérifiés bénéficient de droits importants qui doivent leur être rappelés en cas de contrôle sur place et peuvent saisir des instances de conciliation ou de médiation, faire des recours contentieux d’abord auprès de l’administration puis du juge de l’impôt.
+
+Plusieurs lois ont renforcé les moyens juridiques de la DGFIP depuis 2010, la dernière étant une loi du 25 juin 2026 relative à la lutte contre les fraudes fiscales et sociales.
+
+4) La coopération internationale
+
+La crise financière de 2008-2009 et l’augmentation de l’endettement public qui a suivi ont donné un nouvel élan à la lutte contre la fraude fiscale dans la plupart des pays développés et émergents. L’impulsion initiale a été donnée par les Etats-Unis en 2010 avec la « loi FATCA » qui oblige les institutions financières, dans l’ensemble du monde, à informer les services fiscaux américains sur les comptes détenus par des contribuables américains.
+
+La coopération internationale entre les services fiscaux a ensuite largement progressé dans les cadres du G20, de l’OCDE et de l’Union européenne. Les échanges automatiques d’information sont de plus en plus nombreux et couvrent des domaines de plus en plus variés (les actifs numériques, par exemple, depuis 2025), avec de plus en plus de pays. Les moyens de lutte contre les états non coopératifs (paradis fiscaux) ont été renforcés.
+
+C) Les résultats
+
+1) Les résultats budgétaires
+
+Le montant des droits et pénalités notifiés était relativement stable, entre 15 et 17 Md€, dans la deuxième moitié des années 2 000. Il est passé à 18 Md€ en 2012 et 2013 puis à 19,3 Md€ en 2014 et 21,2 Md€ en 2015. Il est revenu à 16,2 Md€ en 2018.
+
+Ces résultats portent sur les notifications de redressements et les montants réellement encaissés sont inférieurs. Les recettes effectivement encaissées sont passées de 9,0 Md€ en 2012 à 12,2 Md€ en 2015 et 11,1 Md€ en 2016 (dont 2,5 Md€ au titre de déclarations rectificatives). Elles sont revenues à 8,7 Md€ en 2018.
+
+Depuis 2020, le Gouvernement présente le bilan du contrôle fiscal avec deux nouvelles séries correspondant aux droits et pénalités mis en recouvrement et encaissés. Ces deux séries sont inférieures aux précédentes en partie parce que : d’une part, les droits et pénalités mis en recouvrement excluent les montants contestés par les contribuables et en cours d’examen par les instances administratives de recours (alors que les montants notifiés les incluaient), d’autre part, les refus de remboursements de crédits d’impôts (notamment de TVA) sont exclus des deux nouvelles séries alors qu’ils étaient inclus dans les anciennes. Ces deux facteurs mis en avant dans le dossier publié lors de ce changement de méthode ne permettent cependant pas d’expliquer totalement les écarts entre anciennes et nouvelles séries. Les anciennes séries ont donc été maintenues avec les nouvelles dans le graphique suivant.
+
+Les nouvelles séries font apparaître une relative stabilité, aux environs de 12 Md€, des montants mis en recouvrement dans les années 2016 à 2019 puis une baisse en 2020 (8,2 Md€), le contexte sanitaire ayant conduit à un ralentissement des contrôles, et un net rattrapage en 2021 (13,4 Md€), suivi d’une augmentation régulière jusqu’à 2025 (17,1 Md€).
+
+On peut y ajouter les crédits d’impôts non remboursés à la suite d’un contrôle (8,4 Md€ en 2025, en hausse de 148 % par rapport à 2024) qui figuraient dans les séries antérieures à 2020 et qui portent le total à 25,5 Md€ en 2025.
+
+Les montants encaissés se sont situés entre 7,8 et 9,6 Md€ dans les années 2014 à 2018, ont connu un pic en 2019 (11,0 Md€) avant une baisse en 2020 (7,8 Md€) et un rattrapage en 2021 (10,7 Md€). Ces encaissements sont restés au même niveau en 2022 et 2023 puis ont augmenté en 2024 (11,4 Md€) et sont restés stables en 2025.
+
+Source : projets de loi de finances, communiqués de presse et rapports d’activité de la DGFIP ; FIPECO.
+
+Ces montants mis en recouvrement après un contrôle représentaient 1,8 % des recettes fiscales en 2021, comme en 2016, et 1,9 % en 2025. Les montants encaissés représentaient 1,3 % des recettes fiscales en 2016 puis 1,4 % en 2021 et de nouveau 1,3 % en 2025.
+
+L’écart entre les montants mis en recouvrement et encaissés résulte de facteurs divers comme la mise en liquidation (parfois intentionnelle) des sociétés sanctionnées, les réclamations suspensives de paiement ou les transactions et remises gracieuses obtenues par les contribuables après mise en recouvrement.
+
+Les montants mis en recouvrement et encaissés correspondent indistinctement à des fraudes, intentionnelles, à des erreurs et omissions, involontaires, et à des interprétations différentes de la législation fiscale entre les contribuables et l’administration.
+
+S’il est normal que la croissance des montants mis en recouvrement observée depuis 2021 ne se traduise pas tout de suite par une croissance semblable des montants encaissés, la relative stagnation des montants encaissés depuis 2021 est étonnante.
+
+Dans son rapport de 2025 précité, la Cour des comptes souligne la faible croissance des droits et pénalités mis en recouvrement et encaissés au regard de la croissance du produit des impôts sans pouvoir en expliquer les raisons (réduction des moyens et moindre efficacité des contrôles, politique de « contrôles apaisés » conduisant à moins sanctionner ou diminution de la fraude).
+
+Au cours des 15 dernières années, l’Etat a perdu d’importants contentieux de masse devant les tribunaux qui l’ont obligé à rembourser des montants très importants qu’il avait encaissés (parfois plusieurs milliards d’euros). Ces remboursements (0,8 Md€ provisionnés pour 2025) ne sont pas déduits des résultats du contrôle fiscal dans les chiffres donnés ci-dessus.
+
+2) Les sanctions
+
+La loi de 2018 pour un Etat au service d’une société de confiance vise à faciliter la régularisation des erreurs commises de bonne foi. Selon le ministère des finances, près de 45 % des contrôles sur pièces en 2022 se sont terminés « de façon apaisée » par des régularisations en cours de contrôle.
+
+Environ 34 % des contrôles fiscaux externes ont eu en 2025 un caractère répressif, défini par des amendes et majorations supérieures à 7 500 € ou 30 % des droits rappelés ou par une proposition de poursuites correctionnelles transmise à la commission des infractions fiscales ou aux parquets. Les saisies de l’autorité judiciaire ont fortement augmenté (2 138 dossiers en 2025 contre 956 en 2018), notamment du fait des transmissions obligatoires au Parquet (1 695 en 2024 contre aucune en 2018). Ces poursuites restaient concentrées en 2020 sur certains secteurs (24 % pour le bâtiment et les travaux publics).
+
+Dans son rapport précité de 2025, la Cour des comptes observe cependant une forte hausse des classements sans suite par les parquets (44 % en 2024). Malgré la suppression du « monopole de Bercy », le nombre de personnes poursuivies pour fraude fiscale a ainsi diminué, de 850 par an avant la réforme à 700 en 2023-2024.
+
+Les sanctions pénales encourues ont été renforcées ces dernières années. En pratique, environ 80 % des peines prononcées comportent des peines d’emprisonnement, dont 17 % de peines de prison ferme. Les amendes prononcées en 2025 ont été en moyenne de 68 000 €.
+
+La réponse pénale a été diversifiée avec, par exemple, des peines complémentaires de travaux d’intérêt général et la création d’un délit d’incitation à la fraude.
+
+3) L’effet dissuasif
+
+Il n’est pas possible de mesurer l’effet dissuasif du contrôle fiscal, ce qui supposerait de pouvoir mesurer précisément le montant de la fraude et de pouvoir le suivre dans le temps. Des indices partiels de ce pouvoir dissuasif peuvent néanmoins être trouvés, comme le montant des déclarations rectificatives (cf. ci-dessus).

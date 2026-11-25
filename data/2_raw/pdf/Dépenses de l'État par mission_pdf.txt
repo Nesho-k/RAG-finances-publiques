@@ -1,0 +1,242 @@
+1
+FIPECO, le 20.05.2026
+Les fiches de l’encyclopédie V) Les dépenses publiques
+4) Les dépenses de l’Etat
+Les dépenses de l’Etat diffèrent selon le système comptable retenu pour les mesurer. La
+comptabilité nationale a l’avantage de permettre plus facilement des comparaisons dans le
+temps, sur de longues périodes, et dans l’espace, entre les pays, mais les données publiées
+sont assez peu détaillées. La comptabilité budgétaire est très détaillée et très utilisée, puisque
+le budget est voté et exécuté dans ce cadre, mais elle ne permet pas de faire des comparaisons
+significatives dans le temps et dans l’espace. Les « normes de dépenses », qui s’appuient sur
+la comptabilité budgétaire, constituent l’instrument opérationnel de la programmation et du
+pilotage des dépenses de l’Etat mais ont changé dans le temps. La comptabilité générale
+donne enfin une autre mesure des dépenses de l’Etat, qui a pour avantage d’être certifiée et
+détaillée et pour inconvénient d’être difficilement comparable dans le temps et l’espace.
+A) Les dépenses en comptabilité nationale
+En comptabilité nationale, les dépenses de l’Etat constituent l’une des composantes des
+« dépenses publiques », c’est-à-dire des dépenses des « administrations publiques », qui font
+l’objet d’une fiche particulière.
+Les méthodes de la comptabilité nationale sont harmonisées au niveau international, ce qui
+permet des comparaisons entre pays, et leurs changements donnent lieu à l’application des
+nouvelles méthodes aux comptes des années antérieures, ce qui permet d’observer l’évolution
+des dépenses sur longue période.
+Toutefois, les dépenses de l’Etat dépendent du périmètre de ses interventions et du partage
+entre ses compétences et celles des autres administrations publiques : les administrations de
+sécurité sociale, les administrations publiques locales et les « organismes divers
+d’administration centrale » (ODAC) qui rassemblent les organismes publics non-marchands
+contrôlés par l’Etat1. Or ce périmètre et ce partage sont variables dans le temps et dans
+l’espace, ce qui limite la portée des comparaisons.
+La comptabilité nationale permet toutefois de consolider, au sein des « administrations
+publiques centrales » (APUC), les dépenses de l’Etat et des ODAC, ce qui résout une grande
+partie de ce problème. Les transferts de compétences entre l’Etat et les ODAC sont en effet
+fréquents et souvent les plus importants.
+En comptabilité nationale, les dépenses de l’Etat se sont élevées à 608 Md€, soit 20,6 % du
+PIB, en 2025 et celles des APUC à 681 Md€, soit 22,7 % du PIB. Une partie de ces dépenses
+(63 Md€ pour les APUC) est constituée de transferts vers les autres administrations publiques,
+notamment les collectivités territoriales, qui ne sont pas pris en compte lorsque les dépenses
+de l’ensemble des administrations publiques sont consolidées.
+1 Leur définition et leur périmètre sont proches de ceux des « opérateurs » de la comptabilité budgétaire.
+2
+1) Leur répartition en 2025
+Le graphique ci-joint montre la répartition des dépenses des administrations publiques
+centrales en 2025. Les salaires bruts sont distingués des cotisations sociales des employeur,
+notamment celles de l’Etat au régime de retraite de ses agents. Les subventions comprennent
+notamment les « crédits d’impôts » sur le revenu des personnes physiques et le bénéfice des
+sociétés2. Les autres dépenses incluent notamment les versements à l’Union européenne
+Les dépenses des administrations publiques centrales en comptabilité
+nationale en 2025 (Md€)
+62 Rémunérations brutes
+115
+Cotisations sociales employeurs
+50
+Achats courants
+Prestations sociales
+54
+70
+Subventions
+Transferts à d'autres
+administrations
+63
+Charge d'intérêts
+62
+Investissements
+Autres dépenses
+73
+132
+Source : Insee ; FIPECO.
+2) Leur évolution passée
+Les dépenses des administrations publiques centrales (APUC) sont retenues pour cette
+comparaison dans le temps afin de neutraliser les modifications du partage des compétences
+entre l’Etat et les ODAC. En outre, les dépenses des collectivités locales dans les principaux
+domaines de compétences transférées par l’Etat, telles qu’elles figurent dans le rapport annuel
+de l’observatoire des finances locales, ont été soustraites des dépenses des APUL
+(administrations publiques locales) pour être ajoutées à celles des APUC (courbes en
+pointillés). La croissance en valeur des dépenses des APUC sur la période 2000-2025 a été
+inférieure à celle des autres catégories d’administrations publiques, en neutralisant ou non les
+dépenses transférées aux APUL.
+2 En comptabilité budgétaire et en comptabilité générale, les crédits d’impôts sont déduits des recettes fiscales.
+3
+Les dépenses par catégorie d'administrations publiques (base 100 en
+2000)
+260
+240
+220
+200
+180
+160
+140
+120
+100
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+APUL hors dépenses transférées APUC + dépenses transférées
+ASSO APUL
+APUC
+Source : Insee ; FIPECO. Le sursaut de dépenses des APUC en 2010 est due à une compensation temporaire par
+l’Etat du coût de la suppression de la taxe professionnelle pour les collectivités locales.
+3) Comparaisons internationales
+Le poids des dépenses des APUC, en pourcentage du PIB, est très variable d’un pays à l’autre,
+ce qui reflète notamment, outre le poids global des dépenses publiques, l’organisation de leurs
+institutions et l’importance plus ou moins grande des transferts de compétences des APUC
+aux ASSO et APUL. Par exemple, les APUL sont plus importantes que les APUC dans un
+pays comme l’Allemagne où l’Etat fédéral n’a quasiment pas de services locaux. Au
+Royaume-Uni, les dépenses du « National Health Service » sont incluses dans celles de l’Etat,
+ce qui les majore fortement.
+B) Les dépenses en comptabilité budgétaire
+Les principales caractéristiques de la comptabilité budgétaire, notamment les grands
+principes, l’organisation générale des comptes et les nomenclatures de dépenses, sont
+présentées dans une autre fiche.
+Les dépenses nettes du « budget général » (441 Md€ en 2025 fonds de concours inclus mais
+hors remboursements et dégrèvements d’impôts) sont généralement considérées comme la
+mesure la plus pertinente des dépenses de l’Etat. En effet, d’une part, les dépenses des
+« budgets annexes » ont une nature marchande éloignée de celle des autres dépenses de
+l’Etat ; d’autre part, les dépenses des « comptes spéciaux » ont souvent une nature financière
+(prêts et acquisitions d’actions) ou correspondent au reversement d’impôts prélevés pour le
+compte de tiers, notamment les collectivités territoriales.
+Toutefois, les dépenses de certains comptes spéciaux sont très proches de celles du budget
+général et la ligne de partage est très instable. En outre, les « prélèvements sur recettes »
+affectées aux collectivités territoriales et à l’Union européenne sont de véritables dépenses
+sans être pour autant inclus dans celles du budget général.
+4
+Comme il y a fréquemment d’importants transferts de dépenses entre l’Etat et les
+établissements publics non-marchands qu’il contrôle, ses « opérateurs »3, l’évolution dans le
+temps des dépenses du budget général n’a pas beaucoup de signification. Il n’existe cependant
+pas de consolidation des comptabilités budgétaires de l’Etat et de ses opérateurs permettant de
+pallier cette difficulté.
+La comptabilité budgétaire française est enfin incomparable à celle des autres pays.
+1) La répartition par titre
+Le graphique ci-joint présente la répartition des dépenses nettes du budget général par « titre »
+en 2025 (437 Md€ au total hors fonds de concours).
+Les dépenses de personnel incluent les cotisations de l’Etat employeur au régime de retraite
+de ses agents. Les dépenses de fonctionnement autres que de personnel incluent les
+« subventions pour charges de service public » accordées aux opérateurs de l’Etat. Les
+dotations aux pouvoirs publics sont notamment destinées à l’Assemblée nationale et au Sénat.
+Les dépenses d’intervention sont des transferts en faveur notamment des ménages, des
+entreprises et des autres organismes publics (collectivités locales, Union européenne…).
+Dépenses nettes du budget général par titre en 2025 (Md€)
+11
+130
+Titre 1( pouvoirs publics)
+156
+Titre 2 (dépenses de personnel)
+Titre 3 (fonctionnemen)
+Titre 4 (intérêts)
+Titre 5 (investissements)
+Titre 6 (interventions)
+22 Titre 7 (opérations financières)
+52
+75
+Source projet de loi relatif aux résultats de la gestion et à l’approbation des comptes de 2025 ; FIPECO.
+2) La répartition par mission
+Le graphique suivant présente la répartition des dépenses nettes du budget général en 2025
+entre les principales missions (hors remboursements et dégrèvements d’impôts).
+3 Leur définition et leur périmètre sont proches de ceux des ODAC de la comptabilité nationale.
+5
+Les dépenses des principales missions budgétaires en 2025 (Md€)
+Enseignement scolaire
+Défense
+51
+Intérêts de la dette
+88
+6
+11 Recherche et enseignement
+supérieur
+12
+Solidarité
+20
+Sécurité
+Ecologie, développement et mobilité
+24
+62
+Cohésion des territoires
+26
+Travail et emploi
+Justice
+26
+53
+Gestion des finances publiques
+31
+31
+Régines spéciaux de retraite
+Autres missions
+Source : projet de loi relatif aux résultats de la gestion et à l’approbation des comptes de 2025 ; FIPECO.
+3) L’évolution passée
+Le Haut Conseil des finances publiques a publié en 2023 une note méthodologique dans
+laquelle il présente l’évolution des dépenses budgétaires sur un périmètre constant (le
+« périmètre des dépenses de l’Etat » de 2022), c’est-à-dire en neutralisant l’impact des
+transferts de dépenses entre l’Etat et d’autres organismes publics (graphique suivant). Ce
+travail n’avait jamais été réalisé auparavant et l’examen des dépenses budgétaires sur
+plusieurs années était impossible.
+6
+L'évolution des dépenses budgétaires (base 100 en 2012)
+135
+130
+125
+120
+115
+110
+105
+100
+95
+90
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+(LFR1)
+Source : Haut Conseil des finances publiques ; FIPECO ; périmètre des dépenses de l’Etat de 2022.
+C) Les dépenses en comptabilité générale
+Les principales caractéristiques de la comptabilité générale de l’Etat sont présentées dans une
+autre fiche, de même que l’articulation entre ses trois comptabilités. La comptabilité générale
+de l’Etat est certifiée par la Cour des comptes, mais les normes appliquées ne permettent pas
+de faire des comparaisons avec les résultats des autres Etats. Les méthodes comptables
+changent parfois et les comparaisons à méthode constante ne peuvent porter que sur trois
+exercices successifs.
+Les « charges brutes » de l’Etat en comptabilité générale s’élèvent à 656 Md€ en 2025. Elles
+ne comprennent pas de dépenses d’investissement mais des dotations aux amortissements et
+aux provisions. Les « charges nettes » des produits de fonctionnement (ventes de services,
+reprises de provisions…), d’intervention (contributions de tiers à des actions de l’Etat) et
+financiers représentent 470 Md€. Le graphique suivant présente la répartition des charges
+brutes hors provisions et amortissements (509 Md€).
+7
+Les charges brutes de l'Etat en comptabilité générale en 2025 hors
+provisions et amortissement (Md€)
+Rémunération des personnels
+52
+110 Pensions
+29
+Achats
+Subventions pour charges de
+servive public
+63
+Autres charges fonctionnement
+Transferts aux ménages
+67
+Transferts aux entreprises
+34
+Transferts aux collectivités
+locales
+33 Transferts aux autres
+62 collectivités
+36
+12 Intérêts
+Source : comptes de l’Etat pour 2025 ; FIPECO.

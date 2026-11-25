@@ -1,0 +1,258 @@
+[
+  {
+    "id": "DOC-001",
+    "type_document": "html",
+    "id_sous_theme": "ST-01",
+    "sous_theme": "Aides aux entreprises",
+    "nom_document": "Aides aux entreprises_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-002",
+    "type_document": "html",
+    "id_sous_theme": "ST-02",
+    "sous_theme": "Budget de l'éducation nationale",
+    "nom_document": "Budget de l'éducation nationale_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-003",
+    "type_document": "html",
+    "id_sous_theme": "ST-02",
+    "sous_theme": "Budget de l'éducation nationale",
+    "nom_document": "Budget de l'éducation nationale_html_2.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-004",
+    "type_document": "html",
+    "id_sous_theme": "ST-03",
+    "sous_theme": "Budget de la défense",
+    "nom_document": "Budget de la défense_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-005",
+    "type_document": "html",
+    "id_sous_theme": "ST-03",
+    "sous_theme": "Budget de la défense",
+    "nom_document": "Budget de la défense_html_2.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-006",
+    "type_document": "docx",
+    "id_sous_theme": "ST-04",
+    "sous_theme": "Cadre juridique (LOLF)",
+    "nom_document": "LOLF.docx",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-007",
+    "type_document": "html",
+    "id_sous_theme": "ST-04",
+    "sous_theme": "Cadre juridique (LOLF)",
+    "nom_document": "Cadre juridique (LOLF)_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-008",
+    "type_document": "html",
+    "id_sous_theme": "ST-05",
+    "sous_theme": "Dette publique",
+    "nom_document": "Dette publique_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-009",
+    "type_document": "html",
+    "id_sous_theme": "ST-05",
+    "sous_theme": "Dette publique",
+    "nom_document": "Dette publique_html_2.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-010",
+    "type_document": "html",
+    "id_sous_theme": "ST-06",
+    "sous_theme": "Dépenses de l'État par mission",
+    "nom_document": "Dépenses de l'État par mission_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-011",
+    "type_document": "pdf",
+    "id_sous_theme": "ST-06",
+    "sous_theme": "Dépenses de l'État par mission",
+    "nom_document": "DépensesEtat.pdf",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-012",
+    "type_document": "html",
+    "id_sous_theme": "ST-07",
+    "sous_theme": "Dépenses de santé",
+    "nom_document": "Dépenses de santé_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-013",
+    "type_document": "html",
+    "id_sous_theme": "ST-07",
+    "sous_theme": "Dépenses de santé",
+    "nom_document": "Dépenses de santé_html_2.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-014",
+    "type_document": "html",
+    "id_sous_theme": "ST-08",
+    "sous_theme": "Effectifs de la fonction publique",
+    "nom_document": "Effectifs de la fonction publique_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-015",
+    "type_document": "pdf",
+    "id_sous_theme": "ST-08",
+    "sous_theme": "Effectifs de la fonction publique",
+    "nom_document": "emploispublics2024.pdf",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-016",
+    "type_document": "html",
+    "id_sous_theme": "ST-09",
+    "sous_theme": "Financement de la Sécurité sociale",
+    "nom_document": "Financement de la Sécurité sociale_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-017",
+    "type_document": "pdf",
+    "id_sous_theme": "ST-09",
+    "sous_theme": "Financement de la Sécurité sociale",
+    "nom_document": "FinancementSecuNote.pdf",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-018",
+    "type_document": "html",
+    "id_sous_theme": "ST-10",
+    "sous_theme": "Fiscalité des entreprises",
+    "nom_document": "Fiscalité des entreprises_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-019",
+    "type_document": "docx",
+    "id_sous_theme": "ST-11",
+    "sous_theme": "Fraude fiscale",
+    "nom_document": "1_Generalites.docx",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-020",
+    "type_document": "html",
+    "id_sous_theme": "ST-11",
+    "sous_theme": "Fraude fiscale",
+    "nom_document": "Fraude fiscale_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-021",
+    "type_document": "html",
+    "id_sous_theme": "ST-12",
+    "sous_theme": "Histoire des finances publiques",
+    "nom_document": "Histoire des finances publiques_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-022",
+    "type_document": "pdf",
+    "id_sous_theme": "ST-12",
+    "sous_theme": "Histoire des finances publiques",
+    "nom_document": "9782729888930_extrait.pdf",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-023",
+    "type_document": "html",
+    "id_sous_theme": "ST-13",
+    "sous_theme": "Loi de finances",
+    "nom_document": "Loi de finances_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-024",
+    "type_document": "html",
+    "id_sous_theme": "ST-13",
+    "sous_theme": "Loi de finances",
+    "nom_document": "Loi de finances_html_2.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-025",
+    "type_document": "html",
+    "id_sous_theme": "ST-14",
+    "sous_theme": "Niches fiscales",
+    "nom_document": "Niches fiscales_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-026",
+    "type_document": "html",
+    "id_sous_theme": "ST-15",
+    "sous_theme": "Recettes fiscales",
+    "nom_document": "Recettes fiscales_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-027",
+    "type_document": "html",
+    "id_sous_theme": "ST-16",
+    "sous_theme": "Retraites - financement",
+    "nom_document": "Retraites - financement_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-028",
+    "type_document": "pdf",
+    "id_sous_theme": "ST-17",
+    "sous_theme": "Règles budgétaires européennes",
+    "nom_document": "CELEX_52026DC0950_FR_TXT.pdf",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-029",
+    "type_document": "html",
+    "id_sous_theme": "ST-18",
+    "sous_theme": "Régimes spéciaux de retraite",
+    "nom_document": "Régimes spéciaux de retraite_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-030",
+    "type_document": "pdf",
+    "id_sous_theme": "ST-18",
+    "sous_theme": "Régimes spéciaux de retraite",
+    "nom_document": "RegimesSpeciaux.pdf",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-031",
+    "type_document": "html",
+    "id_sous_theme": "ST-19",
+    "sous_theme": "Salaires des fonctionnaires",
+    "nom_document": "Salaires des fonctionnaires_html.html",
+    "date_extraction": "2026-11-20"
+  },
+  {
+    "id": "DOC-032",
+    "type_document": "html",
+    "id_sous_theme": "ST-19",
+    "sous_theme": "Salaires des fonctionnaires",
+    "nom_document": "Salaires des fonctionnaires_html_2.html",
+    "date_extraction": "2026-11-20"
+  }
+]

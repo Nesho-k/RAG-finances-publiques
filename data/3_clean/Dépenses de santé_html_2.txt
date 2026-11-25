@@ -1,0 +1,100 @@
+France, portrait social
+
+En 2024, la consommation de soins et de biens médicaux (CSBM) atteint 254,8 milliards d’euros, soit 8,7 % du produit intérieur brut et 3 723 euros par habitant (figure 1).
+
+Figure 1 – Consommation de soins et de biens médicaux (CSBM), en millions d’euros
+Soins et biens médicaux | 2014 | 2022 | 2023 | 2024 | Évolution 2024/2023 (en %)
+Soins hospitaliers | 84 799 | 110 741 | 117 385 | 120 783 | 2,9
+Soins hospitaliers publics | 65 564 | 85 930 | 91 279 | 93 644 | 2,6
+Soins hospitaliers privés | 19 236 | 24 811 | 26 107 | 27 139 | 4,0
+Soins ambulatoires (1) | 56 421 | 71 239 | 74 839 | 77 825 | 4,0
+Soins de médecins et de sages-femmes en cabinet libéral | 17 789 | 20 984 | 21 650 | 22 724 | 5,0
+Soins d'auxiliaires médicaux en cabinet libéral | 13 652 | 19 131 | 20 119 | 21 031 | 4,5
+Soins dentaires en cabinet libéral | 10 682 | 12 477 | 12 908 | 13 205 | 2,3
+Soins en centre de santé | 1 522 | 3 249 | 3 616 | 3 842 | 6,2
+Activités techniques et auxiliaires | 12 776 | 15 399 | 16 546 | 17 023 | 2,9
+Laboratoires de biologie médicale | 4 189 | 4 546 | 4 710 | 4 675 | -0,7
+Imagerie médicale | 4 119 | 4 771 | 5 125 | 5 485 | 7,0
+Transports sanitaires | 4 468 | 6 081 | 6 711 | 6 863 | 2,3
+Biens médicaux | 46 343 | 52 369 | 53 483 | 56 188 | 5,1
+Médicaments | 31 640 | 32 179 | 32 719 | 34 503 | 5,5
+Dispositifs médicaux | 14 703 | 20 191 | 20 764 | 21 685 | 4,4
+Optique médicale | 6 378 | 7 574 | 8 001 | 8 273 | 3,4
+Aides auditives | 920 | 1 975 | 1 953 | 1 952 | -0,1
+Autres dispositifs médicaux (2) | 7 405 | 10 642 | 10 809 | 11 461 | 6,0
+Ensemble | 187 564 | 234 349 | 245 707 | 254 796 | 3,7
+Part dans le PIB (en %) | 8,7 | 8,8 | 8,7 | 8,7 | ///
+/// : absence de résultat due à la nature des choses.
+1. Les soins ambulatoires ne comprennent pas les honoraires en cliniques privées, inclus dans les soins hospitaliers privés.
+2. Orthèses, prothèses autres qu'auditives, véhicules pour handicapés physiques, produits de nutrition, matériels et équipements médicaux, appareils et traitements respiratoires, pansements, masques médicaux.
+Note : Les données sont définitives avant 2022, semi-définitives pour 2023 et provisoires pour 2024.
+Lecture : En 2024, la consommation de soins hospitaliers s’élève à 93 644 millions d’euros dans le secteur public.
+Champ : France.
+Source : Drees, comptes de la santé.
+
+La CSBM augmente de 3,7 % en 2024. Comme les années précédentes (+4,8 % en 2023 et +4,0 % en 2022), cette croissance est plus dynamique qu’avant la crise sanitaire (+2,1 % en moyenne de 2010 à 2019). En 2024, cette croissance est alimentée d’abord par une augmentation en volume (+3,0 %) (figure 2) ; en particulier des médicaments (+7,3 %) et des activités techniques et auxiliaires (+4,2 %) qui regroupent les analyses en laboratoire, l’imagerie médicale et les transports sanitaires. La croissance de la CSBM résulte aussi d’un effet prix (+0,6 % en 2024), contrairement à la période entre 2010 et 2019, où le prix de la CSBM diminuait (-0,3 % par an en moyenne). La hausse des prix des soins et biens médicaux demeure toutefois inférieure à l’inflation totale en 2024 (+2,0 %).
+
+Figure 2 – Taux de croissance de la consommation de soins et de biens médicaux (CSBM) en valeur, en volume et en prix (en %)
+Année | Valeur | Volume | Prix
+2014 | 2,5 | 3,1 | -0,6
+2015 | 1,7 | 2,6 | -0,9
+2016 | 2,2 | 2,9 | -0,7
+2017 | 1,7 | 1,6 | 0,1
+2018 | 1,4 | 2,0 | -0,6
+2019 | 2,2 | 1,8 | 0,4
+2020 | 1,8 | -4,2 | 6,3
+2021 | 7,7 | 8,4 | -0,6
+2022 | 4,0 | 2,2 | 1,8
+2023 | 4,8 | 3,3 | 1,4
+2024 | 3,7 | 3,0 | 0,6
+Lecture : En 2024, la consommation de soins et de biens médicaux augmente de 3,7 % en valeur, dont 0,6 % de hausse des prix et 3,0 % de croissance en volume.
+Champ : France.
+Source : Drees, comptes de la santé.
+
+La consommation de soins hospitaliers, qui s’élève à 120,8 milliards d’euros en 2024, augmente pour la quatrième année consécutive (+2,9 %) mais moins fortement que les années précédentes (+6,0 % en 2023).
+
+Ce ralentissement s’explique par le fléchissement des prix (+0,5 % après +4,5 % en 2023) tandis que la dynamique en volume se maintient (+2,3 % après +2,1 % en 2023).
+
+La baisse du coût des dépenses énergétiques des établissements de santé contribue notamment au ralentissement des prix des soins hospitaliers publics. En volume, l’activité augmente dans les hôpitaux publics (+2,1 %) et dans les cliniques privées (+3,1 %).
+
+La consommation de soins ambulatoires s’élève à 77,8 milliards d’euros en 2024. Ces dépenses augmentent de 4,0 %, un rythme supérieur à celui des soins hospitaliers. Les soins ambulatoires ont fait l’objet de plusieurs revalorisations tarifaires en 2023 et en 2024. Les plus fortes progressions s’observent pour les soins de médecins et de sages-femmes en cabinet libéral (+5,0 %), les soins en centre de santé (+6,2 %) et l’imagerie médicale (+7,0 %). À l’inverse, les dépenses d’analyses en laboratoire diminuent (-0,7 %) sous l’effet d’importantes baisses de prix.
+
+La consommation de biens médicaux en ambulatoire s’établit à 56,2 milliards d’euros en 2024, et elle augmente de 5,1 %, davantage que les soins ambulatoires et les soins hospitaliers. Les médicaments en ambulatoire représentent près de deux tiers de ce montant (34,5 milliards d’euros) et sont en hausse (+5,5 %) pour la quatrième année consécutive, après une baisse continue entre 2014 et 2020. La croissance des dépenses de médicaments est principalement soutenue par l’innovation, avec l’arrivée sur le marché de nouveaux médicaments, compensant la tendance à la baisse des prix. La consommation de dispositifs médicaux (optique médicale, aides auditives, lits médicaux, pansements, etc.) s’élève à 21,7 milliards d’euros en 2024 et sa croissance demeure également soutenue (+4,4 %).
+
+En 2024, les administrations publiques demeurent le principal financeur de la CSBM : elles en financent 79,4 % (figure 3). Cette part diminue de 0,5 point par rapport à 2023, mais reste à un niveau supérieur à celui observé avant la crise sanitaire. Cette baisse est notamment liée au doublement des franchises et participations forfaitaires en mars 2024 à la charge des ménages.
+
+La part des organismes complémentaires (mutuelles, entreprises d’assurance et institutions de prévoyance) augmente légèrement, passant de 12,5 % en 2023 à 12,8 % en 2024. Elle demeure inférieure de 0,2 point à son niveau de 2019. Depuis la réforme du 100 % santé, la part de la CSBM financée par les ménages a diminué, passant de 8,6 % en 2019 à 7,8 % en 2024. Elle réaugmente toutefois légèrement en 2024, de +0,1 point par rapport à 2023. La participation directe des ménages aux dépenses de santé s’établit à 19,9 milliards d’euros en 2024, soit 292 euros en moyenne par habitant pour l’année (figure 4).
+
+Figure 3 – Structure du financement de la consommation de soins et de biens médicaux en 2024 (en %)
+Financeurs de la consommation de soins et biens médicaux | Part
+Administrations publiques (1) | 79,4
+Organismes complémentaires | 12,8
+Ménages | 7,8
+Ensemble | 100
+1. Y compris prestations complémentaires Alsace-Moselle et Camieg.
+Lecture : En 2024, les administrations publiques financent 79,4 % de la consommation de soins et de biens médicaux.
+Champ : France.
+Source : Drees, comptes de la santé.
+
+Figure 4 – Le reste à charge moyen des ménages en 2024 (en euros)
+Soins et biens médicaux | Reste à charge
+Soins en centre de santé | 5,8
+Aides auditives | 7,1
+Activités techniques et auxiliaires (1) | 12,5
+Soins hospitaliers publics | 13,3
+Dispositifs médicaux hors produits 100 % santé | 14,7
+Soins hospitaliers privés | 26,4
+Soins dentaires en cabinet libéral | 29,8
+Soins de médecins et de sages-femmes en cabinet libéral | 30,9
+Optique médicale | 33,4
+Soins d’auxiliaires médicaux en cabinet libéral | 54,4
+Médicaments en ambulatoire | 63,3
+Ensemble | 291,6
+1. Transports sanitaires, analyses biologiques en laboratoires et imagerie médicale.
+Lecture : En 2024, le reste à charge moyen par habitant s’élève à 291,6 euros, dont 63,3 euros de dépenses de médicaments en ambulatoire.
+Champ : France.
+Source : Drees, comptes de la santé.
+
+Définitions
+
+La consommation de soins et de biens médicaux (CSBM) représente la valeur totale des biens et services consommés sur le territoire français qui concourent directement au traitement d’une perturbation de l’état de santé. Ses trois principaux postes de dépenses sont les soins hospitaliers, les soins ambulatoires (soins en cabinet libéral et en centre de santé, examens en laboratoire de biologie médicale et centre d’imagerie, transports sanitaires) et les biens médicaux (médicaments et dispositifs médicaux). Elle exclut les soins de longue durée, les dépenses de prévention (dont les vaccins, la médecine du travail) et les frais de gestion du système de santé.

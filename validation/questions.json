@@ -1,0 +1,98 @@
+[
+  {
+    "id": "Q01",
+    "question": "Quel est le montant de la dette publique à la fin du deuxième trimestre 2026 ?",
+    "reponse_attendue": "3 595,5 milliards d’euros, soit 119 % du PIB",
+    "passage_source": "À la fin du deuxième trimestre 2026, la dette publique s’établit à 3 595,5 milliards d’euros, soit 119 % du PIB",
+    "source_id": "DOC-008",
+    "type": "normale"
+  },
+  {
+    "id": "Q02",
+    "question": "Quelle hausse budgétaire la loi de finances 2026 accorde-t-elle à l’Éducation nationale ?",
+    "reponse_attendue": "Une hausse de 200 millions d’euros",
+    "passage_source": "En effet, il consacre une hausse de 200 millions d'euros pour l'Éducation nationale et prévoit la création de près de 5 900 postes supplémentaires par rapport à 2025",
+    "source_id": "DOC-003",
+    "type": "normale"
+  },
+  {
+    "id": "Q03",
+    "question": "Combien d’agents travaillent dans la fonction publique fin 2024 ?",
+    "reponse_attendue": "5,9 millions d’agents",
+    "passage_source": "5,9 millions d'agents travaillent dans la fonction publique fin 2024, soit 32 800 de plus qu'en 2023 (+0,6%, après +1,1% en 2023)",
+    "source_id": "DOC-014",
+    "type": "normale"
+  },
+  {
+    "id": "Q04",
+    "question": "Quel est le montant de la dépense courante de santé au sens international (DCSi) en 2025 ?",
+    "reponse_attendue": "353,2 milliards d’euros",
+    "passage_source": "En 2025, la dépense courante de santé au sens international (DCSi) s’élève à 353,2 milliards d’euros",
+    "source_id": "DOC-012",
+    "type": "normale"
+  },
+  {
+    "id": "Q05",
+    "question": "Quel est le total des dépenses fiscales (niches fiscales) recensées en 2025 ?",
+    "reponse_attendue": "Plus de 90 milliards d’euros par an, soit environ 3 % du PIB",
+    "passage_source": "En 2025, le total des dépenses fiscales recensées dans le tome II du budget de l’État dépasse 90 milliards d’euros par an, soit environ 3% du PIB français",
+    "source_id": "DOC-025",
+    "type": "normale"
+  },
+  {
+    "id": "Q06",
+    "question": "Quel est le premier impôt collecté en France et quel montant rapporte-t-il en 2025 ?",
+    "reponse_attendue": "La TVA, avec environ 211 milliards d’euros de recettes",
+    "passage_source": "La TVA : elle reste le premier impôt collecté en France avec environ 211 milliards d'euros de recettes en 2025",
+    "source_id": "DOC-026",
+    "type": "normale"
+  },
+  {
+    "id": "Q07",
+    "question": "Quel montant de dépenses la Sécurité sociale verse-t-elle ?",
+    "reponse_attendue": "643 milliards d’euros",
+    "passage_source": "643 milliards d’euros de dépenses sont versés par la Sécurité sociale",
+    "source_id": "DOC-016",
+    "type": "normale"
+  },
+  {
+    "id": "Q08",
+    "question": "Quel est le salaire du président de la République ?",
+    "reponse_attendue": "16 038 € bruts mensuels (depuis janvier 2024)",
+    "passage_source": "Depuis janvier 2024 (date de la dernière augmentation générale des fonctionnaires), la rémunération est de 16 038 € bruts mensuels",
+    "source_id": "DOC-032",
+    "type": "normale"
+  },
+  {
+    "id": "Q09",
+    "question": "Combien de régimes spéciaux de retraite subsistent aujourd’hui en France ?",
+    "reponse_attendue": "Une dizaine de régimes spéciaux",
+    "passage_source": "Il subsiste à ce jour en France une dizaine de régimes spéciaux (près de 10 millions de bénéficiaires, actifs et retraités confondus)",
+    "source_id": "DOC-029",
+    "type": "normale"
+  },
+  {
+    "id": "Q10",
+    "question": "Quelle part des salaires bruts des fonctionnaires de l’État représentent les primes et indemnités en 2024 ?",
+    "reponse_attendue": "26 % du salaire brut (contre 22 % en 2012)",
+    "passage_source": "Les primes et indemnités représentent en moyenne 26 % du salaire brut des fonctionnaires de l’Etat en 2024 (contre 22 % en 2012)",
+    "source_id": "DOC-031",
+    "type": "normale"
+  },
+  {
+    "id": "Q11",
+    "question": "Quel est le salaire de Donald Trump ?",
+    "reponse_attendue": "Je ne sais pas (information absente du corpus)",
+    "passage_source": "",
+    "source_id": "",
+    "type": "piege"
+  },
+  {
+    "id": "Q12",
+    "question": "Quel est le montant du budget de la Suisse en 2026 ?",
+    "reponse_attendue": "Je ne sais pas (information absente du corpus)",
+    "passage_source": "",
+    "source_id": "",
+    "type": "piege"
+  }
+]

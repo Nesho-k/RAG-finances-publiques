@@ -1,0 +1,91 @@
+7) La loi organique relative aux lois de finances (LOLF)
+
+Promulguée le 1er août 2001 après avoir été votée quasiment à l’unanimité, la loi organique relative aux lois de finances (LOLF) détermine, conformément à l’article 34 de la Constitution, les règles relatives au budget et aux comptes de l’Etat, à leur présentation, à leur vote, à leur exécution et à leur contrôle.
+
+Elle a remplacé une ordonnance du 2 janvier 1959 et a été appliquée pour la première fois au budget de l’exercice 2006, adopté fin 2005. Les années 2001 à 2005 ont été consacrées à la mise en place des systèmes d’information et des nouvelles procédures ainsi qu’à à la formation des agents, nécessaires pour passer à une « gestion en mode LOLF ». La loi organique du 28 décembre 2021 a inséré les dispositions, amendées, de la loi organique du 17 décembre 2012 relative à la programmation des finances publiques, qui sont présentées dans une autre fiche, dans la LOLF.
+
+La LOLF avait notamment pour ambition de rénover les règles budgétaires et comptables, de renforcer le rôle du Parlement et d’améliorer les performances de l’Etat.
+
+Les règles budgétaires et comptables
+
+La LOLF a rénové la comptabilité budgétaire, dont les caractéristiques sont décrites dans une fiche spécifique. Avant 2006, les crédits budgétaires, qui correspondent à des autorisations de dépenser, étaient ventilés entre environ 800 chapitres, par nature de dépenses (entretien, frais de personnel, loyers…). Depuis la mise en œuvre de la LOLF, ils sont répartis entre 118 « programmes »1 (aide au développement, enseignement scolaire du 1er degré…) à l’intérieur desquels les crédits sont fongibles. Ces programmes sont associés à des objectifs de politiques publiques (2,7 objectifs par programme). Le « responsable de programme », qui gère les crédits d’un programme, peut donc désormais choisir entre acheter ou louer, réparer des équipements ou investir dans des matériels neufs pour atteindre les objectifs qui lui sont assignés. Les « missions » budgétaires rassemblent les programmes qui concourent à une même politique (défense, justice…).
+
+Cette « fongibilité des crédits par programme » n’est pas totale car, si les crédits de personnel peuvent être utilisés pour payer des dépenses d’une autre nature, l’opération inverse est interdite (on parle de « fongibilité asymétrique »). Elle a néanmoins facilité la gestion budgétaire. La fixation de plafonds d’emplois globaux au niveau de chaque ministère a aussi été un élément de souplesse par rapport à la situation antérieure où des plafonds étaient fixés à un niveau beaucoup plus fin.
+
+1 Pour le seul budget général dans la loi de finances initiale pour 2017.
+
+La LOLF a aussi imposé la tenue d’une comptabilité générale de l’Etat dont les règles ne se distinguent de celles applicables aux entreprises qu’à raison des spécificités de l’Etat. Elle est certifiée par la Cour des comptes et fait l’objet d’une fiche spécifique.
+
+La LOLF a enfin prévu la mise en place d’une comptabilité analytique, mais elle reste embryonnaire.
+
+Le vote des lois de finances, l’exécution du budget et le contrôle
+
+Le vote des lois de finances
+
+Le projet de loi de finances pour l’année N est transmis par le Gouvernement au Parlement avant le 1er mardi d’octobre de l’année N-1 avec les rapports qui lui sont annexés.
+
+Après un « article liminaire » qui présente la prévision de solde structurel de l’ensemble des administrations publiques, le projet de loi de finances est divisé en deux parties qui sont adoptées l’une après l’autre : la première comprend notamment l’autorisation de prélever l’impôt, les mesures fiscales nouvelles, les affectations de taxes à des organismes publics autres que l’Etat et l’article présentant l’équilibre général des recettes et dépenses budgétaires ; la deuxième comprend notamment les crédits par missions, les plafonds des autorisations d’emplois par ministères et des mesures diverses (modification des règles de calculs de prestations sociales, autorisation donnée au ministre des finances d’accorder des garanties de l’Etat…). Les ressources font l’objet d’un unique vote sur leur ensemble alors que les crédits sont votés par mission.
+
+Les délais d’examen et de vote par les deux Assemblées, en commission des finances puis en séance plénière, sont strictement encadrés.
+
+Le gouvernement peut modifier son projet de loi de finances par amendement au cours de sa discussion au Parlement. En application de l’article 40 de la Constitution, les propositions d’amendements parlementaires ne sont pas recevables s’ils ont pour conséquence « soit une diminution des ressources publiques, soit la création ou l’aggravation d’une charge publique ». Les parlementaires peuvent toutefois faire de telles propositions si elles sont gagées par des mesures nouvelles de hausse des impôts (ressources) ou par des suppressions de dépenses au sein de la même mission (charges).
+
+Les rapports annexés au projet de loi de finances sont nombreux et comprennent notamment : le « rapport économique, social et financier » qui présente les prévisions macroéconomiques et les perspectives d’évolution de l’ensemble des administrations publiques2 ; le rapport sur les « voies et moyens » dont le premier tome est consacré aux prévisions de recettes de l’Etat et le deuxième tome aux dépenses fiscales ; le rapport qui présente les évaluations préalables des modifications législatives proposées ; les « projets annuels de performance » par missions et programmes (cf. ci-dessous) ; les « documents de politique transversale » qui décrivent des politiques relevant de deux missions ou plus ; les « rapports jaunes » qui portent, à la demande du Parlement, sur les sujets les plus divers (personnels des cabinets ministériels, transferts financiers de l’Etat en faveur des collectivités territoriales etc.). L’avis du Haut Conseil des finances publiques est joint au projet de loi de finances.
+
+2 Ce rapport est aussi transmis, pour examen, à la Commission européenne.
+
+La loi spéciale budgétaire
+
+En application de l’article 47 de la Constitution, si la loi de finances n’a pas été déposée en temps utile pour être promulguée, la LOLF prévoit que le Gouvernement dépose avant le 19 décembre devant l’Assemblée nationale un « projet de loi spéciale l’autorisant à percevoir les impôts existants jusqu’au vote de la loi de finances de l’année ». Après avoir reçu cette autorisation, le Gouvernement prend des décrets ouvrant les crédits applicables aux « seuls services votés ». Ces derniers représentent « le minimum de crédits que le gouvernement juge indispensable pour poursuivre l’exécution des services publics dans les conditions qui ont été approuvées l’année précédente par le Parlement. Ils ne peuvent excéder le montant des crédits ouverts par la dernière loi de finances de l’année ».
+
+Dans un avis du 10 décembre 2024, le Conseil d’Etat considère que les mesures nouvelles fiscales ne relèvent pas de la loi spéciale et en conclut notamment que l’indexation du barème de l’impôt sur le revenu n’y a pas sa place. Il considère en revanche que l’autorisation pour l’Etat et les organismes concourant au financement de la sécurité sociale de recourir à l’emprunt peut figurer dans une loi spéciale car elle est indispensable à la continuité des services publics et des prestations sociales.
+
+Une loi spéciale pour 2025 a été votée en décembre 2024 dans ces conditions.
+
+L’exécution du budget
+
+En cours d’exécution, des « virements » peuvent modifier la répartition des crédits entre programmes d’un même ministère dans la limite de 2 % des crédits votés en loi de finances pour chacun des programmes concernés. Des « transferts » peuvent modifier la répartition des crédits entre programmes de ministères différents si les actions auxquelles ils sont affectés sont semblables. Ces virements et transferts sont effectués par décret sur le rapport du ministre des Finances et après information des commissions parlementaires concernées.
+
+En cas d'urgence, des « décrets d'avance » pris sur avis du Conseil d'Etat et après avis des commissions des finances peuvent ouvrir des crédits supplémentaires sans affecter l'équilibre budgétaire défini par la dernière loi de finances. A cette fin, les décrets d'avance procèdent à l'annulation de crédits ou constatent des recettes supplémentaires. Le montant cumulé des crédits ainsi ouverts ne peut excéder 1 % du total des crédits ouverts par la loi de finances de l'année. Les décrets d’avance font l’objet d’un rapport de la Cour des comptes et la ratification des modifications ainsi apportées aux crédits ouverts est demandée dans le prochain projet de loi de finances rectificative.
+
+Afin de prévenir une détérioration de l’équilibre budgétaire défini par la dernière loi de finances, des crédits peuvent faire l’objet d’un « décret d’annulation » sur le rapport du ministre des finances, après information des commissions concernées du Parlement, dans la limite de 1,5 % des crédits ouverts.
+
+Outre la ratification des décrets d’avance et d’annulation, les « lois de finances rectificative » peuvent modifier en cours d’année les crédits, les ressources et le solde budgétaire prévus. Leurs modalités d’examen et de vote sont proches de celles des lois de finances initiales mais les informations transmises par le Gouvernement sont beaucoup plus succinctes. La plupart des rapports annexés aux projets de lois de finances initiales ne sont pas refaits pour être annexés aux projets de lois de finances rectificatives. Un rapport économique, social et financier est présenté, mais il tient souvent sur une seule page. Il y a au moins une loi de finances rectificative dite « de fin de gestion » à la fin de l’exercice.
+
+La loi « relative aux résultats de la gestion et portant approbation des comptes de l’année » (anciennement « loi de règlement »), qui approuve et décrit les résultats de l’exécution, est généralement votée en juin ou juillet de l’année suivante. Le projet de loi transmis avant le 1er juin par le Gouvernement au Parlement est accompagné de plusieurs annexes et rapports qui présentent notamment : le développement des recettes et dépenses budgétaires ; le compte général de l’Etat pour l’exercice concerné ; l’avis du Haut Conseil des finances publiques sur le solde structurel des administrations publiques ; les rapports annuels de performance par missions et programmes (cf. ci-dessous).
+
+Des précisions sont données sur les outils de pilotage des dépenses de l’Etat en cours d’exécution dans une autre fiche.
+
+Le contrôle
+
+Les commissions des finances des deux Assemblées suivent et contrôlent l’exécution des lois de finances. Elles disposent à cet effet de pouvoirs très étendus d’investigation, sur pièces et sur place dans les administrations, et d’audition des ministres et directeurs d’administrations.
+
+Une mission d’assistance du Parlement est confiée à la Cour des comptes qui la remplit en réalisant des enquêtes à la demande des commissions des finances ; en certifiant la régularité, la sincérité et la fidélité de la comptabilité générale de l’Etat ; en remettant au Parlement un rapport, conjoint au dépôt du projet de loi de règlement, sur la gestion budgétaire de l’Etat au cours de l’exercice précédent ; en lui remettant un rapport sur les décrets d’avance ; en lui remettant un rapport sur la situation et les perspectives des finances publiques en vue du débat d’orientation des finances publiques qui a lieu en juin ou juillet. Au-delà de ces documents prévus par la LOLF, la Cour contrôle le bon emploi des fonds publics et concourt par la publication de ses rapports à l’information des citoyens et du Parlement.
+
+Le dispositif d’amélioration des performances de l’Etat
+
+Le projet annuel de performances
+
+Pour chaque programme, un « projet annuel de performances » (PAP) est annexé au projet de loi de finances. Il précise le « responsable du programme »3, ses actions, les coûts associés, les objectifs poursuivis, la répartition prévisionnelle des emplois rémunérés sur le programme, les résultats obtenus dans le passé et attendus pour l’année à venir.
+
+Les indicateurs de performance
+
+Ces résultats sont mesurés au moyen de 655 « indicateurs de performance » qui sont, en pratique, regroupés en trois catégories : les indicateurs de qualité des services publics (20 % du total des indicateurs), supposés refléter les attentes de leurs usagers, qui peuvent résulter d’enquêtes de satisfaction ; les indicateurs d’efficacité socio-économique (46 %), supposés refléter les attentes des citoyens, qui mesurent l’impact des politiques publiques au regard des grands objectifs que sont la qualité de l’environnement, la santé, l’emploi, le niveau de qualification, la sécurité publique etc. ; les indicateurs d’efficience de la gestion (34 %), supposés refléter les attentes des contribuables, qui rapportent les résultats plus directs des actions du programme à leur coût.
+
+3 Cette notion de responsable de programme, personne chargée d’ordonnancer les dépenses relevant du programme, ne figure pas dans la LOLF mais a été utilisée en pratique dès les premiers PAP.
+
+Le programme « infrastructures et services de transport » retient ainsi l’état des chaussées et ouvrages d’art parmi les indicateurs de qualité, la part des transports ferroviaires et fluviaux, supposés plus favorables à l’environnement, dans le transport terrestre de marchandises parmi les indicateurs d’efficacité socio-économique et le coût d’entretien au kilomètre des infrastructures parmi les indicateurs d’efficience de la gestion.
+
+A chacun de ces indicateurs est, en principe, associée une « cible » pour l’année à venir et le responsable du programme devrait être jugé sur les résultats obtenus au regard de cette cible. Un comité interministériel d’audit des programmes s’assure de la qualité des sources et méthodes utilisées pour construire ces indicateurs.
+
+La justification au premier euro
+
+La LOLF prévoit aussi que les PAP comprennent une « justification au premier euro » des crédits du programme qui oblige en principe les parlementaires à revenir sur les crédits votés antérieurement et à ne pas se contenter d’examiner les mesures nouvelles. Cette disposition a souvent été présentée comme une rupture par rapport à la pratique antérieure à la LOLF consistant à reconduire automatiquement les « services votés » dans les lois de finances précédentes pour ne débattre que des mesures nouvelles.
+
+Cette justification au premier euro est en pratique une ventilation comptable du coût du programme entre ses principaux éléments, assortie éventuellement d’explications sur les facteurs d’évolution de ces éléments de coûts. Ce n’est pas une justification économique de ces dépenses fondée sur leur utilité pour la collectivité nationale. La justification au premier euro pourrait ainsi justifier l’emploi de fonctionnaires pour creuser des trous puis les reboucher en expliquant que les crédits demandés sont nécessaires pour payer tant d’agents avec telle rémunération et acheter tant de pelles à tel prix l’unité.
+
+Le rapport annuel de performances
+
+Des « rapports annuels de performances » (RAP) sont annexés, pour chaque programme, à la loi relative aux résultats de la gestion et portant approbation des comptes de l’année. Ils précisent notamment : les mouvements de crédits opérés au cours de l’exécution du budget, les dépenses payées dans l’année et les coûts par action qui en résultent, la gestion des autorisations d’emplois, les résultats pour chaque indicateur de performances. Les RAP expliquent les écarts entre ces résultats et les cibles des PAP.
+
+Les RAP fournissent la décomposition comptable du coût du programme, comme la justification au premier euro des PAP mais sur la base des dépenses effectivement payées.

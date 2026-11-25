@@ -1,0 +1,99 @@
+Comprendre la fiscalité des entreprises
+
+Le "métier" de chef d'entreprise suppose de prendre à tout moment un certain nombre de décisions d'ordre fiscal. Pour éviter de se laisser surprendre et être en mesure de dialoguer avec les administrations concernées, il est indispensable de connaître et de comprendre les principes de base qui régissent la fiscalité des entreprises et les obligations comptables qui en découlent.
+
+Les entreprises sont soumises, principalement, à trois grands types d'imposition : l'imposition de leurs bénéfices, la contribution économique territoriale (CET) et la TVA.
+
+Selon les cas, elles peuvent également être soumises à certaines taxes complémentaires : taxe sur les salaires, taxe d'apprentissage, taxe sur l'affectation des véhicules à des fins économiques, etc.
+
+L'imposition des bénéfices
+
+En matière d'imposition des bénéfices, deux notions sont fréquemment confondues :
+- le type d'imposition : impôt sur le revenu (IR) ou impôt sur les sociétés (IS). Le choix dépend de la structure juridique et, le cas échéant, des options formulées par les dirigeants,
+- le mode de détermination du bénéfice imposable : régime de la micro-entreprise, régime du bénéfice réel (pour les bénéfices industriels et commerciaux) ou de la déclaration contrôlée (pour les bénéfices non commerciaux), qui dépend de la structure juridique, et de l'importance du chiffre d'affaires susceptible d'être réalisé.
+
+Le régime de la micro-entreprise
+
+Le régime de la micro-entreprise concerne uniquement les entreprises individuelles et pas les sociétés (SAS, SARL, etc.). Ce régime est particulièrement simple s'agissant de la détermination du bénéfice imposable : soit l'administration fiscale détermine elle-même le bénéfice imposable en appliquant aux recettes ou au chiffre d'affaires annuels déclaré par l'entrepreneur un abattement forfaitaire représentatif des frais professionnels, soit, sur option et sous condition de revenus, l'entrepreneur déclare chaque mois ou chaque trimestre son chiffre d'affaires et règle l'impôt sur le revenu en même temps que ses cotisations sociales. C'est ce qu'on appelle le "versement forfaitaire libératoire". Selon la nature de l'activité exercée, le versement libératoire correspondant à 1 %, 1,7 % ou 2,2 % du montant brut du chiffre d'affaires ou des recettes.
+
+Dans les deux cas, les obligations comptables sont réduites au minimum : tenue d'un livre journal détaillant les recettes et, le cas échéant, d'un registre annuel récapitulatif présentant le détail des achats.
+
+Le régime du bénéfice réel (BIC) / de la déclaration contrôlée (BNC)
+
+Au contraire, le régime du bénéfice réel (pour les BIC) ou celui de la déclaration contrôlée (pour les BNC), confère au chef d'entreprise la responsabilité de déterminer lui-même son bénéfice imposable, au vu de son chiffre d'affaires ou de ses recettes et de ses dépenses réelles.
+
+Il doit donc tenir une comptabilité complète, qui est plus ou moins complexe à mettre en œuvre en fonction de la taille de l'entreprise.
+
+La contribution économique territoriale (CET)
+
+La contribution économique territoriale (CET) est composée :
+- de la cotisation foncière des entreprises (CFE),
+- et de la cotisation sur la valeur ajoutée des entreprises (CVAE).
+
+La cotisation foncière des entreprises (CFE)
+
+Sous réserve d’exception, tout professionnel relève de la CFE dès lors qu’il exerce une activité professionnelle non salariée à titre habituel en France.
+
+Vous serez exonéré de CFE l'année de la création de votre entreprise. L’année suivante, votre base d’imposition sera réduite de moitié. Par la suite, vous serez soumis à la CFE dans les mêmes conditions que les autres entreprises.
+
+Les entreprises réalisant moins de 5 000 € de chiffre d'affaires par an sont exonérées de CFE ainsi que des droits additionnels pour le financement des chambres consulaires.
+
+La cotisation sur la valeur ajoutée des entreprises (CVAE)
+
+Un professionnel doit payer la CVAE lorsqu'il exerce une activité imposable à la CFE et qu’il réalise plus de 500 000 € de chiffre d'affaires annuel hors taxe.
+
+Néanmoins, l’entreprise dont le CA est supérieur à 152 500 € doit déclarer sa valeur ajoutée et ses effectifs salariés, via le formulaire n°1330-CVAE-SD.
+
+La déclaration s'effectue par voie dématérialisée sur le compte fiscal en ligne de l'entreprise, au plus tard le 2e jour ouvré suivant le 1er mai de l'année suivant celle au titre de laquelle la cotisation est due.
+
+La TVA
+
+La taxe sur la valeur ajoutée (TVA) est un impôt indirect sur la consommation qui concerne en principe tous les biens et services consommés ou utilisés en France.
+
+Les entreprises jouent un rôle de collecteurs d'impôt pour le compte de l'Etat : elles facturent la TVA à leurs clients et la reversent ensuite à l'administration fiscale, déduction faite de la TVA qu'elles auront payée sur leurs propres achats.
+
+C'est donc le consommateur final qui supporte la charge de la TVA, et non les entreprises qui concourent à la production des biens et services.
+
+Selon le montant du chiffre d’affaires (CA) réalisé par l’entreprise l’année précédente, les modalités de déclaration et de paiement de la TVA diffèrent :
+
+Franchise en base de TVA
+
+La franchise en base de TVA est un dispositif qui dispense les entreprises de la déclaration et du paiement de la TVA sur les prestations ou ventes qu'elles réalisent.
+
+Autrement dit, elles ne facturent pas et ne reversent aucune TVA à l’Etat.
+
+L’entreprise bénéficiant de la franchise en base doit faire figurer sur ses factures la mention suivante : "TVA non applicable, art. 293 B du CGI".
+
+Néanmoins, pour bénéficier de ce dispositif, son chiffre d’affaires ne doit pas dépasser certains seuils.
+
+Régime simplifié de TVA
+
+Lorsque son chiffre d’affaires dépasse les seuils de la franchise en base, l’entreprise relève de plein droit du régime simplifié de TVA. Elle a aussi la possibilité d’opter volontairement pour ce régime.
+
+L’entreprise doit effectuer une seule déclaration de TVA annuelle (imprimé 3517-S-SD) au plus tard le 2e jour ouvré suivant le 1er mai (clôture au 31 décembre N) ou dans les trois mois de la clôture de l'exercice si celui-ci ne correspond pas à l'année civile.
+
+L’entreprise verse ensuite des acomptes semestriels en juillet et décembre calculés sur la base de la TVA payée l'année précédente. Les acomptes correspondent à 55 % du montant de la TVA payée en N-1 pour celui de juillet et à 40 % pour celui de décembre. Le solde est versé au moment du dépôt de la déclaration annuelle.
+
+Remarque : si le montant de TVA versée l'année précédente est inférieur à 1 000 €, l’entreprise sera dispensée du paiement des acomptes et paiera le montant total dû lors du dépôt de la déclaration.
+
+Pour être éligible au régime simplifié de TVA, le chiffre d’affaires hors taxes ne doit pas dépasser les plafonds suivants :
+
+Activités concernées | Période d'appréciation du seuil de CA | Seuils de CA pour 2026
+Activités de vente de biens corporels, de restauration ou de mise à disposition de logements | Année civile précédente | 945 000 €
+Activités de vente de biens corporels, de restauration ou de mise à disposition de logements | Année civile en cours | 1 040 000 €
+Autres activités | Année civile précédente | 286 000 €
+Autres activités | Année civile en cours | 323 000 €
+
+Autrement dit, lorsque le seuil de 945 000 € (ou 286 000 €) est dépassé au titre d'une année civile, le régime simplifié cesse de s'appliquer à compter du 1er janvier de l'année suivante.
+
+Toutefois, si le chiffre d'affaires de l'exercice comptable en cours excède le seuil renforcé de 1 040 000 € (ou 323 000 €), ce régime cesse de s'appliquer à compter du 1er jour du mois de dépassement.
+
+A compter du 1er janvier 2027, l’actuel régime simplifié de déclaration sera supprimé. Par principe, les déclarations de TVA devront être déposées chaque mois. Néanmoins, en l’absence de dépassement de certains seuils de chiffre d’affaires (CA), il sera possible, sauf option contraire, de déposer des déclarations trimestrielles.
+
+Régime réel normal de TVA
+
+L’entreprise relève de plein droit du régime réel normal lorsque son chiffre d'affaires hors taxes excède les plafonds mentionnées précédemment.
+
+Dans ce cas, elle doit effectuer ses déclarations et paiements de TVA tous les mois (formulaire CA3). Lorsque la TVA est inférieure à 4 000 € par an, l’entreprise peut opter pour des déclarations et paiements trimestriels.
+
+Une entreprise qui relève de plein droit du régime réel simplifié peut opter volontairement pour le régime réel normal. L'option facultative pour le régime réel normal s’exerce dans les mêmes conditions que l’option pour le régime réel simplifié.

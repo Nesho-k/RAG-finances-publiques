@@ -1,0 +1,10 @@
+# Environnement virtuel (ne jamais versionner)
+/rag_m1/
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
